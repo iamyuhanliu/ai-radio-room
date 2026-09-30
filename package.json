@@ -1,0 +1,16 @@
+{
+  "name": "ai-radio-room",
+  "private": true,
+  "type": "module",
+  "description": "每天自动抓取 AI 新闻，归类后放进一个温暖的 3D 房间里的老电视。",
+  "scripts": {
+    "daily": "node pipeline/run.js",
+    "mock": "node pipeline/run.js --mock",
+    "dev": "npx --yes serve public -l 5173"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.129.0",
+    "fast-xml-parser": "^5.11.2"
+  }
+}
