@@ -1,0 +1,21 @@
+{
+ "updatedAt": "2026-09-30T11:16:36.174Z",
+ "days": [
+  {
+   "date": "2026-09-30",
+   "raw": {
+    "kol": 9,
+    "co": 37,
+    "prod": 18,
+    "paper": 19
+   },
+   "total": 83,
+   "big": false,
+   "keyword": "大模型",
+   "head": {
+    "title": "OpenAI发布GPT 6.1 Sol模型",
+    "cat": "co"
+   }
+  }
+ ]
+}

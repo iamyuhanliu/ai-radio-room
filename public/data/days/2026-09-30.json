@@ -1,0 +1,308 @@
+{
+ "date": "2026-09-30",
+ "generatedAt": "2026-09-30T11:16:36.172Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@thsottiaux：Dots Agent数百万级部署在即",
+    "sum": "Dots创始人分享数百万级Agent部署计划，用户反馈显示Agent在学习用户偏好后明显提升有用性。展现Agent在实际应用中的快速迭代和改进。",
+    "topic": "Agent",
+    "heat": 78,
+    "url": "https://x.com/thsottiaux/status/2105105086506840421",
+    "source": "X · @thsottiaux",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2105105086506840421",
+     "handle": "thsottiaux",
+     "name": "Tibo"
+    },
+    "publishedAt": "2026-09-30T01:18:58.000Z",
+    "keys": [
+     "x.com/thsottiaux/status/2105105086506840421"
+    ]
+   },
+   {
+    "title": "@thsottiaux：澄清Dots定价和使用政策",
+    "sum": "Dots创始人澄清产品定价机制，主Agent 24小时在线且包含在订阅内，独立Agent工作消耗额度。说明产品商业模式的设计细节。",
+    "topic": "Agent",
+    "heat": 71,
+    "url": "https://x.com/thsottiaux/status/2105102312167575701",
+    "source": "X · @thsottiaux",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2105102312167575701",
+     "handle": "thsottiaux",
+     "name": "Tibo"
+    },
+    "publishedAt": "2026-09-30T01:07:56.000Z",
+    "keys": [
+     "x.com/thsottiaux/status/2105102312167575701"
+    ]
+   },
+   {
+    "title": "@emollick：OpenAI生态策略反复无常",
+    "sum": "观察OpenAI每年推出新的第三方生态（插件、GPT、应用、新插件等）但随后部分放弃的循环模式，反映出生态建设的不稳定性。对开发者可信度有重要启示。",
+    "topic": "平台策略、生态建",
+    "heat": 56,
+    "url": "https://x.com/emollick/status/2105042717432799701",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2105042717432799701",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-09-29T21:11:08.000Z",
+    "keys": [
+     "x.com/emollick/status/2105042717432799701"
+    ]
+   },
+   {
+    "title": "@emollick：OpenAI产品线混乱导致用户困惑",
+    "sum": "指出OpenAI在统一ChatGPT应用后反而推出过多重叠功能（Dot、Spaces、Pages、本地/云端任务等），导致产品生态变得复杂混乱。反映产品策略的协调问题。",
+    "topic": "产品策略、用户体",
+    "heat": 54,
+    "url": "https://x.com/emollick/status/2105184972537528538",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2105184972537528538",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-09-30T06:36:24.000Z",
+    "keys": [
+     "x.com/emollick/status/2105184972537528538"
+    ]
+   },
+   {
+    "title": "AI研究员警示超级智能存在灭绝风险",
+    "sum": "前OpenAI/DeepMind研究员Geoffrey Irving等多位专家表示人类灭绝风险约50%。学术界对AI风险的严肃警告，引发更广泛的安全讨论。",
+    "topic": "AI安全",
+    "heat": 50,
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "source": "The Verge",
+    "alsoBy": [],
+    "publishedAt": "2026-09-29T17:35:03.000Z",
+    "keys": [
+     "theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "OpenAI发布GPT 6.1 Sol模型",
+    "sum": "OpenAI推出GPT 6.1 Sol，性能接近Astra级别但价格仅为五分之一。这是模型成本优化的重要进展，可能改变AI应用的经济性。",
+    "topic": "大模型",
+    "heat": 98,
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "source": "Hacker News",
+    "alsoBy": [
+     "OpenAI"
+    ],
+    "discussion": "https://news.ycombinator.com/item?id=49896586",
+    "publishedAt": "2026-09-29T17:06:45.000Z",
+    "keys": [
+     "openai.com/index/introducing-gpt-6-1-sol"
+    ]
+   },
+   {
+    "title": "AI数据中心繁荣需要年均6万亿营收支撑",
+    "sum": "分析指出AI产业要为数据中心投资盛景买单，需要达到年均6万亿美元收入。反映当前AI投资与实际收益的不匹配问题。",
+    "topic": "算力投资",
+    "heat": 74,
+    "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=49898952",
+    "publishedAt": "2026-09-29T19:21:25.000Z",
+    "keys": [
+     "thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres"
+    ]
+   },
+   {
+    "title": "Meta新Muse Agent忽视用户权限设置",
+    "sum": "报道指Meta新AI Agent产品存在权限绕过问题。反映AI应用在隐私和权限管理上仍存在设计缺陷。",
+    "topic": "隐私安全",
+    "heat": 64,
+    "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=49893709",
+    "publishedAt": "2026-09-29T14:15:24.000Z",
+    "keys": [
+     "appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions"
+    ]
+   },
+   {
+    "title": "OpenAI DevDay 2026发布20+项更新",
+    "sum": "OpenAI DevDay 2026展示了包括GPT-6 Astra、ChatGPT、Codex、API接口、安全工具等20多项重要产品和功能更新，涵盖模型、开发工具和企业安全等多个方向。",
+    "topic": "OpenAI、模",
+    "heat": 58,
+    "url": "https://openai.com/index/devday-2026-recap",
+    "source": "OpenAI",
+    "alsoBy": [],
+    "publishedAt": "2026-09-29T10:00:00.000Z",
+    "keys": [
+     "openai.com/index/devday-2026-recap"
+    ]
+   },
+   {
+    "title": "OpenAI发布Dots对标Meta Muse",
+    "sum": "OpenAI在DevDay发布Dots，作为支持多应用集成的全天候AI助手，直接竞争Meta的Muse产品。标志Agent竞争进入主流厂商。",
+    "topic": "Agent产品",
+    "heat": 55,
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "source": "The Verge",
+    "alsoBy": [],
+    "publishedAt": "2026-09-29T17:15:00.000Z",
+    "keys": [
+     "theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "Dots：全天候智能Agent产品上线",
+    "sum": "Dots是新推出的常驻智能Agent产品，支持用户指派长期任务。这是Agent应用从概念向实际产品转变的重要案例。",
+    "topic": "Agent",
+    "heat": 86,
+    "url": "https://openai.com/index/introducing-dots/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=49896604",
+    "publishedAt": "2026-09-29T17:07:57.000Z",
+    "keys": [
+     "openai.com/index/introducing-dots"
+    ]
+   },
+   {
+    "title": "AIHOT：AI行业热点自动发现框架",
+    "sum": "GitHub开源项目，提供可定制的行业热点自动发现和日报生成框架。用户可替换数据源和筛选标准，快速搭建垂直领域新闻站。",
+    "topic": "开源项目",
+    "heat": 76,
+    "url": "https://github.com/KKKKhazix/AIHOT",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-09-28T23:40:05.000Z",
+    "keys": [
+     "github.com/kkkkhazix/aihot"
+    ]
+   },
+   {
+    "title": "jevgrep：用自然语言搜索代码的CLI工具",
+    "sum": "开源工具让开发者用自然语言描述搜索代码功能。集成Jev智能发现文件和上下文，辅助coding Agent工作。",
+    "topic": "代码助手",
+    "heat": 70,
+    "url": "https://github.com/dzhng/jevgrep",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-09-26T04:06:56.000Z",
+    "keys": [
+     "github.com/dzhng/jevgrep"
+    ]
+   },
+   {
+    "title": "Jeeves：推理增强Jev决策模型",
+    "sum": "新工具通过推理能力改进Jev决策模型。在代码理解和决策场景中提升Agent表现。",
+    "topic": "开源项目",
+    "heat": 67,
+    "url": "https://github.com/PostHog/jeeves",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=49891290",
+    "publishedAt": "2026-09-29T11:13:54.000Z",
+    "keys": [
+     "github.com/posthog/jeeves"
+    ]
+   },
+   {
+    "title": "Dots：开源Web Agent浏览器",
+    "sum": "开源实现拥有专用浏览器、不易被拦截的AI Agent。提供Dots产品的开源替代方案和参考实现。",
+    "topic": "开源项目",
+    "heat": 64,
+    "url": "https://github.com/feder-cr/dots",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-09-29T23:06:00.000Z",
+    "keys": [
+     "github.com/feder-cr/dots"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "Web和移动对话AI Agent的隐私分析",
+    "sum": "学术论文分析对话AI Agent在Web和移动场景下的隐私问题。为开发者理解AI应用的隐私风险提供重要参考。",
+    "topic": "隐私安全",
+    "heat": 73,
+    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=49890226",
+    "publishedAt": "2026-09-29T09:03:41.000Z",
+    "keys": [
+     "jorgegarciaherrero.com/wp-content/interactivos/20260916-prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
+    ]
+   },
+   {
+    "title": "全景视觉-语言导航模型PanoVLN",
+    "sum": "研究利用全景图像改进视觉-语言导航任务。全景观测能提供更完整的视觉上下文，增强导航决策质量。",
+    "topic": "多模态",
+    "heat": 69,
+    "url": "https://huggingface.co/papers/2609.34759",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-09-27T20:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2609.34759"
+    ]
+   },
+   {
+    "title": "Omni-IO Skills：通用Agent的多模态能力框架",
+    "sum": "提出通用Agent跨文本、图像、音频等多模态的统一技能框架。解决当前Agent能力分散、协调困难的问题。",
+    "topic": "Agent",
+    "heat": 67,
+    "url": "https://huggingface.co/papers/2609.31847",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-09-24T20:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2609.31847"
+    ]
+   },
+   {
+    "title": "VoxMem：大型音频语言模型的多模态记忆基准",
+    "sum": "为大型音频语言模型的多模态记忆能力建立基准测试。音频对话系统需要从音色、语调等信息恢复上下文，超越文本记录范围。",
+    "topic": "多模态",
+    "heat": 66,
+    "url": "https://huggingface.co/papers/2609.32607",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-09-25T20:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2609.32607"
+    ]
+   },
+   {
+    "title": "EngiWorld：工程域Agent能力基准",
+    "sum": "构建涵盖6个工程领域、1301个专家任务的基准。评估通用Agent在专业工程中的自动化潜力和局限。",
+    "topic": "Agent",
+    "heat": 61,
+    "url": "https://huggingface.co/papers/2609.37686",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-09-28T20:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2609.37686"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 9,
+  "co": 37,
+  "prod": 18,
+  "paper": 19
+ }
+}
