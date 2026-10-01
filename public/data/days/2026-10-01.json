@@ -1,0 +1,290 @@
+{
+ "date": "2026-10-01",
+ "generatedAt": "2026-10-01T11:43:21.336Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@emollick：Agent客服谈判时代已来",
+    "sum": "指出AI Agent将涌入企业客服系统，通过语音和聊天进行自动化价格协商，帮助用户争取更好交易。预测这类故事将大规模病毒式传播。",
+    "topic": "Agent应用、",
+    "heat": 58,
+    "url": "https://x.com/emollick/status/2105370153466863709",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2105370153466863709",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-09-30T18:52:15.000Z",
+    "keys": [
+     "x.com/emollick/status/2105370153466863709"
+    ]
+   },
+   {
+    "title": "@swyx：Flow让硬件工程像Git一样协作",
+    "sum": "@swyx认为Flow为硬件工程带来了Git+GitHub为软件工程带来的效果，通过对齐数千个利益相关者加速复杂的高价值管道工作（汽车、火箭等）。",
+    "topic": "硬件工程,Age",
+    "heat": 50,
+    "url": "https://x.com/swyx/status/2105348724331606411",
+    "source": "X · @swyx",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2105348724331606411",
+     "handle": "swyx",
+     "name": "swyx"
+    },
+    "publishedAt": "2026-09-30T17:27:06.000Z",
+    "keys": [
+     "x.com/swyx/status/2105348724331606411"
+    ]
+   },
+   {
+    "title": "@rauchg：Vercel AI Gateway揭示全球AI令牌流动真相",
+    "sum": "指出大多数令牌聚合器存在噪音问题，Vercel AI Gateway基于40万付费客户的真实使用数据，成为了解全球AI令牌流动的最可信数据源。",
+    "topic": "AI基础设施,成",
+    "heat": 43,
+    "url": "https://x.com/rauchg/status/2105476587756138942",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2105476587756138942",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-10-01T01:55:11.000Z",
+    "keys": [
+     "x.com/rauchg/status/2105476587756138942"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "Google推出Gemini 4 Argon模型",
+    "sum": "Google推出新前沿模型Gemini 4 Argon，首先向网络安全人员推出。优惠定价为输入$2/百万token、输出$10/百万token。该模型发布后获得广泛关注，表明大模型市场竞争加剧。",
+    "topic": "大模型发布",
+    "heat": 88,
+    "url": "https://x.com/OfficialLoganK/status/2105388054274080946",
+    "source": "X · @OfficialLoganK",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2105388054274080946",
+     "handle": "OfficialLoganK",
+     "name": "Logan Kilpatrick"
+    },
+    "publishedAt": "2026-09-30T20:03:23.000Z",
+    "keys": [
+     "x.com/officiallogank/status/2105388054274080946"
+    ]
+   },
+   {
+    "title": "OpenAI GPT-6.1 Sol需求激增需扩容",
+    "sum": "OpenAI推出GPT-6.1 Sol模型在ChatGPT和API服务中需求创历史新高。官方已增加服务器容量应对高负载，速度预计改善至前一天的两倍。",
+    "topic": "大模型发布",
+    "heat": 84,
+    "url": "https://x.com/thsottiaux/status/2105464274747527543",
+    "source": "X · @thsottiaux",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2105464274747527543",
+     "handle": "thsottiaux",
+     "name": "Tibo"
+    },
+    "publishedAt": "2026-10-01T01:06:15.000Z",
+    "keys": [
+     "x.com/thsottiaux/status/2105464274747527543"
+    ]
+   },
+   {
+    "title": "ChatGPT支持直接构建部署MCP服务器",
+    "sum": "OpenAI在ChatGPT中新增功能，用户可直接构建并部署MCP服务器，支持访问控制和共享。简化了Agent工具集成流程。",
+    "topic": "工具集成",
+    "heat": 67,
+    "url": "https://x.com/thsottiaux/status/2105519215092584786",
+    "source": "X · @thsottiaux",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2105519215092584786",
+     "handle": "thsottiaux",
+     "name": "Tibo"
+    },
+    "publishedAt": "2026-10-01T04:44:34.000Z",
+    "keys": [
+     "x.com/thsottiaux/status/2105519215092584786"
+    ]
+   },
+   {
+    "title": "@rauchg：Vercel推进Connect生态连接",
+    "sum": "Vercel宣传Connect框架助力开发者为20M+开发者和数十亿Agent提供服务。强调代码免费后，连接基础设施成为核心竞争力，提升Agent和应用的安全性。",
+    "topic": "基础设施、开发者",
+    "heat": 59,
+    "url": "https://x.com/rauchg/status/2105390544096841942",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2105390544096841942",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-09-30T20:13:16.000Z",
+    "keys": [
+     "x.com/rauchg/status/2105390544096841942"
+    ]
+   },
+   {
+    "title": "Flow Engineering融资7.5亿美元",
+    "sum": "硬件设计AI Agent公司Flow Engineering获得7.5亿美元融资，估值达7.5亿美元，由Valor、Atreides、Sequoia等投资，体现AI在硬件工程领域的应用潜力。",
+    "topic": "融资,硬件设计,",
+    "heat": 51,
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "source": "TechCrunch",
+    "alsoBy": [],
+    "publishedAt": "2026-09-30T21:07:40.000Z",
+    "keys": [
+     "techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "OpenAI发布ChatGPT原生插件框架",
+    "sum": "OpenAI推出MCP Extensions框架，允许开发者构建与ChatGPT集成的原生功能插件。提升ChatGPT的扩展能力，为第三方集成降低开发门槛。",
+    "topic": "插件生态、Cha",
+    "heat": 64,
+    "url": "https://github.com/openai/mcp-extensions",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-09-29T00:45:42.000Z",
+    "keys": [
+     "github.com/openai/mcp-extensions"
+    ]
+   },
+   {
+    "title": "Magnitude：自优化Agent推理引擎（YC S25）",
+    "sum": "Magnitude是为Agent设计的自优化推理引擎，支持Mac/Linux/Windows多平台，性能比llama.cpp快2倍。针对Agent工作负载优化推理效率。",
+    "topic": "推理引擎",
+    "heat": 63,
+    "url": "https://github.com/magnitudedev/magnitude",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=49911995",
+    "publishedAt": "2026-09-30T17:37:40.000Z",
+    "keys": [
+     "github.com/magnitudedev/magnitude"
+    ]
+   },
+   {
+    "title": "43种电影风格的Claude Opus代码生成框架",
+    "sum": "开源项目展示用Claude Opus 5.5纯代码生成43种电影风格的短片，包含可复用的风格提示词和样片。利用AI代理实现自动化视频创作，为创意工作者提供新的工具选择。",
+    "topic": "视频生成、Age",
+    "heat": 63,
+    "url": "https://github.com/lemomo-ai/lemo-opuscar",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-09-26T10:10:41.000Z",
+    "keys": [
+     "github.com/lemomo-ai/lemo-opuscar"
+    ]
+   },
+   {
+    "title": "universal-modder：Claude游戏修改工具集",
+    "sum": "为Claude提供游戏修改工具链和MCP集成，支持游戏逆向、生成式艺术创作和游戏内测试。将Agent能力拓展到游戏开发领域。",
+    "topic": "Agent工具",
+    "heat": 62,
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-09-30T05:00:35.000Z",
+    "keys": [
+     "github.com/rehan-remade/universal-modder"
+    ]
+   },
+   {
+    "title": "Claude Code商业视频制作工具包",
+    "sum": "融合独立评论循环、28部发布影片的运动设计原理和音效设计的AI视频制作工具包。为企业提供高质量视频生成能力，已集成Three.js和脚本框架。",
+    "topic": "视频生成、Cla",
+    "heat": 62,
+    "url": "https://github.com/echris6/motion-video-kit",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-09-27T14:11:14.000Z",
+    "keys": [
+     "github.com/echris6/motion-video-kit"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "UniEvo-VL：多模态模型自进化框架",
+    "sum": "提出UniEvo-VL框架，让多模态模型在测试时利用自我批评反馈进行自我改进。通过自我蒸馏而非依赖外部教师模型，实现模型的统一自进化能力。",
+    "topic": "多模态模型",
+    "heat": 75,
+    "url": "https://huggingface.co/papers/2609.38721",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2609.38721"
+    ]
+   },
+   {
+    "title": "自进化Agent中的\"共同作弊\"问题诊断",
+    "sum": "识别自进化搜索Agent中的\"共同作弊\"失败模式：提议器和求解器逐渐在共同错误上达成一致，导致内部奖励提升但外部正确性无改善。提出问题诊断和缓解方法。",
+    "topic": "Agent系统",
+    "heat": 70,
+    "url": "https://huggingface.co/papers/2609.39102",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2609.39102"
+    ]
+   },
+   {
+    "title": "AREX-2：长地平线反思任务增强Agent自进化",
+    "sum": "提出AREX-2框架，通过反思和长地平线执行两项互补能力增强LLM Agent的测试时自进化能力。支持多轮迭代优化。",
+    "topic": "Agent系统",
+    "heat": 64,
+    "url": "https://huggingface.co/papers/2609.38288",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-09-28T20:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2609.38288"
+    ]
+   },
+   {
+    "title": "EvoDuet：双层进化搜索与任务求解框架",
+    "sum": "提出EvoDuet方法，通过双层优化同时进化解决方案和搜索查询，增强LLM在科学发现任务中利用外部知识的能力，解决迭代中知识冗余问题。",
+    "topic": "Agent系统",
+    "heat": 62,
+    "url": "https://huggingface.co/papers/2609.40340",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2609.40340"
+    ]
+   },
+   {
+    "title": "Mid-Harness：模型与环境交互的行动缓冲优化",
+    "sum": "研究在模型与终端交互边界分配测试时计算资源，提升Terminal Agent的行动执行可靠性和轨迹成功率。针对错误命令导致环境污染问题。",
+    "topic": "Agent系统",
+    "heat": 61,
+    "url": "https://huggingface.co/papers/2609.39982",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-09-29T20:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2609.39982"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 3,
+  "co": 21,
+  "prod": 19,
+  "paper": 22
+ }
+}

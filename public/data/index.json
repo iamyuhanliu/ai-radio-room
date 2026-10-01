@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T11:16:36.174Z",
+ "updatedAt": "2026-10-01T11:43:21.337Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -14,6 +14,22 @@
    "keyword": "大模型",
    "head": {
     "title": "OpenAI发布GPT 6.1 Sol模型",
+    "cat": "co"
+   }
+  },
+  {
+   "date": "2026-10-01",
+   "raw": {
+    "kol": 3,
+    "co": 21,
+    "prod": 19,
+    "paper": 22
+   },
+   "total": 65,
+   "big": false,
+   "keyword": "大模型发布",
+   "head": {
+    "title": "Google推出Gemini 4 Argon模型",
     "cat": "co"
    }
   }
