@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T11:43:21.337Z",
+ "updatedAt": "2026-11-09T14:05:55.157Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -30,6 +30,22 @@
    "keyword": "大模型发布",
    "head": {
     "title": "Google推出Gemini 4 Argon模型",
+    "cat": "co"
+   }
+  },
+  {
+   "date": "2026-11-09",
+   "raw": {
+    "kol": 10,
+    "co": 17,
+    "prod": 18,
+    "paper": 23
+   },
+   "total": 68,
+   "big": false,
+   "keyword": "代码助手、金融科",
+   "head": {
+    "title": "高盛要求员工停用Claude代码助手",
     "cat": "co"
    }
   }

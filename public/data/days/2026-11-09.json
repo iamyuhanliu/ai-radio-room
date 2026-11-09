@@ -1,0 +1,294 @@
+{
+ "date": "2026-11-09",
+ "generatedAt": "2026-11-09T14:05:55.155Z",
+ "items": {
+  "kol": [
+   {
+    "title": "为什么AI泡沫论不成立",
+    "sum": "HN用户讨论AI泡沫是否真实存在，获得大量互动和讨论。体现了开发者和业界对AI投资和市场现状的反思和争议。",
+    "topic": "市场评论、AI投",
+    "heat": 73,
+    "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50418975",
+    "publishedAt": "2026-11-08T23:44:36.000Z",
+    "keys": [
+     "matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html"
+    ]
+   },
+   {
+    "title": "@ThePrimeagen：LLM如何影响开发效率",
+    "sum": "@ThePrimeagen观察到使用LLM后简单任务耗时增加，从10分钟变为40分钟。24万浏览量和大量互动表现出开发者对AI工具效率问题的广泛关注。",
+    "topic": "代码助手、开发体",
+    "heat": 73,
+    "url": "https://x.com/ThePrimeagen/status/2119507049805742558",
+    "source": "X · @ThePrimeagen",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2119507049805742558",
+     "handle": "ThePrimeagen",
+     "name": "ThePrimeagen"
+    },
+    "publishedAt": "2026-11-08T19:07:13.000Z",
+    "keys": [
+     "x.com/theprimeagen/status/2119507049805742558"
+    ]
+   },
+   {
+    "title": "为什么我不在编码中使用LLM",
+    "sum": "HN讨论贴收集开发者对在编码工作中使用LLM的顾虑和经验。232条评论反映出社区对LLM代码能力的质疑和实际问题讨论。",
+    "topic": "代码助手、开发工",
+    "heat": 67,
+    "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50412591",
+    "publishedAt": "2026-11-08T12:14:10.000Z",
+    "keys": [
+     "polso.info/why-i-will-not-be-using-llms-coding"
+    ]
+   },
+   {
+    "title": "Agent记忆需要可观测性标准",
+    "sum": "HN讨论贴提出Agent记忆管理需要类似OpenTelemetry的行业标准。反映出Agent系统的可观测性和可调试性成为新的技术痛点。",
+    "topic": "Agent、可观",
+    "heat": 66,
+    "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50411467",
+    "publishedAt": "2026-11-08T08:40:23.000Z",
+    "keys": [
+     "lorekit.io/blog/open-agent-memory-format"
+    ]
+   },
+   {
+    "title": "@AndrejKarpathy：周末用Claude打造视频推荐平台",
+    "sum": "Andrej Karpathy用Claude Opus 5.5在一周末内，从4300万条HN评论中精选出6454个视频，效果超越YouTube官方推荐。展示大模型在数据处理和策展中的实战价值。",
+    "topic": "应用案例,Cla",
+    "heat": 49,
+    "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-08T14:23:00.000Z",
+    "keys": [
+     "the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "高盛要求员工停用Claude代码助手",
+    "sum": "高盛集团正在其银行家和交易员中撤销Claude代码工具的使用权限。这反映出金融机构对AI工具安全性和合规性的谨慎态度，以及在生产环境中应用AI的实际挑战。",
+    "topic": "代码助手、金融科",
+    "heat": 82,
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50415628",
+    "publishedAt": "2026-11-08T18:16:07.000Z",
+    "keys": [
+     "thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
+    ]
+   },
+   {
+    "title": "OpenAI融资110亿美元估值125B",
+    "sum": "OpenAI完成110亿美元融资，公司估值达1.25万亿美元。反映出AI领域持续的资本关注和OpenAI作为行业领导者的融资能力。",
+    "topic": "融资、OpenA",
+    "heat": 72,
+    "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50413822",
+    "publishedAt": "2026-11-08T14:49:23.000Z",
+    "keys": [
+     "247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought"
+    ]
+   },
+   {
+    "title": "Apple限制工程师AI计算预算为每天200美元",
+    "sum": "Apple对内部工程师的日度AI计算开支设置200美元上限，反映科技公司对AI基础设施成本的管控和内部AI应用的实际开支规模。",
+    "topic": "成本控制,AI基",
+    "heat": 67,
+    "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50421426",
+    "publishedAt": "2026-11-09T05:30:11.000Z",
+    "keys": [
+     "stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
+    ]
+   },
+   {
+    "title": "制药公司CEO对AI治疗前景持怀疑",
+    "sum": "报道显示制药高管对硅谷关于AI治疗疾病的承诺持谨慎态度。反映出AI在医疗领域的实际应用与业界期望之间存在差距。",
+    "topic": "医疗AI、行业应",
+    "heat": 60,
+    "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50415817",
+    "publishedAt": "2026-11-08T18:43:07.000Z",
+    "keys": [
+     "wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c"
+    ]
+   },
+   {
+    "title": "ChatGPT桌面版转发本地SSH密钥到远程机器",
+    "sum": "ChatGPT Desktop新增功能支持Agent转发本地SSH密钥到远程机器，实现本地凭证认证，便于推送私有仓库等高权限操作。",
+    "topic": "代码助手,安全认",
+    "heat": 60,
+    "url": "https://news.ycombinator.com/item?id=50422628",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50422628",
+    "publishedAt": "2026-11-09T08:17:49.000Z",
+    "keys": [
+     "news.ycombinator.com/item?id=50422628"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "agent-autoloop：自主命令行Agent框架",
+    "sum": "开源项目实现让命令行Agent在后台自主工作，仅在需要决策时向用户请示。4245星标反映出开发者对自主化Agent工具的强烈需求。",
+    "topic": "Agent、自动",
+    "heat": 81,
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-03T08:02:11.000Z",
+    "keys": [
+     "github.com/kkkkhazix/agent-autoloop"
+    ]
+   },
+   {
+    "title": "Llama-modchip：64GB内存运行284B模型",
+    "sum": "开源项目实现在无GPU的64GB RAM设备上运行大型DeepSeek模型。展示了通过优化技术降低AI模型运行门槛的进展。",
+    "topic": "推理优化、开源项",
+    "heat": 75,
+    "url": "https://github.com/synchopate/llama-modchip",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50411961",
+    "publishedAt": "2026-11-08T10:22:04.000Z",
+    "keys": [
+     "github.com/synchopate/llama-modchip"
+    ]
+   },
+   {
+    "title": "Cinecode：AI代码生成电影工具",
+    "sum": "开源项目使用AI Agent自动编写脚本、生成视频帧、设计音效，最终输出完整视频文件。展示AI在创意内容生成中的应用突破，1823星标表明市场兴趣。",
+    "topic": "视频生成、创意工",
+    "heat": 72,
+    "url": "https://github.com/sarpstar/cinecode",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-03T10:08:16.000Z",
+    "keys": [
+     "github.com/sarpstar/cinecode"
+    ]
+   },
+   {
+    "title": "Pinky：人工可干预的手机Agent框架",
+    "sum": "开源项目实现AI Agent控制手机操作，用户可在关键决策点干预。1300星标显示人机协作Agent框架获得开发者认可。",
+    "topic": "Agent、人机",
+    "heat": 69,
+    "url": "https://github.com/DIYgod/pinky",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-06T16:53:14.000Z",
+    "keys": [
+     "github.com/diygod/pinky"
+    ]
+   },
+   {
+    "title": "Sand3D：为LLM优化的Python 3D建模库",
+    "sum": "开源库提供LLM友好的3D建模接口，便于AI系统进行3D内容创作。1564星标表明3D+AI的结合引起开发者关注。",
+    "topic": "3D建模、AI工",
+    "heat": 68,
+    "url": "https://github.com/Sandflow-ai/sand3d",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-03T08:23:03.000Z",
+    "keys": [
+     "github.com/sandflow-ai/sand3d"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "从自主Agent到认知共生体：AI增强人类智能",
+    "sum": "论文探讨AI从完全自主向人机协作范式的转变。主张通过认知共生体模型帮助人类解决遗忘、注意力缺陷等固有限制，代表了Agent研究的新方向。",
+    "topic": "Agent、人机",
+    "heat": 74,
+    "url": "https://huggingface.co/papers/2611.05376",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-03T13:59:52.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.05376"
+    ]
+   },
+   {
+    "title": "VFlash：快速准确的视觉规划方法",
+    "sum": "论文提出VFlash方法通过Flash原语加速视觉规划生成。解决视觉语言模型在机器人和自动驾驶任务中的推理效率问题，在物理AI领域有重要应用。",
+    "topic": "机器人、推理优化",
+    "heat": 71,
+    "url": "https://huggingface.co/papers/2611.08449",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-04T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.08449"
+    ]
+   },
+   {
+    "title": "SLA：空间语言动作模型的持续预训练",
+    "sum": "论文研究如何在VLA基础模型中建立空间理解能力。通过持续预训练增强机器人操纵的语义理解和精确空间控制，推进具身AI的发展。",
+    "topic": "机器人、VLA模",
+    "heat": 69,
+    "url": "https://huggingface.co/papers/2611.08373",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-04T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.08373"
+    ]
+   },
+   {
+    "title": "DPDM：解耦的预测决策架构",
+    "sum": "论文提出解耦预测决策制定框架，用共享预训练学习器处理异构Agent决策问题。通过语言模型表示和通用条件预测器增强Agent的决策能力。",
+    "topic": "Agent、决策",
+    "heat": 66,
+    "url": "https://huggingface.co/papers/2611.02075",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-10-31T20:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.02075"
+    ]
+   },
+   {
+    "title": "SplatAnything：高斯点云跨场景归一化",
+    "sum": "论文解决3D高斯溅射方法在不同场景尺度下的一致性问题。通过空间归一化改进前馈3DGS的泛化性能，对3D重建有实际意义。",
+    "topic": "3D重建、高斯溅",
+    "heat": 63,
+    "url": "https://huggingface.co/papers/2611.08264",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-05T11:37:29.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.08264"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 10,
+  "co": 17,
+  "prod": 18,
+  "paper": 23
+ }
+}
