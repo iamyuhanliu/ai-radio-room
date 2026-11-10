@@ -1,0 +1,313 @@
+{
+ "date": "2026-11-10",
+ "generatedAt": "2026-11-10T13:39:48.939Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@alexalbert__：用新模型检测代码缺陷的方法",
+    "sum": "分享了一个提示词技巧：让大模型读取整个项目并找出所有破损、不一致、低效或过时的代码。用户表示这个方法非常有效，可以用于评估每个新发布的模型。",
+    "topic": "代码助手,提示工",
+    "heat": 78,
+    "url": "https://x.com/alexalbert__/status/2119884951550386671",
+    "source": "X · @alexalbert__",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2119884951550386671",
+     "handle": "alexalbert__",
+     "name": "Alex Albert"
+    },
+    "publishedAt": "2026-11-09T20:08:52.000Z",
+    "keys": [
+     "x.com/alexalbert__/status/2119884951550386671"
+    ]
+   },
+   {
+    "title": "@emollick：Fable 5.2生成数千个AI驱动的3D世界",
+    "sum": "用Fable 5.2生成450个由门户连接的3D世界，包含25000个Agent自主创建的场景，灵感来自书籍、艺术和地点。展示了AI在代码生成和世界构建中的创意能力。",
+    "topic": "Agent,3D",
+    "heat": 71,
+    "url": "https://x.com/emollick/status/2119918307457577163",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2119918307457577163",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-09T22:21:25.000Z",
+    "keys": [
+     "x.com/emollick/status/2119918307457577163"
+    ]
+   },
+   {
+    "title": "@rauchg：MCP Events完善跨会话通知机制",
+    "sum": "Vercel CEO强调MCP的通用协议潜力。MCP Events补充缺失的回调能力，允许Agent跨会话接收事件通知。例如Agent部署后可被告知后续相关事件。",
+    "topic": "MCP,Agen",
+    "heat": 65,
+    "url": "https://x.com/rauchg/status/2119891138450755670",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2119891138450755670",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-11-09T20:33:27.000Z",
+    "keys": [
+     "x.com/rauchg/status/2119891138450755670"
+    ]
+   },
+   {
+    "title": "@emollick：Fable 5.2性能突破多项关键基准",
+    "sum": "Fable 5.2在ECI、Remote Labor（端到端自由职业任务）和RoboDojo（机器人控制）三个关键基准上突破既有趋势线。展示该模型在复杂端到端任务中的显著能力提升。",
+    "topic": "大模型性能,Ag",
+    "heat": 64,
+    "url": "https://x.com/emollick/status/2120000888974766501",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2120000888974766501",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-10T03:49:34.000Z",
+    "keys": [
+     "x.com/emollick/status/2120000888974766501"
+    ]
+   },
+   {
+    "title": "@amasad：Vibe Coding 获得 Paul Graham 认可",
+    "sum": "Amasad 展示了 Vibe Coding（通过 AI 快速原型开发）的能力给 Paul Graham，获得好评。这种编程方式正逐步被业界认可为提高开发效率的新范式。",
+    "topic": "Vibe Cod",
+    "heat": 63,
+    "url": "https://x.com/amasad/status/2119965240066752682",
+    "source": "X · @amasad",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2119965240066752682",
+     "handle": "amasad",
+     "name": "Amjad Masad"
+    },
+    "publishedAt": "2026-11-10T01:27:54.000Z",
+    "keys": [
+     "x.com/amasad/status/2119965240066752682"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "谷歌Gemini将用户私密文件转给人工审核",
+    "sum": "谷歌将Gemini从Drive和Email中获取的个人文件发送给人工审核人员。这引发隐私问题的关注，是近期AI产品隐私争议的重要事件。",
+    "topic": "隐私,大模型服务",
+    "heat": 75,
+    "url": "https://github.com/thisisme6598/gemini_files/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50429426",
+    "publishedAt": "2026-11-09T18:24:38.000Z",
+    "keys": [
+     "github.com/thisisme6598/gemini_files"
+    ]
+   },
+   {
+    "title": "Muse发布Ember：最小最高效模型",
+    "sum": "Muse发布了新的紧凑型模型Ember，专注于在受限资源下的高效推理。代表了模型优化和压缩方向的进展。",
+    "topic": "紧凑模型,推理效",
+    "heat": 68,
+    "url": "https://research.meta.ai/blog/muse-ember",
+    "source": "Hacker News",
+    "alsoBy": [
+     "Simon Willison"
+    ],
+    "discussion": "https://news.ycombinator.com/item?id=50429024",
+    "publishedAt": "2026-11-09T17:58:46.000Z",
+    "keys": [
+     "simonwillison.net/2026/nov/10/muse-ember",
+     "research.meta.ai/blog/muse-ember"
+    ]
+   },
+   {
+    "title": "Claude Fable 5.2刷新Artificial Analysis最高分",
+    "sum": "Anthropic的Claude Fable 5.2在Artificial Analysis评分中获得65分，创下该基准的最高纪录。反映了新一代模型性能的快速提升。",
+    "topic": "大模型,模型评测",
+    "heat": 67,
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50431144",
+    "publishedAt": "2026-11-09T20:04:55.000Z",
+    "keys": [
+     "artificialanalysis.ai/models/claude-fable-5-2"
+    ]
+   },
+   {
+    "title": "Fireworks AI安全漏洞影响Notion等客户",
+    "sum": "Fireworks AI发生安全泄露，波及Notion等主要客户。涉及底层AI基础设施的安全事件，对依赖该服务的应用生态造成影响。",
+    "topic": "安全事件,AI基",
+    "heat": 62,
+    "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50437106",
+    "publishedAt": "2026-11-10T07:19:38.000Z",
+    "keys": [
+     "notion.com/help/security-incident-involving-a-third-party-ai-vendor"
+    ]
+   },
+   {
+    "title": "CoreWeave债券收益率升至16%，AI芯片市场风险凸显",
+    "sum": "CoreWeave债券收益率达到16%高位，反映市场对AI算力基础设施公司的信用风险评估上升。显示AI芯片投资泡沫风险的信号。",
+    "topic": "算力,融资",
+    "heat": 57,
+    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50435660",
+    "publishedAt": "2026-11-10T03:20:06.000Z",
+    "keys": [
+     "cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "poki：AI Agent直接操作真实iPhone工具",
+    "sum": "本地MCP服务器和Agent，无需越狱或额外硬件即可让AI Agent直接操作真实iPhone。提供完整的设备交互能力，支持Agent自动化真实移动设备任务。",
+    "topic": "Agent工具,",
+    "heat": 67,
+    "url": "https://github.com/JosssphZhou/poki",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-05T15:04:31.000Z",
+    "keys": [
+     "github.com/josssphzhou/poki"
+    ]
+   },
+   {
+    "title": "Vork：为Agent设计的无头3D引擎",
+    "sum": "开源项目Vork是为AI Agent设计的无头3D和VFX引擎，用Rust开发。支持Agent在虚拟环境中的交互和可视化。",
+    "topic": "Agent工具,",
+    "heat": 64,
+    "url": "https://github.com/voyager-so/vork",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-05T22:37:07.000Z",
+    "keys": [
+     "github.com/voyager-so/vork"
+    ]
+   },
+   {
+    "title": "phoneuse：Linux远程操作iPhone的Agent工具",
+    "sum": "跨平台工具：Linux PC通过AirPlay显示+蓝牙HID操作iPhone，支持CLI和Agent调用。无需修改设备，提供CLI和Skill接口供编码Agent使用。",
+    "topic": "Agent工具,",
+    "heat": 59,
+    "url": "https://github.com/lxe/phoneuse",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-07T01:28:30.000Z",
+    "keys": [
+     "github.com/lxe/phoneuse"
+    ]
+   },
+   {
+    "title": "DeepSeek Harness：一句话描述游戏即可自动生成",
+    "sum": "用户可以用一句话描述小游戏概念，DeepSeek Harness 会自动生成可玩游戏，支持 AI 美术置换和一键发布到 GitHub Pages 或 Cloudflare。展示了 AI 在游戏开发中的快速迭代能力。",
+    "topic": "游戏生成,AI工",
+    "heat": 59,
+    "url": "https://github.com/ZSeven-W/dsh-game-studio",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-05T08:18:29.000Z",
+    "keys": [
+     "github.com/zseven-w/dsh-game-studio"
+    ]
+   },
+   {
+    "title": "devvm：为每个项目隔离沙箱开发环境",
+    "sum": "为每个项目创建隔离VM沙箱，预装项目工具链，供人类或编码Agent开始工作。解决项目依赖冲突和环境管理问题，适合多项目并行和Agent自动化。",
+    "topic": "开发工具,编码A",
+    "heat": 58,
+    "url": "https://github.com/devvmhq/devvm",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-06T07:02:30.000Z",
+    "keys": [
+     "github.com/devvmhq/devvm"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "异构触觉表示学习用于通用灵巧操纵",
+    "sum": "提出方法让机器人理解来自不同触觉传感器的信息，摆脱对特定传感器的依赖。这是实现具身智能关键的感知能力研究。",
+    "topic": "具身智能,触觉感",
+    "heat": 64,
+    "url": "https://huggingface.co/papers/2611.12806",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-08T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.12806"
+    ]
+   },
+   {
+    "title": "LowRAM：KV缓存压缩加速自回归解码",
+    "sum": "发现注意力头中值高度可从键预测，提出值缓存摊销方法。通过在键-值维度上利用冗余性，减少KV缓存内存占用，允许更大批量和吞吐，加速长文本生成。",
+    "topic": "推理优化,KV缓",
+    "heat": 63,
+    "url": "https://huggingface.co/papers/2611.07025",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-04T14:00:06.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.07025"
+    ]
+   },
+   {
+    "title": "OneTrans-GSR：统一排序和混排的生成式推荐方案",
+    "sum": "提出用单个自回归Transformer统一处理推荐系统中的重排和混排阶段，替代现有的手工规则和低容量模型。在电商、短视频、直播等多类目混排场景中，用一个模型端到端生成最终曝光列表。",
+    "topic": "推荐系统,Tra",
+    "heat": 62,
+    "url": "https://huggingface.co/papers/2611.04720",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-02T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.04720"
+    ]
+   },
+   {
+    "title": "LongBanana：长文本多参考图像合成基准",
+    "sum": "首个专家设计的长文本多参考图像合成基准，包含90个精心设计的任务。评估Agent在检索分散视觉证据、排除干扰项、绑定实体关系、组合多参考生成协调图像的能力。",
+    "topic": "图像生成,长文本",
+    "heat": 61,
+    "url": "https://huggingface.co/papers/2611.06856",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-04T13:11:56.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.06856"
+    ]
+   },
+   {
+    "title": "Reframe：多教师蒸馏框架优化视觉Agent推理",
+    "sum": "针对视觉Agent在工具使用中的观察遗漏和动作不准确问题，提出Reframe后训练框架。通过多教师在线策略蒸馏，将观察状态对齐作为关键，改进Agent的视觉推理能力和工具调用效果。",
+    "topic": "Agent,视觉",
+    "heat": 60,
+    "url": "https://huggingface.co/papers/2611.12886",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-08T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.12886"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 20,
+  "co": 32,
+  "prod": 18,
+  "paper": 21
+ }
+}

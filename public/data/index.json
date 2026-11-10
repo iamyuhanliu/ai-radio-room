@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T14:05:55.157Z",
+ "updatedAt": "2026-11-10T13:39:48.941Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -47,6 +47,22 @@
    "head": {
     "title": "高盛要求员工停用Claude代码助手",
     "cat": "co"
+   }
+  },
+  {
+   "date": "2026-11-10",
+   "raw": {
+    "kol": 20,
+    "co": 32,
+    "prod": 18,
+    "paper": 21
+   },
+   "total": 91,
+   "big": false,
+   "keyword": "代码助手,提示工",
+   "head": {
+    "title": "@alexalbert__：用新模型检测代码缺陷的方法",
+    "cat": "kol"
    }
   }
  ]
