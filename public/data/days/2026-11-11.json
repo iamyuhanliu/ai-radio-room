@@ -1,0 +1,290 @@
+{
+ "date": "2026-11-11",
+ "generatedAt": "2026-11-11T12:52:30.179Z",
+ "items": {
+  "kol": [
+   {
+    "title": "AI生成代码导致代码库脆弱",
+    "sum": "HN讨论AI辅助编程对代码质量的影响。帖子获得595个赞和559条评论，反映开发者对AI生成代码长期可维护性的担忧，值得关注业界共识。",
+    "topic": "代码助手,代码质",
+    "heat": 77,
+    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50438318",
+    "publishedAt": "2026-11-10T10:25:58.000Z",
+    "keys": [
+     "evanxmerz.com/post/ai-usage-generates-a-fragile-codebase"
+    ]
+   },
+   {
+    "title": "@Hugging Face Irene Solaiman：开源AI面临安全威胁",
+    "sum": "Hugging Face高管警告，针对开源AI平台的网络攻击激增可能迫使提升安全限制，威胁开源社区的开放性和开发者可达性。",
+    "topic": "开源、安全、社区",
+    "heat": 39,
+    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "source": "TechCrunch",
+    "alsoBy": [],
+    "publishedAt": "2026-11-10T13:00:00.000Z",
+    "keys": [
+     "techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns"
+    ]
+   },
+   {
+    "title": "@Zeno Rocha：Agent 体验设计思考",
+    "sum": "Resend 创意负责人 Zeno Rocha 分享 Agent 应用设计经验，讨论从答案引擎优化到 Agent 体验的转变，以及如何设计文档和工具帮助 Claude Code 等 AI 助手更好地工作。",
+    "topic": "Agent",
+    "heat": 37,
+    "url": "https://latent.space/p/resend/",
+    "source": "Latent Space",
+    "alsoBy": [],
+    "publishedAt": "2026-11-10T20:05:17.000Z",
+    "keys": [
+     "latent.space/p/resend"
+    ]
+   },
+   {
+    "title": "独立游戏节陪审团与《Big Walk》就AI使用意见分歧",
+    "sum": "IGF部分评委发表声明拒评任何使用AI的游戏，《Big Walk》开发者随后表示仅在最后阶段「谨慎」使用AI解决难题，引发社区对AI在创意工作中应用的讨论。",
+    "topic": "游戏、AI伦理、",
+    "heat": 33,
+    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "source": "The Verge",
+    "alsoBy": [],
+    "publishedAt": "2026-11-10T17:32:47.000Z",
+    "keys": [
+     "theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai"
+    ]
+   },
+   {
+    "title": "@Steven Strogatz：AI如何改变数学",
+    "sum": "数学家Steven Strogatz探讨新书《Big Math》，讨论当AI成为数学\"预言机\"时数学学科面临的变革和影响。",
+    "topic": "AI哲学、数学、",
+    "heat": 33,
+    "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+    "source": "Ars Technica",
+    "alsoBy": [],
+    "publishedAt": "2026-11-10T20:30:01.000Z",
+    "keys": [
+     "arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "追踪Anthropic发现的安全漏洞",
+    "sum": "社区跟踪Anthropic在安全研究中发现的漏洞信息。获420个赞和203条评论，反映AI模型安全问题日益受关注。",
+    "topic": "AI安全,漏洞",
+    "heat": 76,
+    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50447074",
+    "publishedAt": "2026-11-10T22:17:56.000Z",
+    "keys": [
+     "vulncheck.com/blog/anthropic-glasswing-november-update"
+    ]
+   },
+   {
+    "title": "Gemini 4 Carbon模型发布",
+    "sum": "谷歌发布Gemini 4 Carbon模型。这是谷歌重要的模型更新，旨在提供更高效的推理能力，获287个赞。",
+    "topic": "大模型,谷歌",
+    "heat": 75,
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+    "source": "Hacker News",
+    "alsoBy": [
+     "Google DeepMind"
+    ],
+    "discussion": "https://news.ycombinator.com/item?id=50442303",
+    "publishedAt": "2026-11-10T16:07:15.000Z",
+    "keys": [
+     "deepmind.google/blog/gemini-4-carbon-is-now-available",
+     "blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available"
+    ]
+   },
+   {
+    "title": "苹果推出本地AI模型运行应用",
+    "sum": "苹果发布新的Mac应用以简化本地AI模型部署。获319个赞和304条评论，代表消费端AI落地的新进展。",
+    "topic": "本地推理,Mac",
+    "heat": 74,
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50446520",
+    "publishedAt": "2026-11-10T21:25:03.000Z",
+    "keys": [
+     "9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy"
+    ]
+   },
+   {
+    "title": "Claude推出协作工具套件",
+    "sum": "Anthropic发布Claude Whiteboards、Sheets和Data等新功能。扩展Claude的应用场景，获247个赞和178条评论。",
+    "topic": "Claude,产",
+    "heat": 65,
+    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50443716",
+    "publishedAt": "2026-11-10T17:55:07.000Z",
+    "keys": [
+     "claude.com/resources/articles/sheets-whiteboards-data"
+    ]
+   },
+   {
+    "title": "Anthropic IPO定价范围70-78美元",
+    "sum": "Anthropic确认IPO定价区间为70-78美元/股，完全摊薄基础下估值最高达1.404万亿美元，有望成为历史最大IPO之一。",
+    "topic": "融资、IPO",
+    "heat": 55,
+    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "source": "TechCrunch",
+    "alsoBy": [],
+    "publishedAt": "2026-11-10T14:01:39.000Z",
+    "keys": [
+     "techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "现代Web前端为编码Agent优化",
+    "sum": "Show HN项目展示如何用现代Web原生特性（CSS Highlights、dialog、field-sizing等）替代过时JS依赖，优化编码代理的前端体验，获388个赞。",
+    "topic": "代码助手,开源项",
+    "heat": 71,
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "source": "Show HN",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50443812",
+    "publishedAt": "2026-11-10T18:01:15.000Z",
+    "keys": [
+     "github.com/googlechrome/modern-web-guidance"
+    ]
+   },
+   {
+    "title": "YouTube AI视频编辑系统：JSON驱动动画工作流",
+    "sum": "开源项目将提词器与编辑Agent结合，通过JSON驱动的工作流实现自动化动画和动画制作。适合内容创作者和视频制作自动化场景。",
+    "topic": "视频编辑,Age",
+    "heat": 55,
+    "url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-06T21:33:17.000Z",
+    "keys": [
+     "github.com/dhruvthakur11/youtube-ai-video-editing-system"
+    ]
+   },
+   {
+    "title": "开源AI应用生成器：Next.js全栈开发",
+    "sum": "开源项目提供AI驱动的应用生成器，可快速构建Next.js全栈应用，集成托管和认证功能。降低全栈应用开发门槛。",
+    "topic": "开源工具,应用开",
+    "heat": 53,
+    "url": "https://github.com/AbhiKamane/ai-app-builder-open",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-06T20:33:39.000Z",
+    "keys": [
+     "github.com/abhikamane/ai-app-builder-open"
+    ]
+   },
+   {
+    "title": "NVIDIA Auto Ontology的MCP服务器",
+    "sum": "将NVIDIA Auto Ontology语义层和个人知识库集成为MCP服务器，支持Claude和ChatGPT等客户端，无需LLM API密钥。",
+    "topic": "MCP,知识管理",
+    "heat": 52,
+    "url": "https://github.com/gogoymh/auto-ontology-mcp",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-06T12:09:07.000Z",
+    "keys": [
+     "github.com/gogoymh/auto-ontology-mcp"
+    ]
+   },
+   {
+    "title": "Aircad：浏览器专业CAD建模工具",
+    "sum": "浏览器内运行的专业CAD系统，深度集成AI，支持草图、NURBS建模和脚本API。实现专业级设计文档在线制作。",
+    "topic": "3D建模,浏览器",
+    "heat": 52,
+    "url": "https://aircad.com",
+    "source": "Show HN",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50441350",
+    "publishedAt": "2026-11-10T15:01:19.000Z",
+    "keys": [
+     "aircad.com"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "机器人操作的上下文学习框架",
+    "sum": "论文提出World In-Context Learning方法让机器人通过上下文演示学习操作技能。相比训练策略，避免过拟合特定场景分布，获48个upvote。",
+    "topic": "机器人,Agen",
+    "heat": 58,
+    "url": "https://huggingface.co/papers/2611.12885",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-08T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.12885"
+    ]
+   },
+   {
+    "title": "LLM Agent外部记忆的降级问题",
+    "sum": "论文分析LLM Agent使用外部记忆时的记忆诱导退化问题，提出证据链接记忆方案。解决Agent从历史经验学习时的可靠性问题。",
+    "topic": "Agent,推理",
+    "heat": 55,
+    "url": "https://huggingface.co/papers/2611.14320",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-09T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.14320"
+    ]
+   },
+   {
+    "title": "动作图形生成评估基准发布",
+    "sum": "推出MotionGraphicsBench基准，包含100个专家精选样本，用于评估LLM从静态图像生成动画的能力。填补运动图形生成评估的空白。",
+    "topic": "多模态模型,基准",
+    "heat": 55,
+    "url": "https://huggingface.co/papers/2611.10592",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-06T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.10592"
+    ]
+   },
+   {
+    "title": "比特级Ising编辑修复语言模型",
+    "sum": "论文提出Tree-Ising方法通过稀疏离散优化修复模型权重。相比Agent修复方法更高效，用于语言模型的错误纠正。",
+    "topic": "模型优化,推理",
+    "heat": 53,
+    "url": "https://huggingface.co/papers/2611.14210",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-09T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.14210"
+    ]
+   },
+   {
+    "title": "深度LLM跨层KV共享优化方法",
+    "sum": "提出DepthGraft方法通过层级化KV重构缓解深层信息稀释问题，在不增加计算的前提下改进深层模型性能。优化深度扩展的LLM架构。",
+    "topic": "LLM优化,架构",
+    "heat": 53,
+    "url": "https://huggingface.co/papers/2611.03142",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-01T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.03142"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 5,
+  "co": 51,
+  "prod": 18,
+  "paper": 22
+ }
+}
