@@ -1,0 +1,306 @@
+{
+ "date": "2026-11-12",
+ "generatedAt": "2026-11-12T13:53:57.917Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@OfficialLoganK：AI agents发现未知玛雅遗址",
+    "sum": "用户分享用AI agents发现未映射的玛雅考古遗址的经历。展示了AI在实际应用中的创新价值，引发了广泛讨论。",
+    "topic": "Agent应用",
+    "heat": 85,
+    "url": "https://pietromiotti.com/latest/maya-site",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50452455",
+    "publishedAt": "2026-11-11T12:05:22.000Z",
+    "keys": [
+     "pietromiotti.com/latest/maya-site"
+    ]
+   },
+   {
+    "title": "@ThePrimeagen：学生过度依赖Claude的困境",
+    "sum": "开发者分享学生因Claude停机无法完成作业的现象。反映了AI工具在教育中的深度渗透和潜在风险。",
+    "topic": "AI教育",
+    "heat": 64,
+    "url": "https://x.com/ThePrimeagen/status/2120578652853170268",
+    "source": "X · @ThePrimeagen",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2120578652853170268",
+     "handle": "ThePrimeagen",
+     "name": "ThePrimeagen"
+    },
+    "publishedAt": "2026-11-11T18:05:23.000Z",
+    "keys": [
+     "x.com/theprimeagen/status/2120578652853170268"
+    ]
+   },
+   {
+    "title": "@fchollet：AI 教育应助力学生思维发展而非替代",
+    "sum": "Francois Chollet 认为教育 AI 应优化过程而非结果，帮助学生开发思维能力而非外包给 AI，点赞对话式 AI 在个性化教学中的潜力和正确实现方式。",
+    "topic": "教育AI",
+    "heat": 60,
+    "url": "https://x.com/fchollet/status/2120673529951813985",
+    "source": "X · @fchollet",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2120673529951813985",
+     "handle": "fchollet",
+     "name": "François Chollet"
+    },
+    "publishedAt": "2026-11-12T00:22:24.000Z",
+    "keys": [
+     "x.com/fchollet/status/2120673529951813985"
+    ]
+   },
+   {
+    "title": "退休储蓄在推高AI泡沫",
+    "sum": "讨论退休资金流入AI投资如何推高估值和市场风险。提出了对AI商业化可持续性的质疑。",
+    "topic": "市场泡沫",
+    "heat": 59,
+    "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50457164",
+    "publishedAt": "2026-11-11T19:06:43.000Z",
+    "keys": [
+     "lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble"
+    ]
+   },
+   {
+    "title": "@emollick：编程是AI最快扩散的领域",
+    "sum": "AI代理在编程领域的应用正在快速改变这个行业，速度超过历史上任何职业技术采纳率。这反驳了AI扩散需要很长时间的论点，显示了AI对某些知识型工作的深刻影响。",
+    "topic": "代码助手,AI应",
+    "heat": 59,
+    "url": "https://x.com/emollick/status/2120641914206892424",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2120641914206892424",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-11T22:16:46.000Z",
+    "keys": [
+     "x.com/emollick/status/2120641914206892424"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "美联航禁止AI agents代为订票",
+    "sum": "美联航明确禁止AI agents为旅客代理订票业务。反映了AI在实际服务中遇到的监管和信任问题。",
+    "topic": "AI监管",
+    "heat": 80,
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50458900",
+    "publishedAt": "2026-11-11T21:24:35.000Z",
+    "keys": [
+     "cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights"
+    ]
+   },
+   {
+    "title": "Google发布Gemini Decisions API",
+    "sum": "Google推出新的Gemini Decisions API，为开发者提供结构化决策能力。扩展了Gemini在企业应用中的功能范围。",
+    "topic": "模型API",
+    "heat": 78,
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "source": "Hacker News",
+    "alsoBy": [
+     "Google AI"
+    ],
+    "discussion": "https://news.ycombinator.com/item?id=50456791",
+    "publishedAt": "2026-11-11T18:32:42.000Z",
+    "keys": [
+     "blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api"
+    ]
+   },
+   {
+    "title": "Anthropic IPO传言",
+    "sum": "关于Anthropic可能进行IPO的讨论在社区引起关注。反映了AI创业公司融资和上市的市场动态。",
+    "topic": "融资IPO",
+    "heat": 65,
+    "url": "https://ipo.anthropic.com/us/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50465829",
+    "publishedAt": "2026-11-12T11:46:41.000Z",
+    "keys": [
+     "ipo.anthropic.com/us"
+    ]
+   },
+   {
+    "title": "华为发布MACaQ量化工具",
+    "sum": "华为公开其内部量化器MACaQ用于本地推理。增强了国内厂商在模型压缩优化的技术积累。",
+    "topic": "量化",
+    "heat": 54,
+    "url": "https://github.com/huawei-csl/MACaQ",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50458166",
+    "publishedAt": "2026-11-11T20:23:57.000Z",
+    "keys": [
+     "github.com/huawei-csl/macaq"
+    ]
+   },
+   {
+    "title": "DeepMind用AI验证Signal密码学核心",
+    "sum": "Google DeepMind用AlphaProof Code在4周内数学验证了Signal的密码学核心代码，通常需要数年。AI代理写了600万行证明代码，仅1%需人工审查，展示AI在形式化验证领域的实用潜力。",
+    "topic": "形式化验证,Ag",
+    "heat": 51,
+    "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+    "source": "Ars Technica",
+    "alsoBy": [],
+    "publishedAt": "2026-11-11T14:08:57.000Z",
+    "keys": [
+     "arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "Klad：AI Agent 驱动的绘图应用",
+    "sum": "Klad 是一款支持 AI Agent 控制的绘图工具，解决游戏开发中 AI 难以参与美术创作的问题，提供源代码可用的开源版本。",
+    "topic": "游戏开发,Age",
+    "heat": 62,
+    "url": "https://github.com/klad-app/klad",
+    "source": "Show HN",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50454951",
+    "publishedAt": "2026-11-11T16:00:50.000Z",
+    "keys": [
+     "github.com/klad-app/klad"
+    ]
+   },
+   {
+    "title": "Atuin Threads：跨机器Agent会话管理",
+    "sum": "Atuin推出Threads功能，统一管理多机器上的agent会话。便于开发者在分布式环境中协调AI agents。",
+    "topic": "开源工具",
+    "heat": 61,
+    "url": "https://blog.atuin.sh/threads-agent-sessions/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50453637",
+    "publishedAt": "2026-11-11T14:10:46.000Z",
+    "keys": [
+     "blog.atuin.sh/threads-agent-sessions"
+    ]
+   },
+   {
+    "title": "Agentes Chat：AI agents协作平台",
+    "sum": "开源自托管Slack替代品，支持Claude、ChatGPT等多模型agent协作。为团队提供集成AI能力的工作平台。",
+    "topic": "Agent平台",
+    "heat": 61,
+    "url": "https://github.com/agentes-chat/agentes-chat",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-09T00:50:28.000Z",
+    "keys": [
+     "github.com/agentes-chat/agentes-chat"
+    ]
+   },
+   {
+    "title": "Yogurt：开源私密会议记录工具",
+    "sum": "Yogurt 是一款开源的 AI 会议记录工具，支持私密处理。通过 AI 自动生成会议笔记，避免敏感信息上传云端，适合注重隐私的团队使用。",
+    "topic": "会议工具,开源项",
+    "heat": 60,
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-10T20:01:01.000Z",
+    "keys": [
+     "github.com/frigadehq/yogurt"
+    ]
+   },
+   {
+    "title": "更快的检索优化RAG性能",
+    "sum": "新方法改进RAG系统的检索效率。提升了AI应用在实际场景中的响应速度和成本效益。",
+    "topic": "RAG",
+    "heat": 57,
+    "url": "https://machinelearning.apple.com/research/faster-retrieval",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50455633",
+    "publishedAt": "2026-11-11T16:57:45.000Z",
+    "keys": [
+     "machinelearning.apple.com/research/faster-retrieval"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "删除权重微调：高效 LLM 适配新方法",
+    "sum": "论文发现仅删除不足 0.05% 的权重就能匹配全量微调效果，提出 Deletion Tuning 方法，在多个后训练任务上验证其有效性，为高效适配提供新思路。",
+    "topic": "LLM微调,效率",
+    "heat": 59,
+    "url": "https://huggingface.co/papers/2611.10866",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-06T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.10866"
+    ]
+   },
+   {
+    "title": "MACaQ：高效的模型无关量化方法",
+    "sum": "论文提出 MACaQ，一种 W4A4 后训练量化方法，可独立处理每个线性层，大幅降低 LLM 推理的内存和计算成本，且无需架构特定的优化。",
+    "topic": "量化,推理效率",
+    "heat": 58,
+    "url": "https://huggingface.co/papers/2611.10649",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-06T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.10649"
+    ]
+   },
+   {
+    "title": "FINCOSMOS：金融 Agent 开放世界评估范式",
+    "sum": "论文针对金融领域 Agent 的开放世界特性提出新的评估范式，解决现有基准无法覆盖的时间依赖性、数据验证等难题，提升金融 Agent 可信度评估。",
+    "topic": "Agent,金融",
+    "heat": 58,
+    "url": "https://huggingface.co/papers/2611.07464",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-04T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.07464"
+    ]
+   },
+   {
+    "title": "SteerDistill：闭环教师指导的量化 Agent",
+    "sum": "论文提出 SteerDistill，通过闭环反馈纠正量化 Agent 的行为偏差，解决低精度量化对 LLM Agent 任务完成率的影响问题。",
+    "topic": "量化,Agent",
+    "heat": 56,
+    "url": "https://huggingface.co/papers/2611.13410",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-09T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.13410"
+    ]
+   },
+   {
+    "title": "TOME-Math：教科书级数学证明监督数据集",
+    "sum": "从2118本教科书构建38万条结构化数学证明记录。为语言模型的数学推理能力提供高质量监督信号。",
+    "topic": "推理模型",
+    "heat": 55,
+    "url": "https://huggingface.co/papers/2610.40394",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-10-28T20:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2610.40394"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 10,
+  "co": 34,
+  "prod": 18,
+  "paper": 22
+ }
+}

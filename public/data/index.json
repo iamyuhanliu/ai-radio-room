@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T12:52:30.180Z",
+ "updatedAt": "2026-11-12T13:53:57.919Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -78,6 +78,22 @@
    "keyword": "代码助手,代码质",
    "head": {
     "title": "AI生成代码导致代码库脆弱",
+    "cat": "kol"
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "raw": {
+    "kol": 10,
+    "co": 34,
+    "prod": 18,
+    "paper": 22
+   },
+   "total": 84,
+   "big": false,
+   "keyword": "Agent应用",
+   "head": {
+    "title": "@OfficialLoganK：AI agents发现未知玛雅遗址",
     "cat": "kol"
    }
   }
