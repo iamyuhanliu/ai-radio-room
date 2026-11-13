@@ -1,0 +1,319 @@
+{
+ "date": "2026-11-13",
+ "generatedAt": "2026-11-13T13:16:29.382Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@steipete：团队分享 OpenAI 持久 Agent 运维方法",
+    "sum": "开发者分享在 OpenAI 框架内运行持久智能体的实践经验，获 961 赞和 92K 浏览，具有实战参考价值。",
+    "topic": "Agent",
+    "heat": 65,
+    "url": "https://x.com/steipete/status/2121058770767982997",
+    "source": "X · @steipete",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2121058770767982997",
+     "handle": "steipete",
+     "name": "Peter Steinberger"
+    },
+    "publishedAt": "2026-11-13T01:53:12.000Z",
+    "keys": [
+     "x.com/steipete/status/2121058770767982997"
+    ]
+   },
+   {
+    "title": "@steipete：AI Agent将替代代码编写",
+    "sum": "开发者指出AI Agent变得足够好，开发者无需学习某些编程技能，反映AI代码生成能力的突破和对开发流程的影响。",
+    "topic": "代码助手",
+    "heat": 63,
+    "url": "https://x.com/steipete/status/2120974913679040680",
+    "source": "X · @steipete",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2120974913679040680",
+     "handle": "steipete",
+     "name": "Peter Steinberger"
+    },
+    "publishedAt": "2026-11-12T20:19:59.000Z",
+    "keys": [
+     "x.com/steipete/status/2120974913679040680"
+    ]
+   },
+   {
+    "title": "@steipete：警惕Agent产品营销虚假宣传",
+    "sum": "开发者提醒新Agent产品即将发布，警惕营销人员在X平台进行虚假宣传，建议关注诚实评测，反映AI产品营销乱象。",
+    "topic": "营销乱象",
+    "heat": 54,
+    "url": "https://x.com/steipete/status/2121009372470067544",
+    "source": "X · @steipete",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2121009372470067544",
+     "handle": "steipete",
+     "name": "Peter Steinberger"
+    },
+    "publishedAt": "2026-11-12T22:36:55.000Z",
+    "keys": [
+     "x.com/steipete/status/2121009372470067544"
+    ]
+   },
+   {
+    "title": "@alexalbert__：Claude优化的关键是补全缺失的上下文",
+    "sum": "Anthropic员工分享使用Claude的实战经验，强调找出模型缺失的上下文并补全是获得高质量输出的关键。提到Claude Meetings功能有助于补充额外信息。",
+    "topic": "提示词工程",
+    "heat": 54,
+    "url": "https://x.com/alexalbert__/status/2120983722182988206",
+    "source": "X · @alexalbert__",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2120983722182988206",
+     "handle": "alexalbert__",
+     "name": "Alex Albert"
+    },
+    "publishedAt": "2026-11-12T20:54:59.000Z",
+    "keys": [
+     "x.com/alexalbert__/status/2120983722182988206"
+    ]
+   },
+   {
+    "title": "@simonw：Gemini 4定价策略分析",
+    "sum": "技术评论家指出Google Gemini 4的定价策略存在混乱：Argon和Carbon价格相同，新Hydrogen仅便宜25%。12月1日后价格将上涨，而模型质量未见相应改进。",
+    "topic": "模型定价",
+    "heat": 51,
+    "url": "https://x.com/simonw/status/2121039423441981444",
+    "source": "X · @simonw",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2121039423441981444",
+     "handle": "simonw",
+     "name": "Simon Willison"
+    },
+    "publishedAt": "2026-11-13T00:36:20.000Z",
+    "keys": [
+     "x.com/simonw/status/2121039423441981444"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "Google Gemini 4发布",
+    "sum": "Google发布Gemini 4系列模型。在HN获得543点高关注，相关讨论热烈，显示业界对新一代大模型的重视。",
+    "topic": "大模型",
+    "heat": 78,
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50471431",
+    "publishedAt": "2026-11-12T18:01:48.000Z",
+    "keys": [
+     "blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen"
+    ]
+   },
+   {
+    "title": "OpenAI推出AI网络安全工具",
+    "sum": "OpenAI宣布开发新的网络安全工具，包括自动补丁和自动红队测试功能，获得2871赞和480K浏览，体现AI在安全领域的应用拓展。",
+    "topic": "网络安全",
+    "heat": 72,
+    "url": "https://x.com/thsottiaux/status/2121036562058400200",
+    "source": "X · @thsottiaux",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2121036562058400200",
+     "handle": "thsottiaux",
+     "name": "Tibo"
+    },
+    "publishedAt": "2026-11-13T00:24:58.000Z",
+    "keys": [
+     "x.com/thsottiaux/status/2121036562058400200"
+    ]
+   },
+   {
+    "title": "Gemini 4和Orchestrator发布",
+    "sum": "Google发布Gemini 4和Orchestrator，在HN获得442点关注，339条评论。",
+    "topic": "大模型",
+    "heat": 71,
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50472260",
+    "publishedAt": "2026-11-12T18:52:01.000Z",
+    "keys": [
+     "antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity"
+    ]
+   },
+   {
+    "title": "Claude服务出现故障",
+    "sum": "Anthropic的Claude API和Web产品遭遇服务故障，在HN获得290点关注和236条讨论。",
+    "topic": "服务故障",
+    "heat": 61,
+    "url": "https://status.claude.com/incidents/nn11wk485zfn",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50481187",
+    "publishedAt": "2026-11-13T10:18:13.000Z",
+    "keys": [
+     "status.claude.com/incidents/nn11wk485zfn"
+    ]
+   },
+   {
+    "title": "AI审核困扰合成音频应用开发",
+    "sum": "苹果App Store的AI驱动审核流程给合成音频开发者带来困扰，在HN获得184点关注和206条讨论，反映AI审核的实际问题。",
+    "topic": "AI审核",
+    "heat": 60,
+    "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50474311",
+    "publishedAt": "2026-11-12T21:09:49.000Z",
+    "keys": [
+     "synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "LLM在小型和老旧设备上运行",
+    "sum": "开发者探索如何在小型和老旧设备上运行大语言模型，在HN获得403点高关注，这对边缘计算和端设备AI应用具有重要意义。",
+    "topic": "边缘计算",
+    "heat": 74,
+    "url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50468888",
+    "publishedAt": "2026-11-12T15:23:10.000Z",
+    "keys": [
+     "github.com/hyperionaidev/smolmaxxing"
+    ]
+   },
+   {
+    "title": "Edge0-145B本地运行模型",
+    "sum": "Edge0推出145B参数模型可在个人电脑上运行，在HN获得284点关注，为边缘AI应用开辟新可能。",
+    "topic": "开源模型",
+    "heat": 67,
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50475713",
+    "publishedAt": "2026-11-12T23:06:17.000Z",
+    "keys": [
+     "edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+    ]
+   },
+   {
+    "title": "一人统筹 AI 团队的技能框架",
+    "sum": "GitHub 热门中文项目（830 stars），教授如何通过 AI 工具委派任务、核证结果、明确说明和经验复用，实现高效团队协作。",
+    "topic": "Agent,pr",
+    "heat": 67,
+    "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-07T01:36:28.000Z",
+    "keys": [
+     "github.com/dabingfy-dot/solo-to-team-skills"
+    ]
+   },
+   {
+    "title": "Libreagi：开源模型保存工具",
+    "sum": "Hacker News 热门项目，帮助用户保存和管理开源 AI 模型。149 points 获得社区关注，反映开发者对模型管理工具的需求。",
+    "topic": "开源模型",
+    "heat": 64,
+    "url": "https://libreagi.com/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50467439",
+    "publishedAt": "2026-11-12T14:11:58.000Z",
+    "keys": [
+     "libreagi.com"
+    ]
+   },
+   {
+    "title": "AgentRun：自改进智能体管理平台开源",
+    "sum": "YC 创业公司 GREP.AI 开源自改进 Agent 框架，提供托管智能体平台，119 points 获得开发者关注。",
+    "topic": "Agent,开源",
+    "heat": 64,
+    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "source": "Show HN",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50471650",
+    "publishedAt": "2026-11-12T18:15:48.000Z",
+    "keys": [
+     "github.com/parcha-ai/agentrun/blob/main/readme.md"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "中国AI模型与美国禁运芯片的关联分析",
+    "sum": "研究发现中国前沿AI模型包含美国出口管制GPU的特征，在HN获得312点关注，引发对芯片政策和技术发展的讨论。",
+    "topic": "芯片管制",
+    "heat": 71,
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50474883",
+    "publishedAt": "2026-11-12T21:56:11.000Z",
+    "keys": [
+     "unemploymentlabs.com/checkpoint-forensics"
+    ]
+   },
+   {
+    "title": "SO-Arena：快速推理模型基准评测",
+    "sum": "论文介绍SO-Arena基准测试，评估System One快速推理模型的能力谱和可靠性，为新一代快速推理模型提供更深入的评估方法。",
+    "topic": "推理模型",
+    "heat": 61,
+    "url": "https://huggingface.co/papers/2611.15777",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-10T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.15777"
+    ]
+   },
+   {
+    "title": "Duo：全双工世界模型实现实时交互",
+    "sum": "提出互往世界模型（RWM）和 Duo v1，能同时感知视听输入并实时响应。将智能推理与物理模拟融为一体，是世界模型的新方向。",
+    "topic": "世界模型",
+    "heat": 61,
+    "url": "https://huggingface.co/papers/2611.15131",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-10T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.15131"
+    ]
+   },
+   {
+    "title": "PhysLoop：用 LLM 物理知识改进视频生成",
+    "sum": "利用大模型的物理认知能力指导视频生成模型学习，解决生成视频中的物理约束和因果一致性问题。",
+    "topic": "视频生成",
+    "heat": 59,
+    "url": "https://huggingface.co/papers/2611.16748",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-11T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.16748"
+    ]
+   },
+   {
+    "title": "强化学习激励 LLM 自主学习能力",
+    "sum": "研究通过强化学习让大模型在陌生领域实现知识自主获取与推理结合，超越传统检索增强生成方法。",
+    "topic": "大模型学习",
+    "heat": 57,
+    "url": "https://huggingface.co/papers/2610.39671",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-10-28T20:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2610.39671"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 6,
+  "co": 32,
+  "prod": 27,
+  "paper": 22
+ }
+}

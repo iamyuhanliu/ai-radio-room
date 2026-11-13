@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T13:53:57.919Z",
+ "updatedAt": "2026-11-13T13:16:29.384Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -95,6 +95,22 @@
    "head": {
     "title": "@OfficialLoganK：AI agents发现未知玛雅遗址",
     "cat": "kol"
+   }
+  },
+  {
+   "date": "2026-11-13",
+   "raw": {
+    "kol": 6,
+    "co": 32,
+    "prod": 27,
+    "paper": 22
+   },
+   "total": 87,
+   "big": false,
+   "keyword": "大模型",
+   "head": {
+    "title": "Google Gemini 4发布",
+    "cat": "co"
    }
   }
  ]
