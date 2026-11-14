@@ -1,0 +1,298 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T12:20:56.577Z",
+ "items": {
+  "kol": [
+   {
+    "title": "AI正在破坏写作者与读者的信任关系",
+    "sum": "讨论AI生成内容对创意行业的影响，指出AI滥用导致读者难以判断内容真伪。涉及内容创意、版权和信任问题的重要社会议题。",
+    "topic": "内容创意、版权、",
+    "heat": 73,
+    "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50481870",
+    "publishedAt": "2026-11-13T11:13:46.000Z",
+    "keys": [
+     "theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391"
+    ]
+   },
+   {
+    "title": "@Jonathan Blow：AI没有改变软件开发现状",
+    "sum": "游戏开发者Jonathan Blow质疑AI在编码领域解决的实际问题，认为AI尚未显著改变软件开发实践。反映对AI能力的深度思考。",
+    "topic": "AI编程、开发工",
+    "heat": 72,
+    "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50484658",
+    "publishedAt": "2026-11-13T15:08:44.000Z",
+    "keys": [
+     "youtube.com/watch?v=irk8h67ol7q"
+    ]
+   },
+   {
+    "title": "@ThePrimeagen：Agent 时代的控制权问题与可视化解决方案",
+    "sum": "开发者分享在 Agent 时代遇到的核心问题：如何保持对 Agent 行为的控制。通过将程序状态机可视化，提供了一种新的人机交互方式来增强 Agent 的可控性。",
+    "topic": "Agent,可控",
+    "heat": 65,
+    "url": "https://x.com/ThePrimeagen/status/2121247828509069809",
+    "source": "X · @ThePrimeagen",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2121247828509069809",
+     "handle": "ThePrimeagen",
+     "name": "ThePrimeagen"
+    },
+    "publishedAt": "2026-11-13T14:24:27.000Z",
+    "keys": [
+     "x.com/theprimeagen/status/2121247828509069809"
+    ]
+   },
+   {
+    "title": "600次实验后JEPA世界模型的新发现",
+    "sum": "研究者分享在JEPA世界模型领域的大量实验成果和经验教训。展现从实践中获得的深度技术见解。",
+    "topic": "世界模型、视觉模",
+    "heat": 63,
+    "url": "https://haddyalchaer.com/jepa",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50487185",
+    "publishedAt": "2026-11-13T17:55:28.000Z",
+    "keys": [
+     "haddyalchaer.com/jepa"
+    ]
+   },
+   {
+    "title": "无AI垃圾内容宣言",
+    "sum": "社区发起倡议，反对AI生成的低质量内容充斥互联网。呼吁提升AI内容质量和内容审核标准。",
+    "topic": "内容质量、生成模",
+    "heat": 59,
+    "url": "https://www.slopmanifesto.com/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50488769",
+    "publishedAt": "2026-11-13T19:51:56.000Z",
+    "keys": [
+     "slopmanifesto.com"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "NVIDIA被指通过融资AI初创公司来操纵GPU市场",
+    "sum": "有报道称NVIDIA通过向AI初创公司提供融资来确保其GPU的采购，以制造芯片短缺假象。这涉及科技巨头的市场垄断策略和商业道德问题。",
+    "topic": "芯片垄断、NVI",
+    "heat": 83,
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50493251",
+    "publishedAt": "2026-11-14T02:52:59.000Z",
+    "keys": [
+     "techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+    ]
+   },
+   {
+    "title": "LangChain融资3亿美元估值30亿",
+    "sum": "LangChain完成C轮融资3亿美元，估值达30亿美元。将重点投入LangSmith平台以支持Agent运行、优化和治理。",
+    "topic": "融资、Agent",
+    "heat": 68,
+    "url": "https://x.com/hwchase17/status/2121279222912352574",
+    "source": "X · @hwchase17",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2121279222912352574",
+     "handle": "hwchase17",
+     "name": "Harrison Chase"
+    },
+    "publishedAt": "2026-11-13T16:29:12.000Z",
+    "keys": [
+     "x.com/hwchase17/status/2121279222912352574"
+    ]
+   },
+   {
+    "title": "OpenAI解散机器人团队转向通用模型",
+    "sum": "OpenAI将机器人开发重点转向使用通用大模型直接控制机器人。反映AI发展策略从专有到通用的转变。",
+    "topic": "机器人、通用模型",
+    "heat": 65,
+    "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50487184",
+    "publishedAt": "2026-11-13T17:55:23.000Z",
+    "keys": [
+     "fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots"
+    ]
+   },
+   {
+    "title": "Anthropic升级Claude代码项目支持并行AI工作",
+    "sum": "Claude Code Projects新增并行多Agent执行能力。增强开发者使用Claude完成复杂编程任务的效率。",
+    "topic": "Claude、代",
+    "heat": 61,
+    "url": "https://claude.com/resources/articles/projects-redesigned",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50492141",
+    "publishedAt": "2026-11-14T00:28:11.000Z",
+    "keys": [
+     "claude.com/resources/articles/projects-redesigned"
+    ]
+   },
+   {
+    "title": "Anthropic IPO认购过度6倍创历史纪录",
+    "sum": "Anthropic IPO认购单超过可用股份6倍，有望成为历史上最大规模IPO。反映了市场对Anthropic作为主要AI公司的强劲需求。",
+    "topic": "融资,Anthr",
+    "heat": 51,
+    "url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-13T15:15:08.000Z",
+    "keys": [
+     "the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "DeepSeek开源Chat Demo应用",
+    "sum": "DeepSeek发布其聊天应用的开源演示版本，使用TypeScript开发。为用户和开发者提供集成高性能AI模型的参考实现。",
+    "topic": "开源应用、聊天模",
+    "heat": 64,
+    "url": "https://github.com/deepseek-ai/chat-demo",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-12T08:08:19.000Z",
+    "keys": [
+     "github.com/deepseek-ai/chat-demo"
+    ]
+   },
+   {
+    "title": "歸藏 Game Skill：AI 从零生成可玩 3D 游戏",
+    "sum": "Agent 技能使 Claude 等 AI 代码工具能从零创建可在浏览器运行的 3D 动作游戏，包含完整示例《雾锁山门》，展示 Agent 的创意生成能力。",
+    "topic": "Agent技能,",
+    "heat": 58,
+    "url": "https://github.com/op7418/guizang-game-skill",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-11T16:28:54.000Z",
+    "keys": [
+     "github.com/op7418/guizang-game-skill"
+    ]
+   },
+   {
+    "title": "STE80 Humanizer：Agent 技能去除 AI 痕迹",
+    "sum": "开源 Agent 技能，移除 AI 生成的特征表现，将文本改写至 ASD-STE100 简化技术英文标准的 80% 水平，基于 Andrej Karpathy 分享的方法实现。",
+    "topic": "Agent技能,",
+    "heat": 57,
+    "url": "https://github.com/Dodaios/ste80-humanizer",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-09T17:18:59.000Z",
+    "keys": [
+     "github.com/dodaios/ste80-humanizer"
+    ]
+   },
+   {
+    "title": "MiniMax-H3-Image：高分辨率开源生成模型",
+    "sum": "MiniMax 开源 16 百万像素图像生成与编辑模型，支持高分辨率输出，为开源社区提供可商用的高质量图像生成能力。",
+    "topic": "生成模型,开源",
+    "heat": 56,
+    "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-09T17:11:00.000Z",
+    "keys": [
+     "github.com/minimax-ai/minimax-h3-image"
+    ]
+   },
+   {
+    "title": "AI Texture Forge：Blender 的 AI 纹理生成工具",
+    "sum": "Blender 插件，支持文本提示生成无缝 PBR 材质和概念艺术，集成本地或云端扩散模型，可在 3D 视口直接操作，提升 3D 创作效率。",
+    "topic": "3D工具,生成模",
+    "heat": 54,
+    "url": "https://github.com/linknimiball1974/ai-texture-forge",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-11T19:09:18.000Z",
+    "keys": [
+     "github.com/linknimiball1974/ai-texture-forge"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "AI破译哥德尔手稿发现数百个新定理",
+    "sum": "AI技术被用于读取和分析著名数学家哥德尔的历史手稿，据称发现了数百个未曾发表的已证明定理。展现AI在学术研究中的新应用潜力。",
+    "topic": "数学、研究工具、",
+    "heat": 75,
+    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50486748",
+    "publishedAt": "2026-11-13T17:30:10.000Z",
+    "keys": [
+     "theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+    ]
+   },
+   {
+    "title": "SparseRead：Agent 智能读取文档的稀疏阅读方法",
+    "sum": "提出 SparseRead 层，使 AI Agent 能够智能选择性地读取网页和文档内容，避免冗余 token 消耗。通过跟踪阅读意图来动态控制内容获取，降低延迟和成本，提高了 Agent 的效率。",
+    "topic": "Agent,推理",
+    "heat": 63,
+    "url": "https://huggingface.co/papers/2608.22237",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-06T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2608.22237"
+    ]
+   },
+   {
+    "title": "BirdDreams：自动驾驶多视角世界模型",
+    "sum": "论文提出一个能同时生成不同视角和鸟瞰图的驾驶世界模型，解决视频生成中的运动与外观解耦问题。推进自动驾驶AI的感知和规划。",
+    "topic": "世界模型、自动驾",
+    "heat": 60,
+    "url": "https://huggingface.co/papers/2611.14815",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-09T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.14815"
+    ]
+   },
+   {
+    "title": "G-STAR：压缩自回归生成的令牌优化",
+    "sum": "论文基于乘积量化提出令牌容量的分组缩放方法，优化离散图像生成模型在压缩与质量间的权衡。改进生成模型的效率。",
+    "topic": "图像生成、模型压",
+    "heat": 55,
+    "url": "https://huggingface.co/papers/2611.13004",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-07T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.13004"
+    ]
+   },
+   {
+    "title": "开源Vision Banana：生成式视觉感知方案",
+    "sum": "研究者发布完全开源的Vision Banana复现方案，将图像生成模型适配为多任务视觉感知系统。提供可复现的视觉AI工具。",
+    "topic": "视觉模型、开源、",
+    "heat": 55,
+    "url": "https://huggingface.co/papers/2611.15844",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-10T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.15844"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 10,
+  "co": 27,
+  "prod": 20,
+  "paper": 16
+ }
+}

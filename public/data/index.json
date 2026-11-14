@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T13:16:29.384Z",
+ "updatedAt": "2026-11-14T12:20:56.578Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -110,6 +110,22 @@
    "keyword": "大模型",
    "head": {
     "title": "Google Gemini 4发布",
+    "cat": "co"
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "raw": {
+    "kol": 10,
+    "co": 27,
+    "prod": 20,
+    "paper": 16
+   },
+   "total": 73,
+   "big": false,
+   "keyword": "芯片垄断、NVI",
+   "head": {
+    "title": "NVIDIA被指通过融资AI初创公司来操纵GPU市场",
     "cat": "co"
    }
   }
