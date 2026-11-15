@@ -1,0 +1,323 @@
+{
+ "date": "2026-11-15",
+ "generatedAt": "2026-11-15T12:51:58.404Z",
+ "items": {
+  "kol": [
+   {
+    "title": "关于Claude能力的讨论",
+    "sum": "Hacker News上引发热烈讨论的文章，引起195条评论。探讨对Claude模型能力期望与现实的认知差距，反映社区对大模型能力评估的思考。",
+    "topic": "大模型评估",
+    "heat": 67,
+    "url": "https://www.netmeister.org/blog/claude-delusion.html",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50496921",
+    "publishedAt": "2026-11-14T13:36:17.000Z",
+    "keys": [
+     "netmeister.org/blog/claude-delusion.html"
+    ]
+   },
+   {
+    "title": "@rauchg：Agent代码发布的未来模式",
+    "sum": "展望Agent写代码的新范式：特性门控+推送验证+指标监控。分享在Vercel上实现此模式的方法，体现现代DevOps与Agent的结合方向。",
+    "topic": "Agent,De",
+    "heat": 61,
+    "url": "https://x.com/rauchg/status/2121711321347715093",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2121711321347715093",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-11-14T21:06:13.000Z",
+    "keys": [
+     "x.com/rauchg/status/2121711321347715093"
+    ]
+   },
+   {
+    "title": "@emollick：63%的AI基准已饱和",
+    "sum": "Ethan Mollick推出SatBench分析工具，发现自2023年以来实验室发布的173个基准中63%已饱和（被击败），且饱和速度逐年加快，反映AI能力提升速度超过评估指标迭代速度。",
+    "topic": "基准评估、AI进",
+    "heat": 61,
+    "url": "https://x.com/emollick/status/2121751565845360769",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2121751565845360769",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-14T23:46:08.000Z",
+    "keys": [
+     "x.com/emollick/status/2121751565845360769"
+    ]
+   },
+   {
+    "title": "个人学习AI实用技能的讨论",
+    "sum": "HN热门讨论，探讨不需要学位、靠互联网和实践即可学习的AI技能，以利用LLM和Agent等新技术。反映学习者对实际技能路径的需求。",
+    "topic": "学习路径,LLM",
+    "heat": 56,
+    "url": "https://news.ycombinator.com/item?id=50494696",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50494696",
+    "publishedAt": "2026-11-14T06:56:42.000Z",
+    "keys": [
+     "news.ycombinator.com/item?id=50494696"
+    ]
+   },
+   {
+    "title": "@rauchg：Subagents分层Agent架构的实践",
+    "sum": "Guillermo Rauch分享fx.sh平台上Subagent的使用体验，通过高效模型规划加快速模型子代理执行的分层架构，在6MB代码内实现复杂功能。",
+    "topic": "Agent架构、",
+    "heat": 50,
+    "url": "https://x.com/rauchg/status/2121739228698886454",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2121739228698886454",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-11-14T22:57:06.000Z",
+    "keys": [
+     "x.com/rauchg/status/2121739228698886454"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "@thsottiaux：Daybreak平台反馈征询",
+    "sum": "官方团队请求用户对Daybreak安全研究平台的反馈意见，涵盖模型、codex插件、红蓝队访问等功能。引发1672条回复，表明安全社区的高度关注。",
+    "topic": "网络安全,红蓝队",
+    "heat": 71,
+    "url": "https://x.com/thsottiaux/status/2121845965997101118",
+    "source": "X · @thsottiaux",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2121845965997101118",
+     "handle": "thsottiaux",
+     "name": "Tibo"
+    },
+    "publishedAt": "2026-11-15T06:01:14.000Z",
+    "keys": [
+     "x.com/thsottiaux/status/2121845965997101118"
+    ]
+   },
+   {
+    "title": "GitHub Copilot桌面应用发布",
+    "sum": "GitHub发布Copilot桌面应用，提供Agent原生的代码工作体验，支持跨仓库搜索、执行和交付。672个Stars，体现GitHub在Agent开发工具中的投入。",
+    "topic": "代码助手,开发工",
+    "heat": 60,
+    "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-14T19:16:41.000Z",
+    "keys": [
+     "github.com/trackboatwrightplan/github-copilot-app",
+     "github.com/trapaccountant/github-copilot-app",
+     "github.com/toppatronweave/github-copilot-app",
+     "github.com/trackersnailgrip/github-copilot-app",
+     "github.com/tradesmanrecord/github-copilot-app",
+     "github.com/turkeydesignate/github-copilot-app",
+     "github.com/turquoiseconsultant/github-copilot-app",
+     "github.com/trapbladesmith/github-copilot-app",
+     "github.com/tealplesense/github-copilot-app",
+     "github.com/webbookkeeper/github-copilot-app",
+     "github.com/topconstableinlet67/github-copilot-app",
+     "github.com/unitsenseimonitor/github-copilot-app"
+    ]
+   },
+   {
+    "title": "黄仁勋前女友公司斡旋 120 亿美元英伟达芯片订单给中国",
+    "sum": "根据华尔街日报报道，与英伟达 CEO 黄仁勋关联的 Megaspeed 公司在 2024-2025 年为中国公司安排了近 120 亿美元的英伟达芯片订单，远超官方公布的对华销售比例。",
+    "topic": "芯片,贸易",
+    "heat": 51,
+    "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-15T11:35:12.000Z",
+    "keys": [
+     "the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china"
+    ]
+   },
+   {
+    "title": "美团发布 1.6 万亿参数 Agent 模型，不依赖英伟达芯片",
+    "sum": "美团开源 LongCat-2.5 模型，拥有 1.6 万亿参数，专为 AI Agent 优化，完全在中国芯片上训练，性能接近 Claude Opus 5，展现国产 AI 独立发展路径。",
+    "topic": "开源模型,Age",
+    "heat": 50,
+    "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-15T10:06:06.000Z",
+    "keys": [
+     "the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu"
+    ]
+   },
+   {
+    "title": "Anthropic CEO：计算成本成最大商业困境",
+    "sum": "Anthropic CEO Dario Amodei 在即将上市前坦言对明年前景的巨大不确定性，称购买计算能力是最深层商业难题，公司计算承诺已达 9010 亿美元，远超现有收入。",
+    "topic": "成本压力,融资,",
+    "heat": 47,
+    "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-14T19:05:17.000Z",
+    "keys": [
+     "the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "@rauchg：UI SDK与Agent集成演示",
+    "sum": "展示UI SDK与Gemini Agent的集成效果，两个提示词驱动生成功能完整的Web组件应用。Agent自动重用14种UI行为，展示Agent在前端开发中的实际应用潜力。",
+    "topic": "Agent应用,",
+    "heat": 63,
+    "url": "https://x.com/rauchg/status/2121804295381377342",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2121804295381377342",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-11-15T03:15:39.000Z",
+    "keys": [
+     "x.com/rauchg/status/2121804295381377342"
+    ]
+   },
+   {
+    "title": "DeepSeek V3的Jax简化实现",
+    "sum": "开发者用约200行纯Jax代码实现DeepSeek V3模型，获得246个赞。展示了用现代框架重新实现复杂模型的可行性，对研究者有参考价值。",
+    "topic": "开源模型,框架实",
+    "heat": 62,
+    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+    "source": "Show HN",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50497589",
+    "publishedAt": "2026-11-14T15:04:15.000Z",
+    "keys": [
+     "github.com/vaibhaav-tiwari/deepseek-v3-jax"
+    ]
+   },
+   {
+    "title": "AI Manus 2.0：通用Agent系统",
+    "sum": "开源通用AI Agent框架，支持沙箱环境中运行多种工具和操作。678个Stars表明具有实用价值，适合开发者构建自定义Agent应用。",
+    "topic": "Agent框架,",
+    "heat": 56,
+    "url": "https://github.com/Topkiflare74/ai--manus2.0",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-14T19:15:24.000Z",
+    "keys": [
+     "github.com/topkiflare74/ai--manus2.0",
+     "github.com/topapothecarycanal/ai--manus2.0",
+     "github.com/toppatronweave/ai--manus2.0",
+     "github.com/topconstableinlet67/ai--manus2.0"
+    ]
+   },
+   {
+    "title": "Agweb：极简Agent浏览器",
+    "sum": "新开源工具Agweb为Agent提供不侵入的浏览界面，获102个赞和30条评论。专为Agent设计的UI解决方案，解决Agent交互的实际需求。",
+    "topic": "Agent工具,",
+    "heat": 55,
+    "url": "https://github.com/paul-nameless/agweb",
+    "source": "Show HN",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50497147",
+    "publishedAt": "2026-11-14T14:08:12.000Z",
+    "keys": [
+     "github.com/paul-nameless/agweb"
+    ]
+   },
+   {
+    "title": "Runway 开源 Praxis-1 机器人控制模型",
+    "sum": "Runway 开源机器人模型 Praxis-1，采用 Apache 2.0 开源协议，基于视频训练知识，在英伟达 RoboLab-120 基准测试中领先，展现视频 AI 向机器人控制的应用拓展。",
+    "topic": "开源模型,机器人",
+    "heat": 44,
+    "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-14T09:45:45.000Z",
+    "keys": [
+     "the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "超连接架构的设计优化研究",
+    "sum": "系统分析前沿语言模型中的超连接架构组件，提出更简洁高效的设计方案。研究有助于降低模型训练开销，加速大模型性能优化。",
+    "topic": "模型架构,效率优",
+    "heat": 55,
+    "url": "https://huggingface.co/papers/2611.05984",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-03T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.05984"
+    ]
+   },
+   {
+    "title": "决策模型在智能体中的多重角色研究",
+    "sum": "研究探讨决策模型如何在Agent中扮演不同角色：执行动作、评估动作或指导强化学习。提出性能差的模型仍可有效用于教学的见解，对Agent设计有指导意义。",
+    "topic": "Agent,决策",
+    "heat": 54,
+    "url": "https://huggingface.co/papers/2611.17167",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-11T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.17167"
+    ]
+   },
+   {
+    "title": "具身Agent自我改进中的标准暴露问题",
+    "sum": "研究揭示具身Agent学习中暴露基准标准的副作用，验证器可能过度适应而不是学习任务本身。对Agent基准测试设计和评估有重要启示。",
+    "topic": "具身Agent,",
+    "heat": 52,
+    "url": "https://huggingface.co/papers/2611.08318",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-04T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.08318"
+    ]
+   },
+   {
+    "title": "代码驱动的4D世界与视频模型渲染",
+    "sum": "研究探讨多模态编码Agent如何解耦4D世界构建与视觉生成，让视频模型充当生成渲染器。提出世界保真性和视觉实现的评估标准，推进Agent驱动创意生成。",
+    "topic": "多模态Agent",
+    "heat": 51,
+    "url": "https://huggingface.co/papers/2611.16217",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-11T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.16217"
+    ]
+   },
+   {
+    "title": "测试时烘焙加速视图合成解码模型",
+    "sum": "提出TTB策略优化大型视图合成模型的推理效率，通过学习融合跨视图信息到轻量MLP。在保持高保真的同时显著降低计算成本，对视觉生成有实用价值。",
+    "topic": "视图合成,推理优",
+    "heat": 50,
+    "url": "https://huggingface.co/papers/2611.17331",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-11T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.17331"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 11,
+  "co": 15,
+  "prod": 7,
+  "paper": 10
+ }
+}

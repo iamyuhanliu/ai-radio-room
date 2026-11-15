@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T12:20:56.578Z",
+ "updatedAt": "2026-11-15T12:51:58.405Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -126,6 +126,22 @@
    "keyword": "芯片垄断、NVI",
    "head": {
     "title": "NVIDIA被指通过融资AI初创公司来操纵GPU市场",
+    "cat": "co"
+   }
+  },
+  {
+   "date": "2026-11-15",
+   "raw": {
+    "kol": 11,
+    "co": 15,
+    "prod": 7,
+    "paper": 10
+   },
+   "total": 43,
+   "big": false,
+   "keyword": "网络安全,红蓝队",
+   "head": {
+    "title": "@thsottiaux：Daybreak平台反馈征询",
     "cat": "co"
    }
   }
