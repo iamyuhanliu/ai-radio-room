@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T12:51:58.405Z",
+ "updatedAt": "2026-11-16T13:50:14.444Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -143,6 +143,22 @@
    "head": {
     "title": "@thsottiaux：Daybreak平台反馈征询",
     "cat": "co"
+   }
+  },
+  {
+   "date": "2026-11-16",
+   "raw": {
+    "kol": 11,
+    "co": 8,
+    "prod": 19,
+    "paper": 18
+   },
+   "total": 56,
+   "big": false,
+   "keyword": "开源模型,代码生",
+   "head": {
+    "title": "AI生成代码应开源的争议讨论",
+    "cat": "kol"
    }
   }
  ]

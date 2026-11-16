@@ -1,0 +1,315 @@
+{
+ "date": "2026-11-16",
+ "generatedAt": "2026-11-16T13:50:14.442Z",
+ "items": {
+  "kol": [
+   {
+    "title": "AI生成代码应开源的争议讨论",
+    "sum": "HN热议：所有AI生成代码是否应强制开源。这涉及知识产权、AI透明度和开源生态的核心问题，讨论热度高（1189 points, 634条评论），反映社区对AI代码合规的关注。",
+    "topic": "开源模型,代码生",
+    "heat": 86,
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50507303",
+    "publishedAt": "2026-11-15T14:46:58.000Z",
+    "keys": [
+     "jakub.jankiewicz.org/blog/ai-code-open-source"
+    ]
+   },
+   {
+    "title": "@emollick：AI 时代的工作稳定性即将改变",
+    "sum": "著名 AI 研究员认为，2026 年相对于 2025 年的变化幅度，类似于 1957 年相对于 1900 年，工作岗位的快速淘汰将打破西方 70 年的稳定期。",
+    "topic": "社会影响,就业",
+    "heat": 62,
+    "url": "https://x.com/emollick/status/2122176524610884061",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122176524610884061",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-16T03:54:46.000Z",
+    "keys": [
+     "x.com/emollick/status/2122176524610884061"
+    ]
+   },
+   {
+    "title": "@emollick：AI 视频转 3D 渲染实时演示",
+    "sum": "展示用 AI 从 Starship 捕获视频提取关键帧，实时渲染成交互式 3D 场景，可以自由切换视角，展示 AI 能力的跨越式进步。",
+    "topic": "视频理解,3D ",
+    "heat": 61,
+    "url": "https://x.com/emollick/status/2122036763468214711",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122036763468214711",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-15T18:39:24.000Z",
+    "keys": [
+     "x.com/emollick/status/2122036763468214711"
+    ]
+   },
+   {
+    "title": "@rauchg：AI 命名能力强，计算机科学难题近解",
+    "sum": "开发者分享 AI 给系统诊断工具命名的例子，幽默评论 AI 已掌握命名和缓存失效这些计算机科学难题。",
+    "topic": "AI 能力,工具",
+    "heat": 57,
+    "url": "https://x.com/rauchg/status/2122127120055034258",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122127120055034258",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-11-16T00:38:27.000Z",
+    "keys": [
+     "x.com/rauchg/status/2122127120055034258"
+    ]
+   },
+   {
+    "title": "@kentcdodds：让 Agent 反馈产品问题的关键",
+    "sum": "软件工程师分享经验，激励 AI Agent 在产品和代码库中指出问题是提升开发效率的秘诀。",
+    "topic": "Agent,开发",
+    "heat": 56,
+    "url": "https://x.com/kentcdodds/status/2122028323555651636",
+    "source": "X · @kentcdodds",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122028323555651636",
+     "handle": "kentcdodds",
+     "name": "Kent C. Dodds 🐨"
+    },
+    "publishedAt": "2026-11-15T18:05:52.000Z",
+    "keys": [
+     "x.com/kentcdodds/status/2122028323555651636"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "Codex团队修复容量错误问题",
+    "sum": "OpenAI Codex团队修复了长期困扰用户的\"模型容量已满\"错误。这是重要的产品改进，高热度社交讨论（6973赞）反映用户关注度。",
+    "topic": "代码生成,模型优",
+    "heat": 77,
+    "url": "https://x.com/thsottiaux/status/2122206990101536852",
+    "source": "X · @thsottiaux",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122206990101536852",
+     "handle": "thsottiaux",
+     "name": "Tibo"
+    },
+    "publishedAt": "2026-11-16T05:55:49.000Z",
+    "keys": [
+     "x.com/thsottiaux/status/2122206990101536852"
+    ]
+   },
+   {
+    "title": "AI浪潮中IT招聘跌至12年低位",
+    "sum": "HN讨论：随着AI涉足50%工作领域，\"Who is Hiring?\"招聘帖数跌至历史低位。反映AI对就业市场的冲击日益显现。",
+    "topic": "AI就业",
+    "heat": 63,
+    "url": "https://www.hntrends.com/2026/november.html",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50512950",
+    "publishedAt": "2026-11-16T01:31:30.000Z",
+    "keys": [
+     "hntrends.com/2026/november.html"
+    ]
+   },
+   {
+    "title": "Dreamteam 获 5300 万美元融资推 AI 原生 CRM",
+    "sum": "Freshworks 前员工创办的 Dreamteam 融资 5300 万美元，以 AI 原生 CRM 对标 Salesforce 和 HubSpot。公司已在 13 个国家获得超 100 个客户，部分来自传统 CRM 迁移。",
+    "topic": "企业应用,融资",
+    "heat": 47,
+    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "source": "TechCrunch",
+    "alsoBy": [],
+    "publishedAt": "2026-11-16T12:30:00.000Z",
+    "keys": [
+     "techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm"
+    ]
+   },
+   {
+    "title": "OpenAI与LVMH传媒部达成战略合作",
+    "sum": "OpenAI宣布与LVMH传媒部门建立合作，通过ChatGPT为其出版物提供AI支持和更好的可访问性，推进新闻业的AI应用。",
+    "topic": "媒体合作",
+    "heat": 46,
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "source": "OpenAI",
+    "alsoBy": [],
+    "publishedAt": "2026-11-16T09:00:00.000Z",
+    "keys": [
+     "openai.com/index/lvmh-media-division-partnership"
+    ]
+   },
+   {
+    "title": "OpenAI与英王基金会启动AI技能培训",
+    "sum": "OpenAI与The King's Trust宣布投入100万英镑，为25000名英国年轻人提供实用AI工作技能培训。这是AI教育的重要社会举措。",
+    "topic": "人才培养",
+    "heat": 44,
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "source": "OpenAI",
+    "alsoBy": [],
+    "publishedAt": "2026-11-16T00:00:00.000Z",
+    "keys": [
+     "openai.com/index/the-kings-trust-and-openai"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "Blender AI MCP助手插件发布",
+    "sum": "支持ChatGPT、Claude等多种模型的Blender AI插件，提供可视化聊天、场景工具和多Agent工作流。整合MCP协议，GitHub 1929星。",
+    "topic": "Agent工具,",
+    "heat": 74,
+    "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-12T14:32:15.000Z",
+    "keys": [
+     "github.com/hitkeeen/blender-ai-mcp-addon"
+    ]
+   },
+   {
+    "title": "xeet: Rust实现的X帖子渲染引擎",
+    "sum": "@rauchg发布用Rust/WASM实现的像素完美X帖子离线渲染工具，1ms渲染速度，支持Agent内容预览。兼具性能和实用价值。",
+    "topic": "开发工具,Age",
+    "heat": 66,
+    "url": "https://x.com/rauchg/status/2122184794209714368",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122184794209714368",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-11-16T04:27:37.000Z",
+    "keys": [
+     "x.com/rauchg/status/2122184794209714368"
+    ]
+   },
+   {
+    "title": "Blender AI副驾驶Studio发布",
+    "sum": "为Blender设计的AI副驾驶和MCP服务器，支持自然语言到场景操作转换，内置27个工具和多Agent团队协作。与i8产品功能重叠（514星）。",
+    "topic": "Agent工具,",
+    "heat": 63,
+    "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-12T19:30:32.000Z",
+    "keys": [
+     "github.com/credoksopho1984/blender-ai-copilot-studio",
+     "github.com/racdeufindurch198812/blender-ai-mcp-studio",
+     "github.com/findavoulot1973/blender-ai-mcp-suite"
+    ]
+   },
+   {
+    "title": "Haru：低延迟多语言全双工对话模型",
+    "sum": "新开源的语音对话模型，支持多语言和全双工交互，具有低延迟特性，适合实时对话应用场景。",
+    "topic": "语音模型,多语言",
+    "heat": 62,
+    "url": "https://github.com/higurashi-ai/Haru",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-12T11:15:42.000Z",
+    "keys": [
+     "github.com/higurashi-ai/haru"
+    ]
+   },
+   {
+    "title": "Blender AI 助手工作流：受控的可审核编辑",
+    "sum": "GitHub 开源项目，为 Blender 提供受控 AI 工作流，每次 AI 编辑都需要用户审核和批准后才执行，支持撤销和取消操作。内置 MCP 服务器集成多个 AI 模型。",
+    "topic": "AI 助手,Bl",
+    "heat": 61,
+    "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-12T19:38:53.000Z",
+    "keys": [
+     "github.com/tiobeharxi1987/blender-ai-copilot-flow"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "智能机器人新范式：Agent Robotics综述",
+    "sum": "探讨GPT-6 Astra等基础模型在机器人领域的应用新范式，Agent机器人系统如何在开放世界任务中匹敌专有策略。这代表embodied AI的重要演进方向。",
+    "topic": "Agent,机器",
+    "heat": 72,
+    "url": "https://huggingface.co/papers/2611.18359",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-12T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.18359"
+    ]
+   },
+   {
+    "title": "VibePrevisBench：4D场景生成Agent基准",
+    "sum": "首个评估Coding Agent在Blender中进行4D场景重建并生成视频的基准。将长视频生成与3D场景构建结合，填补Agent应用的评估空白。",
+    "topic": "Agent,视频",
+    "heat": 69,
+    "url": "https://huggingface.co/papers/2611.15789",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-10T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.15789"
+    ]
+   },
+   {
+    "title": "Gamer：长跨度游戏Agent基础模型",
+    "sum": "专为复杂交互环境长跨度任务设计的通用Agent框架，支持2D界面和3D虚拟世界的统一交互管道。展现跨域Agent的通用能力。",
+    "topic": "Agent,多模",
+    "heat": 69,
+    "url": "https://huggingface.co/papers/2611.18397",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-12T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.18397"
+    ]
+   },
+   {
+    "title": "现代LLM中位置编码机制深度解读",
+    "sum": "技术文章详解位置编码在现代LLM中的作用机制。这是LLM架构的基础概念，对理解模型性能重要（235 points）。",
+    "topic": "LLM架构",
+    "heat": 62,
+    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50506376",
+    "publishedAt": "2026-11-15T12:14:06.000Z",
+    "keys": [
+     "magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+    ]
+   },
+   {
+    "title": "MMFlash：视觉语言模型推理加速",
+    "sum": "提出多模态推测解码方法，通过引入扩散drafters加速VLM生成。将加速技术从文本扩展到多模态，提升生成效率。",
+    "topic": "推理优化,多模态",
+    "heat": 62,
+    "url": "https://huggingface.co/papers/2611.18482",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-12T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.18482"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 11,
+  "co": 8,
+  "prod": 19,
+  "paper": 18
+ }
+}
