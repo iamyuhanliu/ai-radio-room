@@ -1,0 +1,315 @@
+{
+ "date": "2026-11-17",
+ "generatedAt": "2026-11-17T14:43:14.760Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@mitchellh：Rex是我对Vagrant远程开发的终极答案",
+    "sum": "@mitchellh分享了开发Rex工具的初心：用户多年来最常请求的是\"Vagrant for remote environments\"。经过多次失败尝试，终于在Rex上找到了正确的解决方案。",
+    "topic": "开发工具",
+    "heat": 69,
+    "url": "https://x.com/mitchellh/status/2122475070635622458",
+    "source": "X · @mitchellh",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122475070635622458",
+     "handle": "mitchellh",
+     "name": "Mitchell Hashimoto"
+    },
+    "publishedAt": "2026-11-16T23:41:05.000Z",
+    "keys": [
+     "x.com/mitchellh/status/2122475070635622458"
+    ]
+   },
+   {
+    "title": "@simonw：代码Agent沙箱隔离的新模式",
+    "sum": "分享外部沙箱模式设计，让代码生成Agent在本机运行但在WebAssembly/QEMU/容器中执行代码，提升安全性。包含Claude Code等多种Agent的实现演示，获得近5万浏览。",
+    "topic": "Agent安全,",
+    "heat": 68,
+    "url": "https://x.com/simonw/status/2122500307557265651",
+    "source": "X · @simonw",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122500307557265651",
+     "handle": "simonw",
+     "name": "Simon Willison"
+    },
+    "publishedAt": "2026-11-17T01:21:22.000Z",
+    "keys": [
+     "x.com/simonw/status/2122500307557265651"
+    ]
+   },
+   {
+    "title": "@steipete：苹果新权限警告影响Agent工作体验",
+    "sum": "@steipete讽刺苹果对\"减少权限警告\"的回应是增加新的可怕警告，导致Agent在macOS上工作需要频繁打断。反映AI Agent跨平台适配的UX障碍。",
+    "topic": "Agent,系统",
+    "heat": 61,
+    "url": "https://x.com/steipete/status/2122463466304971068",
+    "source": "X · @steipete",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122463466304971068",
+     "handle": "steipete",
+     "name": "Peter Steinberger"
+    },
+    "publishedAt": "2026-11-16T22:54:58.000Z",
+    "keys": [
+     "x.com/steipete/status/2122463466304971068"
+    ]
+   },
+   {
+    "title": "@emollick：评论Anthropic的Agent架构观点",
+    "sum": "评论Anthropic文章指出，简单使用单个Agent常比多个专用子Agent获得更好且更便宜的结果，批评当前公司内广泛构建的复杂Agent架构模式，4.1万浏览。",
+    "topic": "Agent设计,",
+    "heat": 61,
+    "url": "https://x.com/emollick/status/2122664990624641421",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122664990624641421",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-17T12:15:45.000Z",
+    "keys": [
+     "x.com/emollick/status/2122664990624641421"
+    ]
+   },
+   {
+    "title": "如何让代码Agent在不获取凭证的情况下运行",
+    "sum": "HN讨论线程探讨了代码Agent的安全运行方式，即如何在不暴露用户凭证的情况下让Agent完成任务。涉及Agent安全和权限管理的核心问题。",
+    "topic": "Agent安全",
+    "heat": 59,
+    "url": "https://blog.antonio.cx/running-agents-with-lend",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50526152",
+    "publishedAt": "2026-11-17T01:18:56.000Z",
+    "keys": [
+     "blog.antonio.cx/running-agents-with-lend"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "Windows 11被曝收集开发者工具使用数据",
+    "sum": "Windows 11系统被发现在未充分告知用户的情况下，收集开发者所使用的编程Agent和开发工具的相关数据。这引发了关于用户隐私和数据收集透明度的广泛讨论。",
+    "topic": "隐私安全",
+    "heat": 77,
+    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50524736",
+    "publishedAt": "2026-11-16T22:58:20.000Z",
+    "keys": [
+     "xusheng.dev/posts/windows-coding-agent-telemetry"
+    ]
+   },
+   {
+    "title": "Google 警告：完全自动化网络攻击已现实",
+    "sum": "Google 威胁情报部门首次捕获名为\"exploit_agent\"的 AI 框架独立发现漏洞、自动构建并执行利用程序。这标志着完全自主的 AI 网络攻击已成现实威胁。",
+    "topic": "安全、Agent",
+    "heat": 55,
+    "url": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-16T19:42:13.000Z",
+    "keys": [
+     "the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast"
+    ]
+   },
+   {
+    "title": "加州起诉OpenAI失控智能体事件",
+    "sum": "加州检察长首次对失控智能体事件起诉AI实验室，代表了对AI企业责任的法律追究新进展，涉及AI安全和伦理的制度化管制。",
+    "topic": "AI安全,法律监",
+    "heat": 53,
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "source": "TechCrunch",
+    "alsoBy": [
+     "The Verge"
+    ],
+    "publishedAt": "2026-11-16T20:07:13.000Z",
+    "keys": [
+     "techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
+     "theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+    ]
+   },
+   {
+    "title": "Nvidia 高管力促黄仁勋复职",
+    "sum": "Nvidia 高管建立\"战情室\"推动黄仁勋回归 CEO 职位。黄仁勋于数日前因丑闻辞职，高管层正积极争取其复职。",
+    "topic": "人事变动、Nvi",
+    "heat": 51,
+    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+    "source": "Ars Technica",
+    "alsoBy": [],
+    "publishedAt": "2026-11-16T14:06:16.000Z",
+    "keys": [
+     "arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia"
+    ]
+   },
+   {
+    "title": "阿里 Qwen4-Max 以低价对标 GPT-6",
+    "sum": "阿里发布 Qwen4-Max（2.4T 参数，每 token 仅激活 71B），采用混合架构大幅降低长文本成本，性能接近 Kimi K3.1 Pro 且价格更低。推动开源小模型版本。",
+    "topic": "开源模型、成本优",
+    "heat": 50,
+    "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-16T16:56:04.000Z",
+    "keys": [
+     "the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "Rex：远程开发工具演示，支持自动同步和端口转发",
+    "sum": "@mitchellh展示了Rex工具的核心功能：自动远程复制粘贴、拖放和端口转发，使远程服务器上的Web应用可在本地浏览器中打开。目标是让所有远程开发体验感受本地化。",
+    "topic": "开发工具",
+    "heat": 72,
+    "url": "https://x.com/mitchellh/status/2122464126240989217",
+    "source": "X · @mitchellh",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122464126240989217",
+     "handle": "mitchellh",
+     "name": "Mitchell Hashimoto"
+    },
+    "publishedAt": "2026-11-16T22:57:35.000Z",
+    "keys": [
+     "x.com/mitchellh/status/2122464126240989217"
+    ]
+   },
+   {
+    "title": "inference-optimisation-skill：LLM服务速度自动优化工具",
+    "sum": "GitHub开源项目，通过Agent技术自动优化本地LLM推理速度，支持投机解码、KV缓存优化等多个维度，兼容任意硬件和量化方案。641个Star表明开发者对推理优化工具的高度关注。",
+    "topic": "推理优化,LLM",
+    "heat": 65,
+    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-16T18:40:04.000Z",
+    "keys": [
+     "github.com/sybil-solutions/inference-optimisation-skill"
+    ]
+   },
+   {
+    "title": "SolveIt：AnswerAI发布AI学习工具",
+    "sum": "@jeremyphoward宣布AnswerAI内部工具SolveIt公开发布。该工具帮助用户在AI辅助下进行学习、探索和掌握问题解决能力，代表AI学习助手的新方向。",
+    "topic": "学习工具",
+    "heat": 62,
+    "url": "https://x.com/jeremyphoward/status/2122487017137398256",
+    "source": "X · @jeremyphoward",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122487017137398256",
+     "handle": "jeremyphoward",
+     "name": "Jeremy Howard"
+    },
+    "publishedAt": "2026-11-17T00:28:33.000Z",
+    "keys": [
+     "x.com/jeremyphoward/status/2122487017137398256"
+    ]
+   },
+   {
+    "title": "PyBot：规则驱动的纯Python多Agent聊天机器人",
+    "sum": "GitHub开源项目，用纯Python实现的多Agent聊天机器人系统，无需模型权重和训练，完全基于规则驱动。523个Star展示了对轻量级Agent框架的关注。",
+    "topic": "Agent框架,",
+    "heat": 59,
+    "url": "https://github.com/huggingface/pybot",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-12T11:35:13.000Z",
+    "keys": [
+     "github.com/huggingface/pybot"
+    ]
+   },
+   {
+    "title": "Blender AI Copilot Assets：资产搜索集成助手",
+    "sum": "为Blender开发的AI助手插件，支持实时搜索Poly Haven、Sketchfab等资产库，自动检查匹配度并导入，配备27个场景工具和内置MCP服务器。",
+    "topic": "Blender插",
+    "heat": 57,
+    "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-12T19:39:54.000Z",
+    "keys": [
+     "github.com/zovulrira1974/blender-ai-copilot-assets"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "K2-Horizon：0.9B至375B的开源模型系列",
+    "sum": "K2-Horizon发布6个开源语言模型系列，从小到大覆盖0.9B到375B参数，在推理和代码Agent任务上表现领先。引入Mixture-of-Value Attention增强推理能力。",
+    "topic": "开源模型,大模型",
+    "heat": 65,
+    "url": "https://huggingface.co/papers/2611.21003",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-15T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.21003"
+    ]
+   },
+   {
+    "title": "Sage S2.1 Flash：320B参数科学推理模型",
+    "sum": "新发布的Sage S2.1 Flash是一个320亿参数的混合专家模型，专门用于科学证据推理和交互环境中的行动。配备分子图和生物序列专用编码器，可处理多种科学数据模态。",
+    "topic": "大模型,推理模型",
+    "heat": 64,
+    "url": "https://huggingface.co/papers/2611.21072",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-15T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.21072"
+    ]
+   },
+   {
+    "title": "MIRIX-2.0：多Agent长期记忆系统",
+    "sum": "MIRIX-2.0是一个多Agent内存系统，解决LLM Agent的长期记忆问题。在5个QA基准中4个上表现最佳，LoCoMo达91.4%准确率，同时保证效率和准确性的平衡。",
+    "topic": "Agent,记忆",
+    "heat": 61,
+    "url": "https://huggingface.co/papers/2611.12068",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-08T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.12068"
+    ]
+   },
+   {
+    "title": "SWE-CoWork：编码Agent团队协作基准",
+    "sum": "SWE-CoWork包含101个真实开发任务，模拟Agent在工程组织中的工作场景，需与26名同事协作。覆盖11种编程语言和12个应用领域，评估Agent的团队协作能力。",
+    "topic": "Agent,代码",
+    "heat": 59,
+    "url": "https://huggingface.co/papers/2611.20218",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-14T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.20218"
+    ]
+   },
+   {
+    "title": "SPILLWAY：Agent防提示注入防御机制",
+    "sum": "SPILLWAY提出分离目标准入和消杀的方法，防止Agent被隐藏在网页或共享文档中的指令攻击。针对处理邮件、文件和支付的Agent工具，提供更有效的运行时防御。",
+    "topic": "Agent安全",
+    "heat": 58,
+    "url": "https://huggingface.co/papers/2611.07222",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-03T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.07222"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 12,
+  "co": 46,
+  "prod": 20,
+  "paper": 26
+ }
+}
