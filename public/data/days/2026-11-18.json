@@ -1,0 +1,318 @@
+{
+ "date": "2026-11-18",
+ "generatedAt": "2026-11-18T14:20:44.129Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@thsottiaux：GPT-6.2 评测差异源于版本变化",
+    "sum": "分析了为何业内人士和普通用户对 GPT-6.2 Sol/Astra 评价不一致的原因：模型在发布前 3-4 天进行了重大更新，提前获得访问权的用户基于旧版本制作视频评测，未及时重测。",
+    "topic": "大模型评测",
+    "heat": 81,
+    "url": "https://x.com/thsottiaux/status/2122929634916679820",
+    "source": "X · @thsottiaux",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122929634916679820",
+     "handle": "thsottiaux",
+     "name": "Tibo"
+    },
+    "publishedAt": "2026-11-18T05:47:21.000Z",
+    "keys": [
+     "x.com/thsottiaux/status/2122929634916679820"
+    ]
+   },
+   {
+    "title": "@ThePrimeagen：开发者应减少 AI 工具滥用",
+    "sum": "知名开发者认为大多数开发者应每次只用一个 AI 工具并深入思考，而非盲目尝试多个 AI，以避免低质产出。",
+    "topic": "AI 开发实践",
+    "heat": 69,
+    "url": "https://x.com/ThePrimeagen/status/2122714461660447028",
+    "source": "X · @ThePrimeagen",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122714461660447028",
+     "handle": "ThePrimeagen",
+     "name": "ThePrimeagen"
+    },
+    "publishedAt": "2026-11-17T15:32:20.000Z",
+    "keys": [
+     "x.com/theprimeagen/status/2122714461660447028"
+    ]
+   },
+   {
+    "title": "Claude Code 团队的代码验证思路",
+    "sum": "Claude Code 团队分享了如何验证 AI 生成代码的方法和思路，涉及代码质量保证的最佳实践。",
+    "topic": "代码助手",
+    "heat": 67,
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50529612",
+    "publishedAt": "2026-11-17T10:20:40.000Z",
+    "keys": [
+     "claude.dev/blog/how-the-claude-code-team-thinks-about-verification"
+    ]
+   },
+   {
+    "title": "@ThePrimeagen：评论 GPT-6.2 被批评",
+    "sum": "评论当前用户对 OpenAI GPT-6.2 的广泛批评，质疑 OpenAI 的未来前景，反映市场对新版本的失望情绪。",
+    "topic": "大模型评价",
+    "heat": 64,
+    "url": "https://x.com/ThePrimeagen/status/2122788691680665742",
+    "source": "X · @ThePrimeagen",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122788691680665742",
+     "handle": "ThePrimeagen",
+     "name": "ThePrimeagen"
+    },
+    "publishedAt": "2026-11-17T20:27:18.000Z",
+    "keys": [
+     "x.com/theprimeagen/status/2122788691680665742"
+    ]
+   },
+   {
+    "title": "@emollick：AI补丁紧急推送是系统中断的合理解释",
+    "sum": "Wharton教授emollick分析最近IT系统中断主要由AI驱动的安全补丁紧急部署引起，CIO面临平衡安全和运维的巨大压力。揭示AI自动化在关键运维中的实际困境。",
+    "topic": "AI安全,系统风",
+    "heat": 61,
+    "url": "https://x.com/emollick/status/2122869773683831129",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122869773683831129",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-18T01:49:29.000Z",
+    "keys": [
+     "x.com/emollick/status/2122869773683831129"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol",
+    "sum": "OpenAI 发布了 GPT-6.2 系列新模型 Astra 和 Sol。相比前代有显著提升，但在发布前数天仍有重要更新，部分提前获得访问的用户可能基于旧版本进行评测。",
+    "topic": "大模型发布",
+    "heat": 100,
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "source": "Hacker News",
+    "alsoBy": [
+     "OpenAI",
+     "Simon Willison"
+    ],
+    "discussion": "https://news.ycombinator.com/item?id=50535230",
+    "publishedAt": "2026-11-17T17:46:43.000Z",
+    "keys": [
+     "openai.com/index/introducing-gpt-6-2-astra-sol",
+     "simonwillison.net/2026/nov/17/gpt62-astra-and-sol"
+    ]
+   },
+   {
+    "title": "AI 摘要导致柏林旅游网站流量下降",
+    "sum": "搜索引擎 AI 摘要功能导致 All About Berlin 网站流量严重受损。反映了 AI 答案对内容创作者的冲击。",
+    "topic": "AI 搜索影响",
+    "heat": 77,
+    "url": "https://nicolasbouliane.com/blog/death-by-ai",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50542705",
+    "publishedAt": "2026-11-18T06:47:26.000Z",
+    "keys": [
+     "nicolasbouliane.com/blog/death-by-ai"
+    ]
+   },
+   {
+    "title": "Google AI 答案导致搜索流量减少 40%",
+    "sum": "研究显示 Google 的 AI 答案功能将搜索流量降低 40%。反映 AI 生成摘要对搜索生态的深层影响。",
+    "topic": "AI 搜索影响",
+    "heat": 77,
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50540178",
+    "publishedAt": "2026-11-18T00:17:58.000Z",
+    "keys": [
+     "revscope.co/blog/search-seo-geo-2026"
+    ]
+   },
+   {
+    "title": "AI驱动补丁引发大规模中断",
+    "sum": "美国银行CEO和NSA向国会报告，AI驱动的自动补丁更新是近期IT系统大规模中断的原因。反映AI在关键基础设施中使用带来的风险和管理挑战。",
+    "topic": "AI安全,系统风",
+    "heat": 67,
+    "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50540836",
+    "publishedAt": "2026-11-18T01:45:11.000Z",
+    "keys": [
+     "washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
+    ]
+   },
+   {
+    "title": "百度、小米 CEO 警示 AI 炒作与回报差距",
+    "sum": "百度、小米等公司高管指出当前 AI 市场存在严重的炒作现象与实际商业回报的巨大鸿沟，需理性评估 AI 投资。",
+    "topic": "AI 产业",
+    "heat": 66,
+    "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50531751",
+    "publishedAt": "2026-11-17T14:19:59.000Z",
+    "keys": [
+     "scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "rust-anything：逐步迁移应用到 Rust",
+    "sum": "开源工具可逐步将应用从 TypeScript、Python、C、Go、Ruby、Java 等语言迁移到 Rust，每步都对照原程序行为验证，降低迁移风险。",
+    "topic": "开发工具",
+    "heat": 74,
+    "url": "https://github.com/erkamyaman/rust-anything",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-16T12:10:36.000Z",
+    "keys": [
+     "github.com/erkamyaman/rust-anything"
+    ]
+   },
+   {
+    "title": "PeakCut：自托管视频AI剪辑工具",
+    "sum": "PeakCut是自托管的AI视频剪辑工具，支持长视频和直播流处理，用户可自带AI密钥。已获得近千个GitHub Star，展示出实用工具类产品的市场需求。",
+    "topic": "视频处理,工具",
+    "heat": 68,
+    "url": "https://github.com/haziqahmedqasmi/PeakCut",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-14T07:38:20.000Z",
+    "keys": [
+     "github.com/haziqahmedqasmi/peakcut"
+    ]
+   },
+   {
+    "title": "StarSling：AI驱动的自改进CI工具",
+    "sum": "StarSling是YC创业公司，提供快速GitHub Actions runner配合AI Agent自动改进测试和工作流。每个CI任务获得独立沙箱，展示Agent在DevOps领域的实际应用。",
+    "topic": "Agent,De",
+    "heat": 64,
+    "url": "https://news.ycombinator.com/item?id=50536468",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50536468",
+    "publishedAt": "2026-11-17T19:01:43.000Z",
+    "keys": [
+     "news.ycombinator.com/item?id=50536468"
+    ]
+   },
+   {
+    "title": "Apple发布FastFrames视频生成模型",
+    "sum": "Apple开源发布FastFrames视频生成模型，包含14B和1.3B两个版本，实现交互级延迟的视频生成能力。表明苹果在端侧AI视频生成方面的突破进展。",
+    "topic": "视频生成,开源模",
+    "heat": 62,
+    "url": "https://x.com/_akhaliq/status/2122824565185503427",
+    "source": "X · @_akhaliq",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2122824565185503427",
+     "handle": "_akhaliq",
+     "name": "AK"
+    },
+    "publishedAt": "2026-11-17T22:49:51.000Z",
+    "keys": [
+     "x.com/_akhaliq/status/2122824565185503427"
+    ]
+   },
+   {
+    "title": "AI Agent营销技能库开源",
+    "sum": "开源项目提供32个免费营销技能供AI Agent使用，涵盖研究、文案、SEO、广告等营销全流程。展示Agent在商业应用中的具体工具集成方向。",
+    "topic": "Agent,应用",
+    "heat": 55,
+    "url": "https://github.com/boringmarketer/boring-marketing-skills",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-16T15:09:46.000Z",
+    "keys": [
+     "github.com/boringmarketer/boring-marketing-skills"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "Xing4：国产芯片上的前沿 Agent 模型",
+    "sum": "介绍 Xing4 大模型系列，在华为昇腾芯片上实现架构创新和训练基础设施升级，涵盖稀疏激活、注意力机制、推理能力等多维度突破。",
+    "topic": "国产大模型、Ag",
+    "heat": 73,
+    "url": "https://huggingface.co/papers/2611.22115",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-16T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.22115"
+    ]
+   },
+   {
+    "title": "AI 编码智能体转移了代码审查瓶颈",
+    "sum": "哈佛研究发现 AI 编码智能体提高了编码效率，但将工作瓶颈转移到了代码审查环节，需要重新思考审查流程。",
+    "topic": "代码助手、开发效",
+    "heat": 69,
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50538303",
+    "publishedAt": "2026-11-17T21:16:12.000Z",
+    "keys": [
+     "complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review"
+    ]
+   },
+   {
+    "title": "AscendGYM：昇腾芯片核心优化基准测试",
+    "sum": "提出针对华为昇腾 NPU 的 Kernel 优化基准测试，包含 48 个真实工作负载核心，评估 Agent 在约束条件下的优化能力。",
+    "topic": "国产芯片、算力优",
+    "heat": 66,
+    "url": "https://huggingface.co/papers/2611.17621",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-12T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.17621"
+    ]
+   },
+   {
+    "title": "能量推理模型实现 385 倍推理效率提升",
+    "sum": "新方法采用能量基推理策略，相比传统方式推理效率提升 385 倍，为低资源环境的 AI 部署提供新路径。",
+    "topic": "推理优化",
+    "heat": 64,
+    "url": "https://energy-based-reasoners.github.io/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50543989",
+    "publishedAt": "2026-11-18T09:29:32.000Z",
+    "keys": [
+     "energy-based-reasoners.github.io"
+    ]
+   },
+   {
+    "title": "权重空间编程无需 Transformer",
+    "sum": "研究表明在权重空间编程范式中，大模型可直接手写目标权重而无需梯度训练，Transformer 架构未必必要，10 个标注样本上已可验证可行性。",
+    "topic": "模型架构",
+    "heat": 59,
+    "url": "https://huggingface.co/papers/2611.22055",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-16T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.22055"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 16,
+  "co": 43,
+  "prod": 18,
+  "paper": 24
+ }
+}

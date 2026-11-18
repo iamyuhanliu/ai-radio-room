@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T14:43:14.761Z",
+ "updatedAt": "2026-11-18T14:20:44.130Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -174,6 +174,22 @@
    "keyword": "隐私安全",
    "head": {
     "title": "Windows 11被曝收集开发者工具使用数据",
+    "cat": "co"
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "raw": {
+    "kol": 16,
+    "co": 43,
+    "prod": 18,
+    "paper": 24
+   },
+   "total": 101,
+   "big": true,
+   "keyword": "大模型发布",
+   "head": {
+    "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol",
     "cat": "co"
    }
   }
