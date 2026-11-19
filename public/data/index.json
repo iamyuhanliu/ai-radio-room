@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T14:20:44.130Z",
+ "updatedAt": "2026-11-19T14:33:49.742Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -190,6 +190,22 @@
    "keyword": "大模型发布",
    "head": {
     "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol",
+    "cat": "co"
+   }
+  },
+  {
+   "date": "2026-11-19",
+   "raw": {
+    "kol": 18,
+    "co": 38,
+    "prod": 17,
+    "paper": 22
+   },
+   "total": 95,
+   "big": false,
+   "keyword": "大模型",
+   "head": {
+    "title": "Google发布Gemini 4 Neon模型",
     "cat": "co"
    }
   }

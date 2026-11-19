@@ -1,0 +1,320 @@
+{
+ "date": "2026-11-19",
+ "generatedAt": "2026-11-19T14:33:49.741Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@jeremyphoward：转折点出现，Google模型领先",
+    "sum": "@jeremyphoward认为Google发布的模型达到行业最高水平，而OpenAI同日发布的模型相对较弱，标志着市场格局的转变。获得1928个赞，观点具有看点。",
+    "topic": "大模型",
+    "heat": 69,
+    "url": "https://x.com/jeremyphoward/status/2123340065715937423",
+    "source": "X · @jeremyphoward",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2123340065715937423",
+     "handle": "jeremyphoward",
+     "name": "Jeremy Howard"
+    },
+    "publishedAt": "2026-11-19T08:58:16.000Z",
+    "keys": [
+     "x.com/jeremyphoward/status/2123340065715937423"
+    ]
+   },
+   {
+    "title": "@rauchg：消息板基础设施推动Agent突破",
+    "sum": "@rauchg认为建立的消息板基础设施（\"无头Slack\"）对Agent应用和协作是重要创新，可作为软件工厂的基础。获得1419个赞和102k次浏览。",
+    "topic": "Agent",
+    "heat": 69,
+    "url": "https://x.com/rauchg/status/2123237505810178434",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2123237505810178434",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-11-19T02:10:43.000Z",
+    "keys": [
+     "x.com/rauchg/status/2123237505810178434"
+    ]
+   },
+   {
+    "title": "@jeremyphoward：比较三大AI公司战略目标",
+    "sum": "@jeremyphoward分析OpenAI、Anthropic、Google三家公司不同的商业目标和战略取向，支持Google实现长期平衡的做法。获得1369个赞。",
+    "topic": "大模型",
+    "heat": 66,
+    "url": "https://x.com/jeremyphoward/status/2123363754394231178",
+    "source": "X · @jeremyphoward",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2123363754394231178",
+     "handle": "jeremyphoward",
+     "name": "Jeremy Howard"
+    },
+    "publishedAt": "2026-11-19T10:32:23.000Z",
+    "keys": [
+     "x.com/jeremyphoward/status/2123363754394231178"
+    ]
+   },
+   {
+    "title": "@rauchg：推理平台创业浪潮与Token需求爆发",
+    "sum": "@rauchg观察到每两天被pitch一家新推理平台创企，但Vercel AI Gateway的Token需求月环比增长40%。分析计算成为新经济、Token为新能源单位的趋势。获得1303个赞。",
+    "topic": "推理模型",
+    "heat": 66,
+    "url": "https://x.com/rauchg/status/2123203741570740504",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2123203741570740504",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-11-18T23:56:33.000Z",
+    "keys": [
+     "x.com/rauchg/status/2123203741570740504"
+    ]
+   },
+   {
+    "title": "@ThePrimeagen：AI助手简化身份验证流程",
+    "sum": "开发者展示使用AI助手自动化生成多平台API令牌并配置登录流程的实际效果，省去繁琐的控制台操作，体现AI在开发工作流中的实用价值。",
+    "topic": "开发效率，AI应",
+    "heat": 59,
+    "url": "https://x.com/ThePrimeagen/status/2123188274944717013",
+    "source": "X · @ThePrimeagen",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2123188274944717013",
+     "handle": "ThePrimeagen",
+     "name": "ThePrimeagen"
+    },
+    "publishedAt": "2026-11-18T22:55:06.000Z",
+    "keys": [
+     "x.com/theprimeagen/status/2123188274944717013"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "Google发布Gemini 4 Neon模型",
+    "sum": "Google推出Gemini 4 Neon模型，在HN获得913个points和712条评论。这是Google最新的大语言模型发布，引起开发者广泛关注和讨论。",
+    "topic": "大模型",
+    "heat": 90,
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50552424",
+    "publishedAt": "2026-11-18T21:34:07.000Z",
+    "keys": [
+     "blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon"
+    ]
+   },
+   {
+    "title": "Anthropic宣布首次公开募股定价",
+    "sum": "Anthropic宣布其首次公开募股（IPO）的定价计划。这是Anthropic的重要融资里程碑，获得323个points和593条评论，同时得到官方确认。",
+    "topic": "融资",
+    "heat": 87,
+    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+    "source": "Hacker News",
+    "alsoBy": [
+     "Anthropic"
+    ],
+    "discussion": "https://news.ycombinator.com/item?id=50553843",
+    "publishedAt": "2026-11-18T23:30:09.000Z",
+    "keys": [
+     "anthropic.com/news/anthropic-prices-initial-public-offering"
+    ]
+   },
+   {
+    "title": "七款新模型发布，性价比提升",
+    "sum": "某AI公司发布七款新模型，在性能和价格方面实现可扩展的权衡。获得574个points和361条评论，表明市场对成本效益模型的关注。",
+    "topic": "大模型",
+    "heat": 78,
+    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50548021",
+    "publishedAt": "2026-11-18T16:08:24.000Z",
+    "keys": [
+     "microsoft.ai/news/microsoft-ignite-2026"
+    ]
+   },
+   {
+    "title": "OpenAI模型加速芯片设计",
+    "sum": "OpenAI的模型被应用于芯片设计领域，实现设计流程的加速。获得216个points和155条评论，显示AI在硬件设计中的应用进展。",
+    "topic": "芯片设计",
+    "heat": 66,
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50549493",
+    "publishedAt": "2026-11-18T17:45:47.000Z",
+    "keys": [
+     "openai.com/index/advancing-chip-design-with-our-models"
+    ]
+   },
+   {
+    "title": "高中生控诉AI视觉识别误将零食误认为枪",
+    "sum": "黑人高中生起诉AI系统将Doritos薯片袋错误识别为枪支。暴露计算机视觉系统的偏见和安全风险，获得104个points。",
+    "topic": "AI安全",
+    "heat": 59,
+    "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50554641",
+    "publishedAt": "2026-11-19T00:57:20.000Z",
+    "keys": [
+     "lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "AI代理在审计试验中表现超过KPMG审计师",
+    "sum": "AI代理在审计业务中的表现优于人类审计师，能够提出更好的问题。这展示了AI在专业服务领域的应用潜力和实际价值验证。",
+    "topic": "Agent",
+    "heat": 74,
+    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50547777",
+    "publishedAt": "2026-11-18T15:49:34.000Z",
+    "keys": [
+     "europeanbusinessmagazine.com/ai-agents-better-questions-kpmg"
+    ]
+   },
+   {
+    "title": "Gemini 4 Neon与Opus 5.5对标",
+    "sum": "分析Gemini 4 Neon作为Claude Opus 5.5的竞争对手。获得240个points，反映市场对顶级模型竞争态势的关注。",
+    "topic": "大模型",
+    "heat": 67,
+    "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50554374",
+    "publishedAt": "2026-11-19T00:29:45.000Z",
+    "keys": [
+     "micjm.com/blog/gemini-4-neon-looks-like-a-top-model"
+    ]
+   },
+   {
+    "title": "LLM辅助逆向工程技术",
+    "sum": "探讨如何利用大语言模型协助逆向工程工作。获得275个points，展示了LLM在系统分析领域的新应用方向。",
+    "topic": "代码助手",
+    "heat": 64,
+    "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50553225",
+    "publishedAt": "2026-11-18T22:29:13.000Z",
+    "keys": [
+     "slowchronicle.com/posts/llm-assisted-reverse-engineering"
+    ]
+   },
+   {
+    "title": "X垃圾账户列表工具发布",
+    "sum": "开发者推出\"X垃圾账户列表\"工具，收录3728个持续发送自动化AI回复的刷屏账户，提供证据、一键屏蔽和API接口，已有498个账户被X平台封禁。",
+    "topic": "社交媒体，AI滥",
+    "heat": 62,
+    "url": "https://x.com/levelsio/status/2123388955143893122",
+    "source": "X · @levelsio",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2123388955143893122",
+     "handle": "levelsio",
+     "name": "@levelsio"
+    },
+    "publishedAt": "2026-11-19T12:12:32.000Z",
+    "keys": [
+     "x.com/levelsio/status/2123388955143893122"
+    ]
+   },
+   {
+    "title": "Superhuman Go Agent 扩展至 Docs 和 Mail",
+    "sum": "Superhuman 将 Go AI Agent 作为核心功能，扩展到文档和邮件等应用场景，增强工作效率工具的 AI 能力。",
+    "topic": "工作助手,Age",
+    "heat": 42,
+    "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+    "source": "TechCrunch",
+    "alsoBy": [],
+    "publishedAt": "2026-11-19T14:00:00.000Z",
+    "keys": [
+     "techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "Jeveration：单步生成高质量图像",
+    "sum": "提出Jeveration方法，使用System One模型范式单次前向传播生成高质量图像。通过冻结视觉语言模型实现图像生成，解决全局一致性问题。",
+    "topic": "图像生成",
+    "heat": 57,
+    "url": "https://huggingface.co/papers/2611.24738",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-17T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.24738"
+    ]
+   },
+   {
+    "title": "HINT-WAM：机器人操作的世界行动模型",
+    "sum": "提出HINT-WAM框架，通过后见之明训练改进世界行动模型(WAM)的任务执行能力。将行动生成与视觉动态预测耦合，解决离线监督微调中的可靠性问题。",
+    "topic": "机器人，世界模型",
+    "heat": 57,
+    "url": "https://huggingface.co/papers/2611.24789",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-17T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.24789"
+    ]
+   },
+   {
+    "title": "CurvDelta：LLM适配的能力保护框架",
+    "sum": "提出CurvDelta框架，通过低曲率空间参数化解决LLM适配中的通用能力衰减问题。在局部几何约束下，同时实现目标适配与能力保留。",
+    "topic": "模型适配，LLM",
+    "heat": 55,
+    "url": "https://huggingface.co/papers/2611.24654",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-17T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.24654"
+    ]
+   },
+   {
+    "title": "Resolution假设：Agent演化的关键是改进识别",
+    "sum": "提出Resolution假设解释Agent进化的瓶颈：Agent演化停滞不是因为提议方法失败，而是无法识别改进。为Agent优化提供新的理论视角。",
+    "topic": "Agent",
+    "heat": 53,
+    "url": "https://huggingface.co/papers/2611.23068",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-16T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.23068"
+    ]
+   },
+   {
+    "title": "ALIVE：交互式流式视频模型",
+    "sum": "提出ALIVE框架支持流式视频LLM的交互能力，包括主动监控、任务协调和反馈寻求。通过监督微调和强化学习实现两阶段训练。",
+    "topic": "视觉模型",
+    "heat": 52,
+    "url": "https://huggingface.co/papers/2611.21366",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-15T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.21366"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 18,
+  "co": 38,
+  "prod": 17,
+  "paper": 22
+ }
+}
