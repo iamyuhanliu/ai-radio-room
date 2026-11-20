@@ -1,0 +1,315 @@
+{
+ "date": "2026-11-20",
+ "generatedAt": "2026-11-20T14:12:29.243Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@Pete Warden：本地 AI、开源模型、语音交互的未来",
+    "sum": "Pete Warden 讨论本地 AI、开源模型、语音界面和硬件未来的发展方向。涉及边缘计算、开源生态等重要话题。",
+    "topic": "开源模型",
+    "heat": 68,
+    "url": "https://thedataexchange.media/pete-warden-moonshine/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50561508",
+    "publishedAt": "2026-11-19T15:38:12.000Z",
+    "keys": [
+     "thedataexchange.media/pete-warden-moonshine"
+    ]
+   },
+   {
+    "title": "@Guillermo Rauch：工程师价值的指数分化",
+    "sum": "分析 AI 时代工程师的价值分化：面向结果的创意工程师成为 1000 倍工程师，普通知识工作者提升 2 倍效能。反映 AI 对生产力的非均匀影响。",
+    "topic": "工程效能",
+    "heat": 64,
+    "url": "https://x.com/rauchg/status/2123505400591106113",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2123505400591106113",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-11-19T19:55:14.000Z",
+    "keys": [
+     "x.com/rauchg/status/2123505400591106113"
+    ]
+   },
+   {
+    "title": "Jacob Coxon 和 Robin Hanson 辩论政府是否应减速前沿 AI",
+    "sum": "AI 政策和伦理专家围绕政府监管前沿 AI 发展的必要性进行深度辩论。涉及 AI 安全监管的重要议题。",
+    "topic": "AI 监管",
+    "heat": 62,
+    "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50564366",
+    "publishedAt": "2026-11-19T18:47:16.000Z",
+    "keys": [
+     "youtube.com/watch?v=lwfewyl7x0o"
+    ]
+   },
+   {
+    "title": "AI 未替代工作，而是转为低薪零工",
+    "sum": "评论文章分析 AI 对工作市场的影响：不是直接替代，而是将工作转变为低薪零工性质。反映 AI 应用中的劳动力挑战。",
+    "topic": "工作市场",
+    "heat": 59,
+    "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50562500",
+    "publishedAt": "2026-11-19T16:45:50.000Z",
+    "keys": [
+     "restofworld.org/2026/ai-jobs-skills-gig-work"
+    ]
+   },
+   {
+    "title": "@emollick：AI 科研社区实验成果显著",
+    "sum": "35 个人类实验室部署 AI Agent 相互协作完成科研，发布 936 篇论文，主动撤回错误，愿意发表零结果，建立同行评审期刊，展示 AI 科研社区的可行性。",
+    "topic": "Agent、科研",
+    "heat": 59,
+    "url": "https://x.com/emollick/status/2123631539942801732",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2123631539942801732",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-20T04:16:28.000Z",
+    "keys": [
+     "x.com/emollick/status/2123631539942801732"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "Anthropic 在纳斯达克上市",
+    "sum": "AI 安全初创公司 Anthropic 完成纳斯达克 IPO。作为 Claude 大模型的开发者，这是 AI 领域重要的融资事件，引发业界广泛关注。",
+    "topic": "融资上市",
+    "heat": 91,
+    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50562754",
+    "publishedAt": "2026-11-19T17:02:40.000Z",
+    "keys": [
+     "reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19"
+    ]
+   },
+   {
+    "title": "ChatGPT 新增 Dots 功能向用户推送",
+    "sum": "OpenAI 向 ChatGPT Plus 和 Business Standard 用户推出 Dots 功能，提升应用的主动推荐能力。同时推出新版移动应用设计，整合 Dots、Projects 等功能。",
+    "topic": "产品更新",
+    "heat": 83,
+    "url": "https://x.com/thsottiaux/status/2123556256392847657",
+    "source": "X · @thsottiaux",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2123556256392847657",
+     "handle": "thsottiaux",
+     "name": "Tibo"
+    },
+    "publishedAt": "2026-11-19T23:17:19.000Z",
+    "keys": [
+     "x.com/thsottiaux/status/2123556256392847657"
+    ]
+   },
+   {
+    "title": "ChatGPT 移动应用焕新，优化功能发现",
+    "sum": "OpenAI 重新设计 ChatGPT 移动应用，改进功能导航和使用体验。为 Pro 用户和 Dots 功能用户优先推出，支持自定义标签栏。",
+    "topic": "产品更新",
+    "heat": 79,
+    "url": "https://x.com/thsottiaux/status/2123557171321561133",
+    "source": "X · @thsottiaux",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2123557171321561133",
+     "handle": "thsottiaux",
+     "name": "Tibo"
+    },
+    "publishedAt": "2026-11-19T23:20:58.000Z",
+    "keys": [
+     "x.com/thsottiaux/status/2123557171321561133"
+    ]
+   },
+   {
+    "title": "Gemini 4 Neon 成为模型性能排行榜第一",
+    "sum": "Google 的 Gemini 4 Neon 在 Models Engineering Index 排行榜上位居榜首，代表其在模型性能指标上的最新进展。",
+    "topic": "大模型",
+    "heat": 73,
+    "url": "https://git-aarvin.github.io/mei/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50568130",
+    "publishedAt": "2026-11-19T23:35:35.000Z",
+    "keys": [
+     "git-aarvin.github.io/mei"
+    ]
+   },
+   {
+    "title": "Chrome AI 功能造成带宽浪费问题",
+    "sum": "分析报告指出 Chrome 内置 AI 功能存在过度消耗带宽的问题。反映浏览器集成 AI 的实际成本和优化挑战。",
+    "topic": "浏览器AI",
+    "heat": 57,
+    "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50562636",
+    "publishedAt": "2026-11-19T16:54:25.000Z",
+    "keys": [
+     "perishablepress.com/chrome-ai-wasting-much-bandwidth"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "@mitchellh：Rex 增加 SSH 跨端支持",
+    "sum": "Rex 推出 SSH 跨端功能，支持一条命令在远程服务器安装，简化了分布式部署流程，工作于所有客户端。",
+    "topic": "开发工具、SSH",
+    "heat": 65,
+    "url": "https://x.com/mitchellh/status/2123516770812387809",
+    "source": "X · @mitchellh",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2123516770812387809",
+     "handle": "mitchellh",
+     "name": "Mitchell Hashimoto"
+    },
+    "publishedAt": "2026-11-19T20:40:25.000Z",
+    "keys": [
+     "x.com/mitchellh/status/2123516770812387809"
+    ]
+   },
+   {
+    "title": "Blender AI MCP 插件：3D 建模助手",
+    "sum": "新开源插件将 AI 助手集成到 Blender，支持多模型后端，提供场景工具和多智能体工作流。方便 3D 创作者使用 AI 辅助。",
+    "topic": "开源工具",
+    "heat": 62,
+    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-19T14:43:10.000Z",
+    "keys": [
+     "github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    ]
+   },
+   {
+    "title": "两个新隐形模型登上排行榜超越 Fable 5.2",
+    "sum": "两个未公开身份的模型在性能排行榜上超越 Fable 5.2，可能代表新的模型创新或公司进展。",
+    "topic": "大模型",
+    "heat": 61,
+    "url": "https://contralabs.com/frontierdesign",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50558559",
+    "publishedAt": "2026-11-19T11:03:20.000Z",
+    "keys": [
+     "contralabs.com/frontierdesign"
+    ]
+   },
+   {
+    "title": "Neonclipping：本地开源视频裁剪工具",
+    "sum": "开源项目提供本地视频裁剪引擎，快速生成带字幕的竖版视频。支持离线运行和本地 LLM，适合内容创作。",
+    "topic": "开源工具",
+    "heat": 61,
+    "url": "https://github.com/iamajmeena/neonclipping",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-19T10:00:43.000Z",
+    "keys": [
+     "github.com/iamajmeena/neonclipping"
+    ]
+   },
+   {
+    "title": "OpenAI WebRTC 问题引发关注",
+    "sum": "OpenAI 在 WebRTC 实现上存在问题，引发开发者讨论。这反映了实时通信功能在 AI 应用中的技术挑战。",
+    "topic": "WebRTC、技",
+    "heat": 57,
+    "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50560461",
+    "publishedAt": "2026-11-19T14:20:08.000Z",
+    "keys": [
+     "moq.dev/blog/webrtc-is-still-the-problem"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "Claude 解决黑洞物理两个开放问题",
+    "sum": "Claude 大模型在物理研究中取得突破，解决了黑洞物理的两个长期开放问题。展示了 AI 在基础科学研究中的实际应用价值。",
+    "topic": "科学研究",
+    "heat": 77,
+    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50563148",
+    "publishedAt": "2026-11-19T17:30:44.000Z",
+    "keys": [
+     "anthropic.com/research/claude-black-hole-physics"
+    ]
+   },
+   {
+    "title": "AI 设计发现新 CPU 架构 Frostbite",
+    "sum": "AI 系统自主设计并验证了新的 CPU 架构 Frostbite。展示了 AI 在硬件设计领域的创新能力。",
+    "topic": "芯片设计",
+    "heat": 73,
+    "url": "https://architectlabs.com/blog/frostbite",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50572503",
+    "publishedAt": "2026-11-20T10:01:41.000Z",
+    "keys": [
+     "architectlabs.com/blog/frostbite"
+    ]
+   },
+   {
+    "title": "WeMM-Video：开源多模态视频理解模型",
+    "sum": "介绍 WeMM-Video 多语言视频理解模型家族（2B-35B），统一音频、视频、文本、图像处理。推进开源多模态基础模型发展。",
+    "topic": "多模态模型",
+    "heat": 60,
+    "url": "https://huggingface.co/papers/2611.26409",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-18T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.26409"
+    ]
+   },
+   {
+    "title": "Mind2Act World：具身智能诊断基准",
+    "sum": "新论文提出针对机器人操作的具身智能诊断基准，评估认知推理、物理执行、推理执行整合能力。推进机器人 AI 研究标准化。",
+    "topic": "具身智能",
+    "heat": 59,
+    "url": "https://huggingface.co/papers/2611.26444",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-18T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.26444"
+    ]
+   },
+   {
+    "title": "WeVisForensics：自演进 AI 生成视频检测",
+    "sum": "新论文提出自演进多智能体框架用于 AI 生成视频检测，支持自适应调查策略。应对日益逼真的 AI 生成视频挑战。",
+    "topic": "视频检测",
+    "heat": 57,
+    "url": "https://huggingface.co/papers/2611.21373",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-15T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.21373"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 16,
+  "co": 47,
+  "prod": 11,
+  "paper": 23
+ }
+}

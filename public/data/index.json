@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T14:33:49.742Z",
+ "updatedAt": "2026-11-20T14:12:29.245Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -206,6 +206,22 @@
    "keyword": "大模型",
    "head": {
     "title": "Google发布Gemini 4 Neon模型",
+    "cat": "co"
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "raw": {
+    "kol": 16,
+    "co": 47,
+    "prod": 11,
+    "paper": 23
+   },
+   "total": 97,
+   "big": false,
+   "keyword": "融资上市",
+   "head": {
+    "title": "Anthropic 在纳斯达克上市",
     "cat": "co"
    }
   }
