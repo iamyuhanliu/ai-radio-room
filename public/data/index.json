@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T14:12:29.245Z",
+ "updatedAt": "2026-11-21T13:36:49.086Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -223,6 +223,22 @@
    "head": {
     "title": "Anthropic 在纳斯达克上市",
     "cat": "co"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "raw": {
+    "kol": 8,
+    "co": 15,
+    "prod": 8,
+    "paper": 23
+   },
+   "total": 54,
+   "big": false,
+   "keyword": "AI安全,隐私保",
+   "head": {
+    "title": "限制移动OS中AI Agent的数据捕获权限",
+    "cat": "kol"
    }
   }
  ]
