@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T13:36:49.086Z",
+ "updatedAt": "2026-11-22T13:28:36.277Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -239,6 +239,22 @@
    "head": {
     "title": "限制移动OS中AI Agent的数据捕获权限",
     "cat": "kol"
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "raw": {
+    "kol": 0,
+    "co": 7,
+    "prod": 12,
+    "paper": 16
+   },
+   "total": 35,
+   "big": false,
+   "keyword": "算力,能源,基础",
+   "head": {
+    "title": "Anthropic 2028年能源规划：气电占87%、煤电占11%",
+    "cat": "co"
    }
   }
  ]

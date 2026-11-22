@@ -1,0 +1,218 @@
+{
+ "date": "2026-11-22",
+ "generatedAt": "2026-11-22T13:28:36.275Z",
+ "items": {
+  "kol": [],
+  "co": [
+   {
+    "title": "Anthropic 2028年能源规划：气电占87%、煤电占11%",
+    "sum": "Hacker News讨论Anthropic未来能源构成，显示其大规模AI基础设施建设的能源需求和环保策略。反映AI公司在算力扩张中面临的能源挑战。",
+    "topic": "算力,能源,基础",
+    "heat": 72,
+    "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50597612",
+    "publishedAt": "2026-11-22T08:57:34.000Z",
+    "keys": [
+     "betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power"
+    ]
+   },
+   {
+    "title": "推理服务商数据处理安全事件",
+    "sum": "讨论推理API提供商在数据处理中发现的安全问题，涉及用户隐私和推理服务的可信性。对选择推理平台的用户具有参考价值。",
+    "topic": "安全,推理API",
+    "heat": 60,
+    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50595554",
+    "publishedAt": "2026-11-22T02:14:14.000Z",
+    "keys": [
+     "openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers"
+    ]
+   },
+   {
+    "title": "AI供应链安全：金丝雀令牌发现的威胁",
+    "sum": "研究使用金丝雀令牌检测AI供应链中的安全问题，发现真实威胁和薄弱环节。对AI系统的安全性审计和风险评估具有实践参考价值。",
+    "topic": "安全,供应链,威",
+    "heat": 50,
+    "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50596511",
+    "publishedAt": "2026-11-22T05:11:43.000Z",
+    "keys": [
+     "dragos.com/blog/ai-supply-chain-security-canary-tokens"
+    ]
+   },
+   {
+    "title": "Anthropic IPO后能否坚持安全优先战略",
+    "sum": "Anthropic已在纳斯达克上市，这引发了关于该公司能否在商业压力下继续优先考虑AI安全的问题。The Verge深度讨论了上市对其安全研究方向的潜在影响。",
+    "topic": "AI安全,融资",
+    "heat": 45,
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "source": "The Verge",
+    "alsoBy": [],
+    "publishedAt": "2026-11-21T15:00:00.000Z",
+    "keys": [
+     "theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+    ]
+   },
+   {
+    "title": "演员授权AI换脸创业公司",
+    "sum": "好莱坞演员向微短剧创业公司授权面部数据，这一在中国流行的趋势引发长期风险担忧。反映AI换脸应用的商业化和伦理问题。",
+    "topic": "AI伦理,换脸,",
+    "heat": 39,
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "source": "TechCrunch",
+    "alsoBy": [],
+    "publishedAt": "2026-11-21T16:00:00.000Z",
+    "keys": [
+     "techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "fast-anything：用Agent加速Python热点代码",
+    "sum": "开源工具可自动分析Python/Node/Ruby应用性能瓶颈，使用AI Agent辅助移植热点代码到Rust，无需完全重写。结合性能优化与AI编程助手的实用工具。",
+    "topic": "代码优化,AI ",
+    "heat": 60,
+    "url": "https://github.com/EL4CTEO/fast-anything",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-21T14:40:27.000Z",
+    "keys": [
+     "github.com/el4cteo/fast-anything"
+    ]
+   },
+   {
+    "title": "YouTube AI视频编辑系统",
+    "sum": "利用AI自动完成视频故事板生成、素材捕获和动画制作的编辑工作流。为内容创作者提供端到端的AI视频编辑方案。",
+    "topic": "视频生成,AI创",
+    "heat": 55,
+    "url": "https://github.com/praseesh369/youtube-ai-video-editing-system",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-21T17:21:17.000Z",
+    "keys": [
+     "github.com/praseesh369/youtube-ai-video-editing-system"
+    ]
+   },
+   {
+    "title": "Pandex：欧盟AI法规的Agent工具",
+    "sum": "基于MCP协议实现欧盟AI监管法规的Agent工具，帮助AI开发者遵守相关法律要求。将复杂法规转化为AI可用的能力接口。",
+    "topic": "Agent,MC",
+    "heat": 54,
+    "url": "https://www.pandex.io",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50593481",
+    "publishedAt": "2026-11-21T20:47:41.000Z",
+    "keys": [
+     "pandex.io"
+    ]
+   },
+   {
+    "title": "AI App Builder：Prompt生成全栈应用",
+    "sum": "通过AI Prompt自动生成完整的Next.js应用，包含托管、数据库、认证和多租户功能。降低全栈开发门槛的AI工具。",
+    "topic": "代码生成,LLM",
+    "heat": 52,
+    "url": "https://github.com/lebrowndnasty-hash/ai-app-builder",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-21T13:01:04.000Z",
+    "keys": [
+     "github.com/lebrowndnasty-hash/ai-app-builder"
+    ]
+   },
+   {
+    "title": "Claude Prompt Studio：结构化提示编辑器",
+    "sum": "为Claude提供专门的桌面Prompt工程环境，支持结构化设计和管理复杂Prompt。提高专业AI使用者的工作效率。",
+    "topic": "Prompt工程",
+    "heat": 51,
+    "url": "https://github.com/rcgaming265-afk/claude-prompt-studio",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-21T13:18:28.000Z",
+    "keys": [
+     "github.com/rcgaming265-afk/claude-prompt-studio"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "VODA：3D高斯体积监督分割方法",
+    "sum": "提出3D高斯溅射分割的新监督方法，通过体积级监督而非仅渲染视图来改进对遮挡区域的学习。解决现有方法在3D-2D不匹配导致的分割不完整问题。",
+    "topic": "3D重建,分割,",
+    "heat": 53,
+    "url": "https://huggingface.co/papers/2611.21383",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-15T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.21383"
+    ]
+   },
+   {
+    "title": "AI证明黎曼猜想的Lean验证正式确认",
+    "sum": "Lean和Mathlib社区正式确认Levent Alpöge的黎曼猜想证明无误，1700万行代码已通过数十位独立验证者检查，远早于Terence Tao的2050年预期。",
+    "topic": "数学证明,AI应",
+    "heat": 51,
+    "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-22T11:08:31.000Z",
+    "keys": [
+     "the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct"
+    ]
+   },
+   {
+    "title": "HiUni：统一视觉理解与生成模型",
+    "sum": "提出在共享视觉空间中统一视觉理解和生成任务的多模态模型，直接扩展预训练VLM而非分离表示。实现真正的端到端多模态统一框架。",
+    "topic": "多模态,生成模型",
+    "heat": 49,
+    "url": "https://huggingface.co/papers/2611.26107",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-18T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.26107"
+    ]
+   },
+   {
+    "title": "EgoCaptioner：第一人称视频细粒度字幕生成",
+    "sum": "针对第一人称视频字幕的MLLM方法，改进动作捕捉的精确性和时序准确性。提出新的字幕格式结合详细描述与精确时间戳。",
+    "topic": "视频理解,字幕生",
+    "heat": 48,
+    "url": "https://huggingface.co/papers/2611.26380",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-18T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.26380"
+    ]
+   },
+   {
+    "title": "TuringSpace：用验证码测试MLLM空间推理",
+    "sum": "通过交互式验证码任务测试多模态模型的3D空间推理能力，要求模型预测动作结果并迭代修正。评测MLLM在真实空间交互中的能力。",
+    "topic": "空间推理,MLL",
+    "heat": 48,
+    "url": "https://huggingface.co/papers/2611.25387",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-18T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.25387"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 0,
+  "co": 7,
+  "prod": 12,
+  "paper": 16
+ }
+}
