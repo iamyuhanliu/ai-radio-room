@@ -1,0 +1,305 @@
+{
+ "date": "2026-11-23",
+ "generatedAt": "2026-11-23T16:13:41.846Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@emollick：LLM数学能力被低估",
+    "sum": "指出AI话题中\"LLM数学能力\"常被忽视其重要性——这是最近才实现的突破性进展，不应视为理所当然。1.4K赞热度高。",
+    "topic": "推理模型,数学能",
+    "heat": 65,
+    "url": "https://x.com/emollick/status/2124721500821623181",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2124721500821623181",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-23T04:27:35.000Z",
+    "keys": [
+     "x.com/emollick/status/2124721500821623181"
+    ]
+   },
+   {
+    "title": "@jeremyphoward：解决难题才能发现限制",
+    "sum": "主张\"软件已解决\"的观点不够大胆，只有尝试突破已有成就才能清晰看到技术限制和机遇。1K赞反映AI从业者共鸣。",
+    "topic": "AI哲学,技术突",
+    "heat": 59,
+    "url": "https://x.com/jeremyphoward/status/2124697969547182326",
+    "source": "X · @jeremyphoward",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2124697969547182326",
+     "handle": "jeremyphoward",
+     "name": "Jeremy Howard"
+    },
+    "publishedAt": "2026-11-23T02:54:05.000Z",
+    "keys": [
+     "x.com/jeremyphoward/status/2124697969547182326"
+    ]
+   },
+   {
+    "title": "@levelsio：AI垃圾邮件网络遭Tor攻击",
+    "sum": "分享在揭露X平台AI垃圾邮件网络后遭遇大规模Tor攻击，反映AI生成内容滥用和平台治理的现实压力。898赞热议。",
+    "topic": "平台治理,垃圾内",
+    "heat": 59,
+    "url": "https://x.com/levelsio/status/2124806688947781738",
+    "source": "X · @levelsio",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2124806688947781738",
+     "handle": "levelsio",
+     "name": "@levelsio"
+    },
+    "publishedAt": "2026-11-23T10:06:06.000Z",
+    "keys": [
+     "x.com/levelsio/status/2124806688947781738"
+    ]
+   },
+   {
+    "title": "AI对气候变化成灾难性影响",
+    "sum": "讨论AI计算密集导致的能源消耗和环保问题。132点赞、61条评论，反映对AI可持续发展的关切。",
+    "topic": "能耗,环保,可持",
+    "heat": 56,
+    "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50598961",
+    "publishedAt": "2026-11-22T12:19:46.000Z",
+    "keys": [
+     "bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the"
+    ]
+   },
+   {
+    "title": "@rauchg：Gemini Neon超Opus的个人评测",
+    "sum": "通过Fable分析编码会话数据，让模型对比Opus和Gemini Neon性能。结果倾向Neon，作者认为Google的复兴被严重低估，提供了实际用户的一手对比视角。",
+    "topic": "模型对比",
+    "heat": 54,
+    "url": "https://x.com/rauchg/status/2124880074168242369",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2124880074168242369",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-11-23T14:57:42.000Z",
+    "keys": [
+     "x.com/rauchg/status/2124880074168242369"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "黄仁勋重返Nvidia首席执行官职位",
+    "sum": "Nvidia董事会一致投票恢复黄仁勋的CEO身份，称董事会已对黄仁勋的坦诚和领导能力感到满意。这是黄仁勋离职约两周后的重大人事变动。",
+    "topic": "人事变动",
+    "heat": 55,
+    "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+    "source": "The Verge",
+    "alsoBy": [],
+    "publishedAt": "2026-11-23T14:04:24.000Z",
+    "keys": [
+     "theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
+    ]
+   },
+   {
+    "title": "英伟达宣布黄仁勋重返CEO职位",
+    "sum": "英伟达正式宣布黄仁勋重新担任CEO，获得美国政府高层支持。这一人事重大调整影响全球AI芯片产业格局和英伟达战略方向。",
+    "topic": "人事变动",
+    "heat": 53,
+    "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+    "source": "TechCrunch",
+    "alsoBy": [],
+    "publishedAt": "2026-11-23T14:21:59.000Z",
+    "keys": [
+     "techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo"
+    ]
+   },
+   {
+    "title": "特朗普支持黄仁勋返回英伟达CEO",
+    "sum": "美国总统特朗普公开支持黄仁勋回任英伟达CEO，声称美国没有不当行为证据。这是英伟达高管人事变动的重大转折，涉及AI芯片产业领导。",
+    "topic": "人事变动",
+    "heat": 51,
+    "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+    "source": "TechCrunch",
+    "alsoBy": [],
+    "publishedAt": "2026-11-23T15:04:01.000Z",
+    "keys": [
+     "techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing"
+    ]
+   },
+   {
+    "title": "美国情报部门跟踪Nvidia高管与中国关系一年",
+    "sum": "美国情报机构追踪Alice Huang与中国国安部的接触超过一年，同时调查一个东南亚公司网络涉嫌违反AI芯片出口管制的违法活动。案件涉及黄仁勋个人生活与国家安全交集。",
+    "topic": "芯片管制",
+    "heat": 51,
+    "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-23T13:45:32.000Z",
+    "keys": [
+     "the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year"
+    ]
+   },
+   {
+    "title": "Sierra融资17.5亿美元，估值升至300亿",
+    "sum": "AI客户体验公司Sierra完成F轮融资1.75亿美元，6个月内估值翻倍至300亿美元。反映AI在企业客户服务领域需求旺盛，融资热度高。",
+    "topic": "融资",
+    "heat": 49,
+    "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "source": "TechCrunch",
+    "alsoBy": [],
+    "publishedAt": "2026-11-23T14:43:03.000Z",
+    "keys": [
+     "techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "本地运行AI的初学者指南",
+    "sum": "介绍如何使用Inkling、Qwen和Unsloth在本地运行AI模型，帮助开发者快速上手本地AI部署。657个点赞和267条评论显示社区高度关注。",
+    "topic": "本地推理,开源模",
+    "heat": 82,
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50603845",
+    "publishedAt": "2026-11-22T21:01:16.000Z",
+    "keys": [
+     "gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+    ]
+   },
+   {
+    "title": "Show HN：LLM子代理游戏",
+    "sum": "开发者创意产品：用户扮演LLM的子代理角色完成任务的游戏。351点赞、84条评论，展示AI游戏应用的创新方向。",
+    "topic": "Agent,游戏",
+    "heat": 68,
+    "url": "https://github.com/gulivan/worker755",
+    "source": "Show HN",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50599762",
+    "publishedAt": "2026-11-22T13:56:58.000Z",
+    "keys": [
+     "github.com/gulivan/worker755"
+    ]
+   },
+   {
+    "title": "agy-fast：MCP加速器插件",
+    "sum": "非侵入式MCP加速插件，可减少LLM轮次34%、token配额31%、上传流量40%，对多种IDE/CLI/桌面工具兼容。757星高热度。",
+    "topic": "开发工具,效率优",
+    "heat": 66,
+    "url": "https://github.com/INK-Q/agy-fast",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-19T04:58:46.000Z",
+    "keys": [
+     "github.com/ink-q/agy-fast"
+    ]
+   },
+   {
+    "title": "Agent群集尝试求解P vs NP问题",
+    "sum": "利用多个Agent协作探索P vs NP这一计算机科学难题，展示Agent群集的问题求解潜力。160点赞、147条评论热烈讨论。",
+    "topic": "Agent,多A",
+    "heat": 62,
+    "url": "https://pequalnp.com/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50604314",
+    "publishedAt": "2026-11-22T21:53:45.000Z",
+    "keys": [
+     "pequalnp.com"
+    ]
+   },
+   {
+    "title": "PiBot：本地多Agent桌面应用",
+    "sum": "开源的本地优先AI Agent团队应用，支持多Agent群聊、计算机控制、浏览器、MCP等功能，跨macOS/Windows/Linux/Android平台。结合实际使用场景，降低用户依赖云端的需求。",
+    "topic": "Agent应用",
+    "heat": 61,
+    "url": "https://github.com/w01fb0ss/PiBot",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-21T06:54:24.000Z",
+    "keys": [
+     "github.com/w01fb0ss/pibot"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "GLM-5.4：首个循环变换器编码模型",
+    "sum": "清华发布GLM-5.4模型，采用循环变换器架构支持通用编码任务。技术创新性强，社区热度高（650点赞、244条评论）。",
+    "topic": "编码助手,大模型",
+    "heat": 81,
+    "url": "https://z.ai/blog/glm-5.4",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50609685",
+    "publishedAt": "2026-11-23T10:06:43.000Z",
+    "keys": [
+     "z.ai/blog/glm-5.4"
+    ]
+   },
+   {
+    "title": "语言模型自我改写权重",
+    "sum": "首次证明LLM能通过自身推理无需梯度/训练就改写自己权重以自我改进。突破性发现挑战传统训练范式。",
+    "topic": "模型自修改,推理",
+    "heat": 64,
+    "url": "https://huggingface.co/papers/2611.21885",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-15T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.21885"
+    ]
+   },
+   {
+    "title": "cmHC：超连接流混合优化方法",
+    "sum": "提出在Birkhoff多面体约束下优化残差流混合的新方法，解决深度神经网络中的流混合权衡问题，对模型稳定性有指导意义。",
+    "topic": "神经网络,架构优",
+    "heat": 59,
+    "url": "https://huggingface.co/papers/2611.27193",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-19T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.27193"
+    ]
+   },
+   {
+    "title": "NoPeBench：防止物体穿透的世界模型",
+    "sum": "新基准测试评估视频世界模型在物理约束下的表现，发现现有模型难以防止对象穿透，但已能编码相关信息。对embodied AI有参考意义。",
+    "topic": "世界模型,物理模",
+    "heat": 58,
+    "url": "https://huggingface.co/papers/2611.27963",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-19T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.27963"
+    ]
+   },
+   {
+    "title": "MemOnce：LLM可扩展内存架构",
+    "sum": "提出新的内存架构解决LLM长上下文推理中的显存线性增长和计算复杂度二次增长问题。通过压缩历史为固定大小状态，兼顾长序列处理能力和计算效率，对实际部署有指导意义。",
+    "topic": "长上下文",
+    "heat": 57,
+    "url": "https://huggingface.co/papers/2611.27973",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-19T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.27973"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 8,
+  "co": 7,
+  "prod": 15,
+  "paper": 24
+ }
+}
