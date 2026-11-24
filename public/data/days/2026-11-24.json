@@ -1,0 +1,309 @@
+{
+ "date": "2026-11-24",
+ "generatedAt": "2026-11-24T16:01:53.406Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@网友：Dario夸大风险是为让开源模型违法",
+    "sum": "HN讨论帖批评Anthropic CEO Dario Amodei夸大AI风险，目的是通过监管让开源模型非法化从而垄断市场。反映对大模型公司策略和行业竞争的担忧。",
+    "topic": "开源模型,监管",
+    "heat": 81,
+    "url": "https://twitter.com/ylecun/status/2124550037912920090",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50615308",
+    "publishedAt": "2026-11-23T17:07:26.000Z",
+    "keys": [
+     "twitter.com/ylecun/status/2124550037912920090"
+    ]
+   },
+   {
+    "title": "@amasad：讨论美国AI领导力和开源模型竞争",
+    "sum": "Replit CEO阐述与副总统讨论开源AI模型的重要性，认为盟国倾向中国开源模型，美国需构建竞争性模型生态以赢得全球AI竞争。",
+    "topic": "开源模型,政策",
+    "heat": 66,
+    "url": "https://x.com/amasad/status/2125008810041610359",
+    "source": "X · @amasad",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125008810041610359",
+     "handle": "amasad",
+     "name": "Amjad Masad"
+    },
+    "publishedAt": "2026-11-23T23:29:15.000Z",
+    "keys": [
+     "x.com/amasad/status/2125008810041610359"
+    ]
+   },
+   {
+    "title": "@网友：LLM Agent只为母公司工作",
+    "sum": "HN讨论探讨LLM代理的激励机制问题，认为这些系统被设计为优先服务其开发公司而非用户。涉及AI系统对齐和商业模式的深层思考。",
+    "topic": "Agent,AI",
+    "heat": 65,
+    "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50627340",
+    "publishedAt": "2026-11-24T12:40:15.000Z",
+    "keys": [
+     "michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you"
+    ]
+   },
+   {
+    "title": "@emollick：Agent群体破解P=NP的有趣尝试",
+    "sum": "网友分享AI Agent群体尝试破解P=NP问题的项目，趣味展示了多Agent协作的应用前景和极端目标追求。",
+    "topic": "Agent,多A",
+    "heat": 62,
+    "url": "https://x.com/emollick/status/2125110318665793740",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125110318665793740",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-24T06:12:37.000Z",
+    "keys": [
+     "x.com/emollick/status/2125110318665793740"
+    ]
+   },
+   {
+    "title": "@kentcdodds：大型实验室在蚕食软件工厂产品",
+    "sum": "开发者Kent C. Dodds观察到大型AI实验室通过其模型和工具直接竞争和替代独立软件工具产品，反映AI能力下沉带来的产业格局变化。",
+    "topic": "AI产业化",
+    "heat": 61,
+    "url": "https://x.com/kentcdodds/status/2124997384254165473",
+    "source": "X · @kentcdodds",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2124997384254165473",
+     "handle": "kentcdodds",
+     "name": "Kent C. Dodds 🐨"
+    },
+    "publishedAt": "2026-11-23T22:43:51.000Z",
+    "keys": [
+     "x.com/kentcdodds/status/2124997384254165473"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "@thsottiaux：ChatGPT即将推出质量跳跃式提升",
+    "sum": "OpenAI官员宣布ChatGPT将推出显著质量改进，同时简化应用、加快速度、融合聊天和工作功能，预计年底前实现显著体验提升。",
+    "topic": "ChatGPT,",
+    "heat": 76,
+    "url": "https://x.com/thsottiaux/status/2124998553856844186",
+    "source": "X · @thsottiaux",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2124998553856844186",
+     "handle": "thsottiaux",
+     "name": "Tibo"
+    },
+    "publishedAt": "2026-11-23T22:48:30.000Z",
+    "keys": [
+     "x.com/thsottiaux/status/2124998553856844186"
+    ]
+   },
+   {
+    "title": "@OfficialLoganK：Gemini 4 Neon推出至Workspace",
+    "sum": "Google推出Gemini 4 Neon至GoogleWorkspace客户的Gemini App，这是Google在工作场景AI助手的最新进展。",
+    "topic": "Gemini,生",
+    "heat": 62,
+    "url": "https://x.com/OfficialLoganK/status/2125018427790344654",
+    "source": "X · @OfficialLoganK",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125018427790344654",
+     "handle": "OfficialLoganK",
+     "name": "Logan Kilpatrick"
+    },
+    "publishedAt": "2026-11-24T00:07:28.000Z",
+    "keys": [
+     "x.com/officiallogank/status/2125018427790344654"
+    ]
+   },
+   {
+    "title": "Anthropic盘前股价跌破IPO价格",
+    "sum": "Anthropic上市后股价跌至IPO价格下方，反映市场对公司的调整预期。",
+    "topic": "融资,股市",
+    "heat": 59,
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50627836",
+    "publishedAt": "2026-11-24T13:23:47.000Z",
+    "keys": [
+     "bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+    ]
+   },
+   {
+    "title": "英伟达董事会重新任命黄仁勋为CEO",
+    "sum": "英伟达董事会恢复黄仁勋担任总裁、CEO和董事长职务。这一决定在两周内发生逆转，反映出AI芯片巨头对其创始人领导力的重新评估。",
+    "topic": "企业动态,芯片",
+    "heat": 55,
+    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+    "source": "Ars Technica",
+    "alsoBy": [],
+    "publishedAt": "2026-11-23T15:46:18.000Z",
+    "keys": [
+     "arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair"
+    ]
+   },
+   {
+    "title": "亚马逊75亿美元收购Decart优化AI芯片效能",
+    "sum": "亚马逊以75亿美元收购AI芯片优化公司Decart，以提升自研Trainium芯片的效率，缩小与英伟达的差距。这反映了云厂商在AI芯片自主研发竞赛中的加码投入。",
+    "topic": "芯片,并购",
+    "heat": 51,
+    "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+    "source": "TechCrunch",
+    "alsoBy": [],
+    "publishedAt": "2026-11-24T15:51:07.000Z",
+    "keys": [
+     "techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "AI Agent攻击检测规则库开源",
+    "sum": "开源项目提供11种AI Agent框架的检测规则和IOCs，支持Sentinel、YARA等多个安全工具，涵盖恶意Agent框架检测，对AI安全防御具有实用价值。",
+    "topic": "Agent安全,",
+    "heat": 65,
+    "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-20T00:06:24.000Z",
+    "keys": [
+     "github.com/threatdefence/agentic-attack-detections"
+    ]
+   },
+   {
+    "title": "Safe-Anything：Rust编写的快速漏洞扫描器",
+    "sum": "纯Rust实现的漏洞扫描工具，支持XSS、SQL注入、密钥泄露、依赖CVE和AI Agent配置检测，强调性能和AI安全检测能力。",
+    "topic": "代码安全,漏洞扫",
+    "heat": 62,
+    "url": "https://github.com/erkamyaman/safe-anything",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-22T16:44:10.000Z",
+    "keys": [
+     "github.com/erkamyaman/safe-anything"
+    ]
+   },
+   {
+    "title": "KuroCat：开源桌面打字猫伴侣应用",
+    "sum": "基于Tauri v2和Rust的轻量级开源应用，支持多平台，集成MCP和AI功能，提供桌面宠物、OBS直播源等特性。",
+    "topic": "开源应用,桌面工",
+    "heat": 55,
+    "url": "https://github.com/qianyiai/kurocat",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-21T15:49:31.000Z",
+    "keys": [
+     "github.com/qianyiai/kurocat"
+    ]
+   },
+   {
+    "title": "Sprite-Stacking：像素艺术转假3D的Agent技能",
+    "sum": "GitHub开源项目实现从四视图像素艺术自动生成可旋转假3D精灵，支持多个AI代码编辑器。",
+    "topic": "开源项目,Age",
+    "heat": 54,
+    "url": "https://github.com/danielwh2/sprite-stacking",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-20T14:32:43.000Z",
+    "keys": [
+     "github.com/danielwh2/sprite-stacking"
+    ]
+   },
+   {
+    "title": "Declare：为AI设计的UI语言",
+    "sum": "新开源项目Declare是专为AI交互优化的UI语言，支持AI系统更好地理解和生成界面代码。",
+    "topic": "开发者工具,UI",
+    "heat": 51,
+    "url": "https://davidtemkin.github.io/declarelang/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50622854",
+    "publishedAt": "2026-11-24T02:36:56.000Z",
+    "keys": [
+     "davidtemkin.github.io/declarelang"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "Motion Mamba 2.0：自回归扩散模型控制人形机器人",
+    "sum": "提出Motion Mamba 2.0用Mamba架构实现长期视界的人形机器人控制，支持实时响应指令和空间目标变化，解决传统扩散模型注意力缓存和推理开销问题。",
+    "topic": "机器人,扩散模型",
+    "heat": 70,
+    "url": "https://huggingface.co/papers/2611.29897",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.29897"
+    ]
+   },
+   {
+    "title": "WorldLeague：物理代理能力基准测试",
+    "sum": "推出评估AI系统物理交互能力的基准，包括60个模拟机器人任务，测试感知、记忆、规划和行动的综合能力。",
+    "topic": "Agent,机器",
+    "heat": 57,
+    "url": "https://huggingface.co/papers/2611.30989",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.30989"
+    ]
+   },
+   {
+    "title": "Embo-Harness：前沿模型作为机器人策略的设计框架",
+    "sum": "研究如何将多模态基础模型直接作为机器人闭环控制策略，系统分析了前沿模型策略的设计原则和性能机制。",
+    "topic": "机器人,多模态模",
+    "heat": 56,
+    "url": "https://huggingface.co/papers/2611.31201",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.31201"
+    ]
+   },
+   {
+    "title": "RUIBench：机器人接口设计对模型执行的影响",
+    "sum": "研究指出机器人交互界面（RUI）设计对基础模型执行物理任务的影响被忽视。RUIBench包含30个操纵任务，系统研究不同接口设计对代理推理和执行的影响，对机器人学和具身AI具有重要意义。",
+    "topic": "机器人学,具身A",
+    "heat": 56,
+    "url": "https://huggingface.co/papers/2611.31115",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.31115"
+    ]
+   },
+   {
+    "title": "WeMM-Ecom：电商内容理解多模态模型",
+    "sum": "腾讯推出针对电商优化的多模态大模型系列，包括0.8B至35B规模，在电商和通用任务上达到业界领先水平。",
+    "topic": "多模态模型,电商",
+    "heat": 54,
+    "url": "https://huggingface.co/papers/2611.30662",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.30662"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 15,
+  "co": 19,
+  "prod": 16,
+  "paper": 21
+ }
+}
