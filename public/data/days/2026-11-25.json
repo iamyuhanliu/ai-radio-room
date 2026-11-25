@@ -1,0 +1,309 @@
+{
+ "date": "2026-11-25",
+ "generatedAt": "2026-11-25T15:50:13.395Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@提问者：被指控蒸馏如何自证",
+    "sum": "开发者遭Anthropic指控使用API进行蒸馏，但否认此指控。他解释仅用于自动化回归测试，讨论如何证明自身合规性。涉及AI API使用政策和商业合规的实际问题。",
+    "topic": "蒸馏,API策略",
+    "heat": 76,
+    "url": "https://news.ycombinator.com/item?id=50630809",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50630809",
+    "publishedAt": "2026-11-24T16:45:44.000Z",
+    "keys": [
+     "news.ycombinator.com/item?id=50630809"
+    ]
+   },
+   {
+    "title": "@amasad：主权AI成为全球AI竞争关键",
+    "sum": "分析指出美国虽然领先前沿模型但可能输掉全球AI竞赛，原因是各国政府需要可在本土部署运行的主权AI，若美企不满足需求中国企业就会。",
+    "topic": "主权AI、地缘政",
+    "heat": 68,
+    "url": "https://x.com/amasad/status/2125353849057853876",
+    "source": "X · @amasad",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125353849057853876",
+     "handle": "amasad",
+     "name": "Amjad Masad"
+    },
+    "publishedAt": "2026-11-24T22:20:19.000Z",
+    "keys": [
+     "x.com/amasad/status/2125353849057853876"
+    ]
+   },
+   {
+    "title": "@swyx：Anthropic强调人类工程师在AGI领域的重要角色",
+    "sum": "分享观点认为Anthropic最近讨论特别强调人类工程师在AGI对齐中的关键作用，涉及多Agent系统、记忆形成等1000倍难度提升的问题。",
+    "topic": "AGI对齐、多A",
+    "heat": 65,
+    "url": "https://x.com/swyx/status/2125371136943022423",
+    "source": "X · @swyx",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125371136943022423",
+     "handle": "swyx",
+     "name": "swyx"
+    },
+    "publishedAt": "2026-11-24T23:29:01.000Z",
+    "keys": [
+     "x.com/swyx/status/2125371136943022423"
+    ]
+   },
+   {
+    "title": "@emollick：前沿模型展现机器人和3D设计通用能力",
+    "sum": "观点指出最新前沿模型在机器人和3D设计等复杂问题上表现出惊人的通用能力，验证了\"苦难教训\"在AI领域的普适性。",
+    "topic": "通用能力、机器人",
+    "heat": 60,
+    "url": "https://x.com/emollick/status/2125363024169222530",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125363024169222530",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-24T22:56:46.000Z",
+    "keys": [
+     "x.com/emollick/status/2125363024169222530"
+    ]
+   },
+   {
+    "title": "@rauchg：用Agent构建终端文件浏览工具",
+    "sum": "分享用Gemini Neon和DeepSeek subagent一次性构建的终端文件浏览器，展示Agent能力在开发工具中的应用潜力。",
+    "topic": "Agent、开发",
+    "heat": 56,
+    "url": "https://x.com/rauchg/status/2125482861033824410",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125482861033824410",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-11-25T06:52:58.000Z",
+    "keys": [
+     "x.com/rauchg/status/2125482861033824410"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "GPT-6展现内在蛋白质设计能力",
+    "sum": "OpenAI发布GPT-6模型，展示了在蛋白质设计方面的内在能力。这表明最新一代大模型在生物学领域应用潜力的重要进展，对药物研发等领域意义重大。",
+    "topic": "大模型,生物计算",
+    "heat": 83,
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "source": "Hacker News",
+    "alsoBy": [
+     "OpenAI"
+    ],
+    "discussion": "https://news.ycombinator.com/item?id=50634658",
+    "publishedAt": "2026-11-24T21:02:22.000Z",
+    "keys": [
+     "openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+    ]
+   },
+   {
+    "title": "Tidal禁止AI生成音乐上传",
+    "sum": "音乐流媒体平台Tidal宣布禁止AI生成音乐，反映了音乐行业对生成式AI的抵触。这是创意产业应对AI冲击的重要动态。",
+    "topic": "音乐,生成式AI",
+    "heat": 77,
+    "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50630309",
+    "publishedAt": "2026-11-24T16:12:38.000Z",
+    "keys": [
+     "variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924"
+    ]
+   },
+   {
+    "title": "黑客AI代理发现并利用Amazon零日漏洞",
+    "sum": "亚马逊报告称黑客的AI代理(Cairn框架)以极少人工输入发现并利用零日漏洞，表明AI安全威胁升级且攻防能力差距扩大。",
+    "topic": "AI安全",
+    "heat": 49,
+    "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+    "source": "Ars Technica",
+    "alsoBy": [],
+    "publishedAt": "2026-11-24T12:30:05.000Z",
+    "keys": [
+     "arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input"
+    ]
+   },
+   {
+    "title": "AI 数据中心建设成本压力增加，Neo Cloud 面临困境",
+    "sum": "英伟达要求 AI 数据中心投资方在设施基本完成前无法获得支持，导致 Neo Cloud 等创业公司面临建设延期和融资成本上升。这反映出基础设施瓶颈正成为 AI 发展的关键限制因素。",
+    "topic": "数据中心、算力",
+    "heat": 47,
+    "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "source": "TechCrunch",
+    "alsoBy": [],
+    "publishedAt": "2026-11-25T15:41:43.000Z",
+    "keys": [
+     "techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it"
+    ]
+   },
+   {
+    "title": "Tidal宣布12月禁止AI生成音乐",
+    "sum": "音乐流媒体平台Tidal宣布12月9日起禁止AI生成音乐，将删除约2900万首AI生成歌曲，每日拒绝8-8.5万首新歌。这是继标签化和去货币化后对AI音乐的更激进立场。",
+    "topic": "AI音乐",
+    "heat": 47,
+    "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+    "source": "The Verge",
+    "alsoBy": [],
+    "publishedAt": "2026-11-24T17:17:09.000Z",
+    "keys": [
+     "theverge.com/entertainment/1041362/tidal-ai-music-ban"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "PenGPT生成变压笔画和草图",
+    "sum": "新型Transformer模型PenGPT专门用于手写和草图生成。支持笔迹合成和精确绘图控制，在创意输入和数字设计领域有应用潜力。",
+    "topic": "生成模型,手写识",
+    "heat": 70,
+    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50637056",
+    "publishedAt": "2026-11-25T00:54:49.000Z",
+    "keys": [
+     "greydanus.github.io/2026/11/12/pengpt"
+    ]
+   },
+   {
+    "title": "利用闲置算力训练本地模型引擎",
+    "sum": "新工具可在本地利用闲置计算资源训练模型。为个人和小团队降低模型训练成本，推进本地化和分布式AI开发。",
+    "topic": "开源工具,本地模",
+    "heat": 65,
+    "url": "https://github.com/sous-labs/songe",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50629231",
+    "publishedAt": "2026-11-24T15:03:40.000Z",
+    "keys": [
+     "github.com/sous-labs/songe"
+    ]
+   },
+   {
+    "title": "Papercraft：纸艺风格的Agent技能生成工具",
+    "sum": "开源项目提供Agent技能库，可自动生成手工纸艺风格的游戏、交互场景、网页和动画。展示了生成式AI在创意内容创作中的应用。",
+    "topic": "Agent、创意",
+    "heat": 61,
+    "url": "https://github.com/xikhar/papercraft",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-21T00:29:56.000Z",
+    "keys": [
+     "github.com/xikhar/papercraft"
+    ]
+   },
+   {
+    "title": "Versine通过AI助手转账和请款",
+    "sum": "YC孵化的Versine将支付集成入MCP协议，可通过对话发送和请求资金转账。结合AI Agent和支付创新，简化日常资金流转操作。",
+    "topic": "支付,Agent",
+    "heat": 60,
+    "url": "https://news.ycombinator.com/item?id=50634426",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50634426",
+    "publishedAt": "2026-11-24T20:44:15.000Z",
+    "keys": [
+     "news.ycombinator.com/item?id=50634426"
+    ]
+   },
+   {
+    "title": "agent-sim：Linux上的iOS Agent模拟器",
+    "sum": "开源项目为AI Agent提供iOS模拟环境，支持在Linux上运行。提供x86架构的Agent层模拟能力。",
+    "topic": "Agent、模拟",
+    "heat": 56,
+    "url": "https://github.com/Developing-Gamer/agent-sim",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-21T20:26:12.000Z",
+    "keys": [
+     "github.com/developing-gamer/agent-sim"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "沙箱模型间可通过推理服务器通信",
+    "sum": "研究发现沙箱隔离的AI模型能通过推理服务器进行通信，揭示模型安全隔离的潜在漏洞。对AI系统安全和隐私防护有重要启示。",
+    "topic": "模型安全,隔离,",
+    "heat": 74,
+    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50637686",
+    "publishedAt": "2026-11-25T02:34:21.000Z",
+    "keys": [
+     "lesswrong.com/posts/7wzwulp3hhyblmkfo/models-can-communicate-via-inference-servers-despite-being"
+    ]
+   },
+   {
+    "title": "支付宝蚂蚁集团推出支付基础模型Antom",
+    "sum": "蚂蚁国际发布Antom 3-in-1 Transformer，整合序列、表格和图表示的70亿参数支付基础模型，用于支付风险检测。展示行业大模型在金融场景的落地应用。",
+    "topic": "基础模型,金融,",
+    "heat": 72,
+    "url": "https://huggingface.co/papers/2611.25403",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-18T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.25403"
+    ]
+   },
+   {
+    "title": "Loom Attention让Transformer动态重连线路",
+    "sum": "提出Loom Attention机制，让Transformer在每个token动态重新配置内部线路。通过高效的线性注意力实现更灵活的信息流动，推进Transformer架构设计。",
+    "topic": "注意力机制,Tr",
+    "heat": 69,
+    "url": "https://huggingface.co/papers/2611.30634",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.30634"
+    ]
+   },
+   {
+    "title": "强化学习教AI代理基于信念行动",
+    "sum": "研究发现AI代理在长任务中存在\"懒惰\"问题，过早提交答案。提出通过可验证信念的强化学习方法教导代理根据确信度行动，改进决策质量。",
+    "topic": "强化学习,Age",
+    "heat": 69,
+    "url": "https://huggingface.co/papers/2611.32884",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-23T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.32884"
+    ]
+   },
+   {
+    "title": "计算机Agent需主动感知动态环境",
+    "sum": "研究指出基于VLM的计算机Agent在动态环境中缺乏实时感知能力。提出proactive perception方法，解决离散快照和推理延迟导致的感知-行动差距。",
+    "topic": "Agent,视觉",
+    "heat": 69,
+    "url": "https://huggingface.co/papers/2611.28947",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-20T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.28947"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 14,
+  "co": 20,
+  "prod": 8,
+  "paper": 32
+ }
+}
