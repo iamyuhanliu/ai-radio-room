@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T15:50:13.396Z",
+ "updatedAt": "2026-11-26T15:31:05.233Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -303,6 +303,22 @@
    "head": {
     "title": "GPT-6展现内在蛋白质设计能力",
     "cat": "co"
+   }
+  },
+  {
+   "date": "2026-11-26",
+   "raw": {
+    "kol": 13,
+    "co": 12,
+    "prod": 7,
+    "paper": 23
+   },
+   "total": 55,
+   "big": false,
+   "keyword": "Agent,多模",
+   "head": {
+    "title": "@karpathy：Claude用真实数据生成文明游戏地图",
+    "cat": "kol"
    }
   }
  ]

@@ -1,0 +1,333 @@
+{
+ "date": "2026-11-26",
+ "generatedAt": "2026-11-26T15:31:05.232Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@karpathy：Claude用真实数据生成文明游戏地图",
+    "sum": "Andrej Karpathy 分享用 Claude Opus 整合 31 个美国公开数据源（人口普查、能源、天气等），自动下载解析生成文明游戏风格地图。展示大模型在复杂数据处理和长链条编程中的能力，获得近 18 万点赞。",
+    "topic": "Agent,多模",
+    "heat": 91,
+    "url": "https://x.com/karpathy/status/2125779541952246039",
+    "source": "X · @karpathy",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125779541952246039",
+     "handle": "karpathy",
+     "name": "Andrej Karpathy"
+    },
+    "publishedAt": "2026-11-26T02:31:52.000Z",
+    "keys": [
+     "x.com/karpathy/status/2125779541952246039"
+    ]
+   },
+   {
+    "title": "@ThePrimeagen：Google 模型质量跃升令人震惊",
+    "sum": "知名开发者 ThePrimeagen 感慨 Google 模型性能从最差跃升至最强。反映对 Google 最新模型（如 Gemini Neon）显著进步的认可。",
+    "topic": "模型对比,Gem",
+    "heat": 67,
+    "url": "https://x.com/ThePrimeagen/status/2125818313552932976",
+    "source": "X · @ThePrimeagen",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125818313552932976",
+     "handle": "ThePrimeagen",
+     "name": "ThePrimeagen"
+    },
+    "publishedAt": "2026-11-26T05:05:56.000Z",
+    "keys": [
+     "x.com/theprimeagen/status/2125818313552932976"
+    ]
+   },
+   {
+    "title": "@levelsio：Zapier是Anthropic或OpenAI的绝佳收购目标",
+    "sum": "levelsio认为收购Zapier能让大模型公司立即集成10000+服务API接口到AI聊天和Agent应用中，大幅扩展AI应用能力的想象空间。",
+    "topic": "Agent,应用",
+    "heat": 63,
+    "url": "https://x.com/levelsio/status/2125856543690342764",
+    "source": "X · @levelsio",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125856543690342764",
+     "handle": "levelsio",
+     "name": "@levelsio"
+    },
+    "publishedAt": "2026-11-26T07:37:51.000Z",
+    "keys": [
+     "x.com/levelsio/status/2125856543690342764"
+    ]
+   },
+   {
+    "title": "@amasad：大规模软件迁移已经可行",
+    "sum": "amasad指出当能验证结果正确性时，大规模软件迁移成为可能，这对运行关键基础设施的老旧系统升级具有重要意义，反映AI在软件工程中的实际应用价值。",
+    "topic": "代码生成,实践应",
+    "heat": 60,
+    "url": "https://x.com/amasad/status/2125664998454366305",
+    "source": "X · @amasad",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125664998454366305",
+     "handle": "amasad",
+     "name": "Amjad Masad"
+    },
+    "publishedAt": "2026-11-25T18:56:43.000Z",
+    "keys": [
+     "x.com/amasad/status/2125664998454366305"
+    ]
+   },
+   {
+    "title": "@steipete：Google MCP 策略限制第三方工具",
+    "sum": "开发者质疑 Google 建立 MCP 后禁用 gog 等第三方 CLI 工具，需付费才能使用。反映对科技公司生态封闭化的担忧。",
+    "topic": "生态,开放性",
+    "heat": 57,
+    "url": "https://x.com/steipete/status/2125654555262431248",
+    "source": "X · @steipete",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125654555262431248",
+     "handle": "steipete",
+     "name": "Peter Steinberger"
+    },
+    "publishedAt": "2026-11-25T18:15:13.000Z",
+    "keys": [
+     "x.com/steipete/status/2125654555262431248"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "OpenAI 修正 GPT-6.2 账单错误，使用限额快速降低",
+    "sum": "OpenAI 承认 GPT-6.2 发布时账单折扣错误，现已修正。用户 GPT-6.2 Astra 使用限额将快 40% 达到上限，Sol 快 25%。这是重要的用户权益变更公告。",
+    "topic": "定价,模型发布",
+    "heat": 83,
+    "url": "https://x.com/thsottiaux/status/2125784147889393806",
+    "source": "X · @thsottiaux",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125784147889393806",
+     "handle": "thsottiaux",
+     "name": "Tibo"
+    },
+    "publishedAt": "2026-11-26T02:50:10.000Z",
+    "keys": [
+     "x.com/thsottiaux/status/2125784147889393806"
+    ]
+   },
+   {
+    "title": "纽约时报警告摄影师勿更新 Photoshop AI 功能",
+    "sum": "纽约时报建议摄影师不要升级 Photoshop 以避免 Adobe 新 AI 功能。涉及创作者权益和 AI 训练数据使用的争议，在开发者社区获得广泛关注。",
+    "topic": "版权,生成式AI",
+    "heat": 76,
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50647673",
+    "publishedAt": "2026-11-25T21:18:02.000Z",
+    "keys": [
+     "theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+    ]
+   },
+   {
+    "title": "Google 发布 Gemini API CLI 助力编码 Agent",
+    "sum": "Google 开源 Gemini API CLI 工具，简化编码 Agent 调用 Gemini 和其他模型的流程。降低集成门槛，推动 Agent 生态建设。",
+    "topic": "API,开发工具",
+    "heat": 64,
+    "url": "https://x.com/OfficialLoganK/status/2125681386388422775",
+    "source": "X · @OfficialLoganK",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125681386388422775",
+     "handle": "OfficialLoganK",
+     "name": "Logan Kilpatrick"
+    },
+    "publishedAt": "2026-11-25T20:01:50.000Z",
+    "keys": [
+     "x.com/officiallogank/status/2125681386388422775"
+    ]
+   },
+   {
+    "title": "Google AI Agent 使用 MCP 服务受限",
+    "sum": "Google 推出 MCP 服务器但功能受限，如 Gmail MCP 无法发送邮件。引发开发者对生态开放性的质疑。",
+    "topic": "Agent,MC",
+    "heat": 61,
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50653477",
+    "publishedAt": "2026-11-26T09:44:23.000Z",
+    "keys": [
+     "techstackups.com/articles/google-workspace-ai-agents-mcp"
+    ]
+   },
+   {
+    "title": "Vercel workflow十倍速性能提升",
+    "sum": "Vercel宣布工作流性能再次提升10倍，重点降低Agent执行间的延迟，对harness耐久性和实时交互有重大意义。",
+    "topic": "Agent,应用",
+    "heat": 53,
+    "url": "https://x.com/rauchg/status/2125685667833520237",
+    "source": "X · @rauchg",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125685667833520237",
+     "handle": "rauchg",
+     "name": "Guillermo Rauch"
+    },
+    "publishedAt": "2026-11-25T20:18:51.000Z",
+    "keys": [
+     "x.com/rauchg/status/2125685667833520237"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "Rex 支持服务器重启后程序恢复",
+    "sum": "Rex 推出基于新终端协议 OSC 7577 的程序恢复功能。任意程序都能跨服务器重启恢复运行状态，不限于编程 Agent，实用性强。",
+    "topic": "开发工具,Age",
+    "heat": 68,
+    "url": "https://x.com/mitchellh/status/2125713695233970521",
+    "source": "X · @mitchellh",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125713695233970521",
+     "handle": "mitchellh",
+     "name": "Mitchell Hashimoto"
+    },
+    "publishedAt": "2026-11-25T22:10:13.000Z",
+    "keys": [
+     "x.com/mitchellh/status/2125713695233970521"
+    ]
+   },
+   {
+    "title": "OpenGame：AI游戏开发工作室框架",
+    "sum": "GitHub项目，提供Unity和Unreal级别的AI Agent游戏开发平台，集成20+编码Agent（Claude、DeepSeek等），支持100+游戏模版混搭和多平台发布，降低AI游戏开发门槛。",
+    "topic": "Agent,游戏",
+    "heat": 61,
+    "url": "https://github.com/nexu-io/opengame",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-25T10:35:45.000Z",
+    "keys": [
+     "github.com/nexu-io/opengame"
+    ]
+   },
+   {
+    "title": "Inkworks：Agent交互式3D工程说明图",
+    "sum": "GitHub项目，提供Agent技能模块生成交互式3D工程设计图纸，支持how-it-works类型的可视化内容创作。",
+    "topic": "Agent,3D",
+    "heat": 52,
+    "url": "https://github.com/Moh4696/inkworks-skill",
+    "source": "GitHub",
+    "alsoBy": [],
+    "publishedAt": "2026-11-25T09:26:33.000Z",
+    "keys": [
+     "github.com/moh4696/inkworks-skill"
+    ]
+   },
+   {
+    "title": "Persistent Agent：企业级持久化智能体框架",
+    "sum": "开源项目，基于持久化智能体为企业提供\"商业直觉\"基础，支持主动性、记忆、业务剧本和企业连接器等功能，可部署在 MDA 平台上。",
+    "topic": "Agent,开源",
+    "heat": 33,
+    "url": "https://x.com/hwchase17/status/2125657197170610657",
+    "source": "X · @hwchase17",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125657197170610657",
+     "handle": "hwchase17",
+     "name": "Harrison Chase"
+    },
+    "publishedAt": "2026-11-25T18:25:43.000Z",
+    "keys": [
+     "x.com/hwchase17/status/2125657197170610657"
+    ]
+   },
+   {
+    "title": "Llama.cpp 基准测试仪表板发布",
+    "sum": "Hugging Face 发布 llama.cpp 在 AMD Ryzen 和 Radeon 上的性能基准测试工具，帮助开发者评估大模型在 AMD 硬件上的推理效率。",
+    "topic": "推理优化,硬件加",
+    "heat": 30,
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "source": "Hugging Face",
+    "alsoBy": [],
+    "publishedAt": "2026-11-26T11:37:17.000Z",
+    "keys": [
+     "huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "Anthropic 发布更短的 GRH Lean 验证",
+    "sum": "Anthropic 推出更简洁版本的 GRH Lean 形式化验证。代表在自动化定理证明和形式验证领域的最新进展。",
+    "topic": "形式化验证,推理",
+    "heat": 76,
+    "url": "https://github.com/lsernau/grh-lean",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50648050",
+    "publishedAt": "2026-11-25T21:48:10.000Z",
+    "keys": [
+     "github.com/lsernau/grh-lean"
+    ]
+   },
+   {
+    "title": "Real2SimLab：统一的真实到模拟转移平台",
+    "sum": "提出统一评估框架用于现实观测到仿真程序的转移。整合多个基准测试的评分流程，为编码 Agent 评估提供标准化方案。",
+    "topic": "Agent,仿真",
+    "heat": 71,
+    "url": "https://huggingface.co/papers/2611.34849",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-24T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.34849"
+    ]
+   },
+   {
+    "title": "Sage-Med：医学多模态模型扩展规律研究",
+    "sum": "系统研究医学多模态大模型的缩放规律。发现现有医学 MLLM 视觉能力不足，提出改进方案。对医疗 AI 应用具有重要参考价值。",
+    "topic": "医疗AI,多模态",
+    "heat": 68,
+    "url": "https://huggingface.co/papers/2611.34575",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-24T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.34575"
+    ]
+   },
+   {
+    "title": "VibeVideoAgent：编程驱动视频生成的闭环反馈",
+    "sum": "提出闭环反馈系统让编码 Agent 编写和运行渲染程序生成视频。支持文字、数据可视化和多镜头场景，编辑灵活性高。",
+    "topic": "Agent,视频",
+    "heat": 61,
+    "url": "https://huggingface.co/papers/2611.34237",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-24T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.34237"
+    ]
+   },
+   {
+    "title": "Mixture-of-Loops Transformer：增强表达能力",
+    "sum": "提出混合循环注意力机制重用键值作为跨深度和循环的选择性记忆。平衡 Transformer 循环的表达能力和计算效率。",
+    "topic": "Transfor",
+    "heat": 59,
+    "url": "https://huggingface.co/papers/2611.34923",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-24T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.34923"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 13,
+  "co": 12,
+  "prod": 7,
+  "paper": 23
+ }
+}
