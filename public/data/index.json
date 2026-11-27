@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T15:31:05.233Z",
+ "updatedAt": "2026-11-27T15:20:44.917Z",
  "days": [
   {
    "date": "2026-09-30",
@@ -319,6 +319,22 @@
    "head": {
     "title": "@karpathy：Claude用真实数据生成文明游戏地图",
     "cat": "kol"
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "raw": {
+    "kol": 14,
+    "co": 8,
+    "prod": 12,
+    "paper": 19
+   },
+   "total": 53,
+   "big": false,
+   "keyword": "自部署",
+   "head": {
+    "title": "AI 自部署应用变得更有趣",
+    "cat": "prod"
    }
   }
  ]

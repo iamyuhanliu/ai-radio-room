@@ -1,0 +1,310 @@
+{
+ "date": "2026-11-27",
+ "generatedAt": "2026-11-27T15:20:44.916Z",
+ "items": {
+  "kol": [
+   {
+    "title": "@levelsio：AI 时代企业生存危机",
+    "sum": "创业者观点：许多传统业务在 AI 时代已失去存在理由，企业和个人需要重新思考定位。反映了 AI 对商业模式的根本性冲击。",
+    "topic": "AGI",
+    "heat": 67,
+    "url": "https://x.com/levelsio/status/2125899647336272276",
+    "source": "X · @levelsio",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125899647336272276",
+     "handle": "levelsio",
+     "name": "@levelsio"
+    },
+    "publishedAt": "2026-11-26T10:29:07.000Z",
+    "keys": [
+     "x.com/levelsio/status/2125899647336272276"
+    ]
+   },
+   {
+    "title": "@levelsio：打击AI垃圾回复取得成效",
+    "sum": "开发者通过blockedforaireply.com项目识别和标记AI垃圾账户，已让500+账户被封禁，误判率仅0.1%。反映了社区对AI滥用问题的实际解决尝试和效果验证。",
+    "topic": "AI滥用",
+    "heat": 64,
+    "url": "https://x.com/levelsio/status/2125923307002470407",
+    "source": "X · @levelsio",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125923307002470407",
+     "handle": "levelsio",
+     "name": "@levelsio"
+    },
+    "publishedAt": "2026-11-26T12:03:08.000Z",
+    "keys": [
+     "x.com/levelsio/status/2125923307002470407"
+    ]
+   },
+   {
+    "title": "Claude 在某些任务上表现异常",
+    "sum": "讨论 Claude 在 SOTA ML 研究任务中出现意外表现下降的现象。反映了大模型在特定任务上的不稳定性和应用风险。",
+    "topic": "模型性能",
+    "heat": 59,
+    "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50664325",
+    "publishedAt": "2026-11-27T08:28:08.000Z",
+    "keys": [
+     "twitter.com/realastropulse/status/2126119408997466389"
+    ]
+   },
+   {
+    "title": "@emollick：AI可解决教育医疗等领域问题",
+    "sum": "指出当前AI技术已能提供廉价的个性化帮助，可能让教育、医疗、发展等领域的难题变得可解决，但需要更多雄心壮志去实施。反映AI应用前景的思考。",
+    "topic": "AI应用",
+    "heat": 59,
+    "url": "https://x.com/emollick/status/2126142028060795261",
+    "source": "X · @emollick",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2126142028060795261",
+     "handle": "emollick",
+     "name": "Ethan Mollick"
+    },
+    "publishedAt": "2026-11-27T02:32:15.000Z",
+    "keys": [
+     "x.com/emollick/status/2126142028060795261"
+    ]
+   },
+   {
+    "title": "@levelsio：AI垃圾回复案例分析",
+    "sum": "分享AI垃圾账户的失败案例，其中模型提示词在回复中泄露。展示了当前AI滥用问题的具体表现和识别方法。",
+    "topic": "AI滥用",
+    "heat": 54,
+    "url": "https://x.com/levelsio/status/2125897366419214479",
+    "source": "X · @levelsio",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2125897366419214479",
+     "handle": "levelsio",
+     "name": "@levelsio"
+    },
+    "publishedAt": "2026-11-26T10:20:04.000Z",
+    "keys": [
+     "x.com/levelsio/status/2125897366419214479"
+    ]
+   }
+  ],
+  "co": [
+   {
+    "title": "英伟达暂停向东南亚发货应对出口管制",
+    "sum": "英伟达要求制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚发货服务器芯片，以配合美国加强对华AI芯片出口管制政策。这反映了地缘政治对AI供应链的直接冲击。",
+    "topic": "芯片、出口管制、",
+    "heat": 51,
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "source": "TechCrunch",
+    "alsoBy": [],
+    "publishedAt": "2026-11-26T20:03:54.000Z",
+    "keys": [
+     "techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia"
+    ]
+   },
+   {
+    "title": "美国FCC批准SpaceX百万卫星AI数据中心计划",
+    "sum": "FCC批准SpaceX部署最多100万颗星链卫星作为轨道AI数据中心，首次发射计划2027年、2040年完成部署。谷歌和蓝色起源也在探索空间AI基础设施。",
+    "topic": "算力、卫星、基础",
+    "heat": 50,
+    "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-26T13:41:07.000Z",
+    "keys": [
+     "the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040"
+    ]
+   },
+   {
+    "title": "英伟达暂停向东南亚四国发货服务器",
+    "sum": "英伟达指示戴尔、超微等合作伙伴停止向马来西亚等四国发货，数千B300芯片待售，东南亚数据中心融资和交易受阻。",
+    "topic": "芯片、出口管制、",
+    "heat": 49,
+    "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-26T11:21:16.000Z",
+    "keys": [
+     "the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls"
+    ]
+   },
+   {
+    "title": "42州检察长阻止Character.AI出售用户数据",
+    "sum": "美国42个州检察长联合阻止陷入破产的Character.AI公司出售210万用户的私密聊天记录。这是针对AI公司数据隐私保护的重要监管行动。",
+    "topic": "隐私、监管、破产",
+    "heat": 47,
+    "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "source": "The Verge",
+    "alsoBy": [],
+    "publishedAt": "2026-11-26T09:54:40.000Z",
+    "keys": [
+     "theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+    ]
+   },
+   {
+    "title": "中国AI公司转向谷歌Meta寻求训练数据",
+    "sum": "受OpenAI和Anthropic数据限制影响，Z.AI和Moonshot AI推迟发布新模型，转而向谷歌和Meta寻求训练数据源。反映AI竞争中数据获取的地缘政治困境。",
+    "topic": "数据、地缘政治、",
+    "heat": 47,
+    "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+    "source": "The Decoder",
+    "alsoBy": [],
+    "publishedAt": "2026-11-26T15:45:08.000Z",
+    "keys": [
+     "the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead"
+    ]
+   }
+  ],
+  "prod": [
+   {
+    "title": "AI 自部署应用变得更有趣",
+    "sum": "讨论 AI 如何让自部署和本地运行变得更便利有趣。随着开源模型和工具的完善，个人和小团队可以更容易地部署和使用 AI，这改变了自部署的体验。",
+    "topic": "自部署",
+    "heat": 84,
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50660180",
+    "publishedAt": "2026-11-26T21:47:45.000Z",
+    "keys": [
+     "janlukas.blog/posts/ai-self-hosting"
+    ]
+   },
+   {
+    "title": "AI 群聊应用：模型间的私密对话",
+    "sum": "新颖的 AI 应用让多个 AI 模型能在群聊中相互交流，提供了独特的交互体验和娱乐价值。展示了 AI 应用的创意玩法。",
+    "topic": "AI 应用",
+    "heat": 72,
+    "url": "https://construct22.com/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50663595",
+    "publishedAt": "2026-11-27T06:44:34.000Z",
+    "keys": [
+     "construct22.com"
+    ]
+   },
+   {
+    "title": "@mitchellh：Rex 应用上架 App Store",
+    "sum": "AI 计算机控制应用 Rex 已在 App Store 上线，需配合 Rex Server 使用。暗示完整公开版本即将发布，是 AI 应用商业化的新进展。",
+    "topic": "Agent 应用",
+    "heat": 72,
+    "url": "https://x.com/mitchellh/status/2126047712596631876",
+    "source": "X · @mitchellh",
+    "alsoBy": [],
+    "tweet": {
+     "id": "2126047712596631876",
+     "handle": "mitchellh",
+     "name": "Mitchell Hashimoto"
+    },
+    "publishedAt": "2026-11-26T20:17:29.000Z",
+    "keys": [
+     "x.com/mitchellh/status/2126047712596631876"
+    ]
+   },
+   {
+    "title": "AMD 专用 llama.cpp 分支发布",
+    "sum": "为 AMD 芯片优化的 llama.cpp fork 版本。针对 AMD GPU 的优化能让用户在 AMD 硬件上更高效地运行本地大模型推理。",
+    "topic": "推理优化",
+    "heat": 69,
+    "url": "https://devnull.land/amd-specific-llama-cpp",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50657265",
+    "publishedAt": "2026-11-26T17:11:29.000Z",
+    "keys": [
+     "devnull.land/amd-specific-llama-cpp"
+    ]
+   },
+   {
+    "title": "AI 治愈疾病追踪集合",
+    "sum": "集合展示 AI 在医疗领域的实际应用案例。反映了 AI 在医疗诊断和治疗中的真实进展和商业落地。",
+    "topic": "医疗应用",
+    "heat": 65,
+    "url": "https://diseasescuredbyai.com/",
+    "source": "Hacker News",
+    "alsoBy": [],
+    "discussion": "https://news.ycombinator.com/item?id=50657307",
+    "publishedAt": "2026-11-26T17:16:41.000Z",
+    "keys": [
+     "diseasescuredbyai.com"
+    ]
+   }
+  ],
+  "paper": [
+   {
+    "title": "OS-Omni：跨平台计算机使用 Agent 基准",
+    "sum": "首个跨平台实时 Agent 基准，评估单一 Agent 是否能执行跨 Web、移动、桌面等多个系统的长期工作流。填补现有孤立环境评测的空白。",
+    "topic": "Agent",
+    "heat": 74,
+    "url": "https://huggingface.co/papers/2611.34232",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-24T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.34232"
+    ]
+   },
+   {
+    "title": "稳定门控 DeltaNet-2：解决线性注意力训练不稳定",
+    "sum": "提出改进的线性注意力机制，通过独立的通道级擦除和写入控制解决长上下文训练中的状态不稳定问题。对高效长序列建模的改进具有实践意义。",
+    "topic": "长上下文",
+    "heat": 68,
+    "url": "https://huggingface.co/papers/2611.34051",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-24T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.34051"
+    ]
+   },
+   {
+    "title": "代码 Agent 超越视频模型的视觉推理",
+    "sum": "研究表明基于代码的 Agent 在视觉推理任务上的表现优于视频生成模型。颠覆了视觉原生方法的优势假设，对 AI 推理范式有启示。",
+    "topic": "Agent",
+    "heat": 57,
+    "url": "https://huggingface.co/papers/2611.34813",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-24T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.34813"
+    ]
+   },
+   {
+    "title": "人类视频情景学习实现机器人规模化训练",
+    "sum": "通过人类视频演示使机器人模型学习复杂任务，解决了演示与机器人动作对齐的问题。推进机器人学习的落地应用。",
+    "topic": "机器人",
+    "heat": 55,
+    "url": "https://huggingface.co/papers/2611.28732",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-24T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.28732"
+    ]
+   },
+   {
+    "title": "时间序列预测排行榜的分辨率评估",
+    "sum": "介绍 Vernier 工具评估基础模型时间序列预测排行榜的统计分辨率。为时间序列模型基准的可靠性评估提供了新的度量方法。",
+    "topic": "时间序列",
+    "heat": 54,
+    "url": "https://huggingface.co/papers/2611.31619",
+    "source": "HF Daily Papers",
+    "alsoBy": [],
+    "publishedAt": "2026-11-22T19:00:00.000Z",
+    "keys": [
+     "huggingface.co/papers/2611.31619"
+    ]
+   }
+  ]
+ },
+ "raw": {
+  "kol": 14,
+  "co": 8,
+  "prod": 12,
+  "paper": 19
+ }
+}
